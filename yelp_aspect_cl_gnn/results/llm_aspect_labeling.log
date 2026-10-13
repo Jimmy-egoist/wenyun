@@ -1,0 +1,20 @@
+{"provider": "openai", "model": "gpt-5.6-luna", "candidates": 438, "cached": 0, "missing": 438}
+labeled=25/438 total_tokens=3027
+labeled=50/438 total_tokens=6008
+labeled=75/438 total_tokens=9259
+labeled=100/438 total_tokens=12400
+labeled=125/438 total_tokens=15383
+labeled=150/438 total_tokens=18554
+labeled=175/438 total_tokens=21585
+labeled=200/438 total_tokens=24743
+labeled=225/438 total_tokens=27879
+labeled=250/438 total_tokens=31085
+labeled=275/438 total_tokens=34357
+labeled=300/438 total_tokens=37536
+labeled=325/438 total_tokens=40529
+labeled=350/438 total_tokens=43637
+labeled=375/438 total_tokens=46530
+labeled=400/438 total_tokens=49517
+labeled=425/438 total_tokens=52824
+labeled=438/438 total_tokens=54622
+{"provider": "openai", "model": "gpt-5.6-luna", "candidate_count": 438, "cache": "outputs/llm_aspect_pair_cache.jsonl", "output": "outputs/llm_aspect_pairs.csv", "usage": {"input_tokens": 29946, "output_tokens": 24676, "total_tokens": 54622}}

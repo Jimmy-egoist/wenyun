@@ -1,0 +1,103 @@
+{
+  "setting": {
+    "task": "implicit top-K recommendation",
+    "positive_threshold": 4.0,
+    "split": "per-user temporal train/validation/test",
+    "selection_metric": "validation NDCG@10",
+    "candidate_protocol": "all 599 items; training positives filtered",
+    "num_users": 6000,
+    "num_items": 599,
+    "num_aspects": 144,
+    "train_positive_pairs": 66828,
+    "config": {
+      "embedding_dim": 64,
+      "layers": 2,
+      "epochs": 120,
+      "min_epochs": 20,
+      "patience": 15,
+      "learning_rate": 0.003,
+      "contrastive_weight": 0.1,
+      "temperature": 0.2,
+      "contrastive_batch": 1024,
+      "regularization": 0.0001,
+      "seed": 42,
+      "threads": 16
+    }
+  },
+  "graph": {
+    "num_ui_nodes": 6599,
+    "num_uia_nodes": 6743,
+    "ui_undirected_edges": 66828,
+    "user_aspect_edges": 281608,
+    "item_aspect_edges": 52884,
+    "signed_aspect_edges": 324512
+  },
+  "results": [
+    {
+      "variant": "full",
+      "model": "AspectCL-GNN",
+      "best_epoch": 120,
+      "epochs_run": 120,
+      "validation": {
+        "evaluated_users": 4610,
+        "Recall@10": 0.06832971800433839,
+        "Recall@20": 0.11409978308026031,
+        "NDCG@10": 0.03532103395901396,
+        "NDCG@20": 0.046829281011905116
+      },
+      "test": {
+        "evaluated_users": 4609,
+        "Recall@10": 0.06704274246040356,
+        "Recall@20": 0.11130397049251464,
+        "NDCG@10": 0.03275198995791293,
+        "NDCG@20": 0.043878065536775084
+      },
+      "elapsed_seconds": 68.24382066726685,
+      "checkpoint": "results/formal/best_full.pt"
+    },
+    {
+      "variant": "no_cl",
+      "model": "AspectGNN-noCL",
+      "best_epoch": 88,
+      "epochs_run": 103,
+      "validation": {
+        "evaluated_users": 4610,
+        "Recall@10": 0.18503253796095445,
+        "Recall@20": 0.30759219088937095,
+        "NDCG@10": 0.09061274405682751,
+        "NDCG@20": 0.12123091045144221
+      },
+      "test": {
+        "evaluated_users": 4609,
+        "Recall@10": 0.1774788457366023,
+        "Recall@20": 0.29941418962898675,
+        "NDCG@10": 0.088922266483211,
+        "NDCG@20": 0.11949939606933362
+      },
+      "elapsed_seconds": 54.689828395843506,
+      "checkpoint": "results/formal/best_no_cl.pt"
+    },
+    {
+      "variant": "ui_only",
+      "model": "UI-LightGCN",
+      "best_epoch": 23,
+      "epochs_run": 38,
+      "validation": {
+        "evaluated_users": 4610,
+        "Recall@10": 0.1841648590021692,
+        "Recall@20": 0.3086767895878525,
+        "NDCG@10": 0.09164271208519521,
+        "NDCG@20": 0.12281818627747325
+      },
+      "test": {
+        "evaluated_users": 4609,
+        "Recall@10": 0.17812974614883922,
+        "Recall@20": 0.30223475808201344,
+        "NDCG@10": 0.08836408053014827,
+        "NDCG@20": 0.11950542553633313
+      },
+      "elapsed_seconds": 8.758707523345947,
+      "checkpoint": "results/formal/best_ui_only.pt"
+    }
+  ]
+}

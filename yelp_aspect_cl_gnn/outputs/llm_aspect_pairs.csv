@@ -1,0 +1,439 @@
+pair_id,aspect_i,aspect_j,semantic_similarity,user_behavior_similarity,item_behavior_similarity,llm_confidence,llm_merge,llm_relation,canonical_name,llm_reason
+0,food,coffee,0.78532,0.660094,0.721633,0.99,False,related_but_distinct,food vs coffee,Coffee is a specific beverage category; users can prefer food and coffee independently.
+1,food,quality,0.692768,0.668929,0.960085,0.98,False,related_but_distinct,food vs quality,"Food is an offering category, while quality is an evaluative dimension."
+2,food,meat,0.769261,0.758137,0.932504,0.99,False,related_but_distinct,food vs meat,"Meat is a food category, not interchangeable with overall food preferences."
+3,food,delivery,0.579577,0.260841,0.53879,0.99,False,unrelated,food vs delivery,Food concerns cuisine or dishes; delivery concerns fulfillment logistics.
+4,food,seafood,0.73353,0.636501,0.728337,0.99,False,related_but_distinct,food vs seafood,Seafood is a specific food category with independently expressed preferences.
+5,food,rice,0.676257,0.679163,0.773158,0.99,False,related_but_distinct,food vs rice,"Rice is a particular food item, not equivalent to overall food preferences."
+6,food,beef,0.702126,0.676028,0.843423,0.99,False,related_but_distinct,food vs beef,"Beef is a specific food category, distinct from general food preferences."
+7,service,staff,0.721227,0.782742,0.988842,0.97,False,related_but_distinct,service vs staff,"Staff behavior contributes to service, but users can evaluate service independently."
+8,service,location,0.643263,0.772721,0.957482,0.99,False,unrelated,service vs location,Service quality and restaurant location are separate preference dimensions.
+9,service,staff suggestion,0.656212,0.432593,0.875743,0.99,False,related_but_distinct,service vs staff suggestion,"Staff suggestions are one interaction detail, not the entire service experience."
+10,service,online ordering,0.698032,0.471479,0.843707,0.99,False,related_but_distinct,service vs online ordering,Online ordering is a service channel with distinct operational preferences.
+11,service,facility,0.618527,0.120821,0.261814,0.99,False,related_but_distinct,service vs facility,Facilities affect the visit but are distinct from staff-provided service.
+12,service,business,0.721874,0.405787,0.849614,0.99,False,related_but_distinct,service vs business,Business operations are broader and distinct from customer service quality.
+13,service,office,0.708332,0.205598,0.511413,0.99,False,unrelated,service vs office,Office facilities or administration are not interchangeable with restaurant service.
+14,service,phone service,0.921945,0.339122,0.72821,0.99,False,related_but_distinct,service vs phone service,"Phone service is a specific contact channel, distinct from overall restaurant service."
+15,service,reservation,0.455721,0.623229,0.795312,0.99,False,related_but_distinct,service vs reservation,"Reservations are a booking process, while service describes the dining experience."
+16,staff,staff suggestion,0.890089,0.394836,0.878069,0.99,False,related_but_distinct,staff vs staff suggestion,"Suggestions are a specific staff behavior, not synonymous with staff overall."
+17,staff,office,0.721691,0.207678,0.52978,0.99,False,unrelated,staff vs office,Restaurant employees and office facilities or administration are separate concepts.
+18,staff,phone service,0.646708,0.328548,0.734737,0.99,False,related_but_distinct,staff vs phone service,"Phone service may involve staff, but it is a distinct interaction channel."
+19,atmosphere,room,0.514922,0.709476,0.9327,0.98,False,related_but_distinct,atmosphere vs room,Room characteristics influence atmosphere but remain independently assessable.
+20,atmosphere,view,0.614555,0.479815,0.656007,0.99,False,related_but_distinct,atmosphere vs view,A view contributes to ambience but is a distinct physical attribute.
+21,atmosphere,ice,0.492237,0.599245,0.846391,0.99,False,unrelated,atmosphere vs ice,Atmosphere and ice are unrelated restaurant preference dimensions.
+22,atmosphere,course,0.498588,0.655923,0.934022,0.99,False,unrelated,atmosphere vs course,Atmosphere concerns environment; course concerns a menu dish or meal progression.
+23,selection,quality,0.642101,0.640375,0.963361,0.99,False,related_but_distinct,selection vs quality,"Selection measures variety or availability, whereas quality evaluates the offerings."
+24,selection,table,0.601607,0.787204,0.970948,0.99,False,unrelated,selection vs table,Menu selection and table availability or preference are separate dimensions.
+25,selection,presentation,0.721073,0.411725,0.769428,0.03,False,related_but_distinct,selection,Selection concerns available options; presentation concerns visual appearance and plating.
+26,selection,product,0.568937,0.237889,0.569755,0.04,False,related_but_distinct,selection,Selection is variety or choice; product refers to the item itself or its quality.
+27,drinks,beer,0.833444,0.717096,0.873444,0.02,False,related_but_distinct,drinks,Beer is one specific beverage category within the broader drinks dimension.
+28,drinks,coffee,0.817629,0.650629,0.699865,0.02,False,related_but_distinct,drinks,Coffee is a specific beverage type and can be preferred independently of drinks generally.
+29,drinks,wine,0.727955,0.704499,0.831387,0.02,False,related_but_distinct,drinks,Wine is a distinct beverage category within drinks.
+30,drinks,cocktail,0.687981,0.6151,0.839203,0.02,False,related_but_distinct,drinks,Cocktails are a specific beverage category and distinct from general drink availability.
+31,drinks,tea,0.773034,0.518498,0.739842,0.02,False,related_but_distinct,drinks,"Tea is a specific beverage type, not interchangeable with drinks overall."
+32,drinks,cream,0.733644,0.664999,0.872922,0.01,False,related_but_distinct,drinks,"Cream is an ingredient or accompaniment, not equivalent to beverage offerings."
+33,price,deal,0.602846,0.554842,0.921309,0.04,False,related_but_distinct,price,"Deals affect perceived value, but promotions and ordinary pricing are independently preferred."
+34,price,delivery,0.657785,0.243642,0.560398,0.01,False,unrelated,price,Price and delivery are separate restaurant attributes.
+35,price,chip,0.600837,0.243746,0.552905,0.01,False,unrelated,price,"A chip is a food item or incidental term, not a pricing dimension."
+36,price,product,0.712316,0.219092,0.55986,0.02,False,related_but_distinct,price,Product quality and price are distinct dimensions diners may evaluate independently.
+37,price,combination,0.610222,0.402426,0.853067,0.03,False,related_but_distinct,price,"Combination offerings may influence value, but combinations and pricing are not interchangeable."
+38,price,business,0.649704,0.374062,0.857726,0.01,False,unrelated,price,"Business describes the establishment or operation, not its pricing."
+39,meal,menu,0.739166,0.827447,0.9797,0.02,False,related_but_distinct,meal,A menu lists offerings; a meal is the dining occasion or food serving.
+40,meal,lunch,0.766743,0.753107,0.946061,0.02,False,related_but_distinct,meal,"Lunch is a specific meal occasion, not equivalent to meals generally."
+41,meal,breakfast,0.765858,0.662347,0.671924,0.02,False,related_but_distinct,meal,Breakfast is a specific meal occasion and can be preferred independently.
+42,meal,bread,0.775113,0.768043,0.909527,0.01,False,related_but_distinct,meal,Bread may be part of a meal but is a distinct food preference.
+43,meal,dessert,0.750951,0.745774,0.905202,0.01,False,related_but_distinct,meal,"Dessert is a course or food category, distinct from meals generally."
+44,meal,vegetarian,0.744231,0.43528,0.811509,0.01,False,related_but_distinct,meal,"Vegetarian describes dietary preference, not the meal dimension itself."
+45,pizza,chicken,0.772786,0.600319,0.485522,0.01,False,related_but_distinct,pizza,"Chicken is a distinct food or topping preference, not pizza generally."
+46,pizza,burger,0.763595,0.547553,0.348112,0.01,False,related_but_distinct,pizza,Burgers and pizza are separate food categories with independently preferred offerings.
+47,pizza,sandwich,0.865844,0.527953,0.443496,0.01,False,related_but_distinct,pizza,Sandwiches are a distinct food category despite overlapping restaurant contexts.
+48,pizza,taco,0.753406,0.388897,0.188237,0.01,False,related_but_distinct,pizza,Tacos are a distinct cuisine or food category from pizza.
+49,pizza,bartender,0.525744,0.384309,0.430218,0.01,False,unrelated,pizza,"A bartender is service staff, unrelated to pizza as a food preference."
+50,pizza,shop,0.709748,0.3281,0.377076,0.01,False,related_but_distinct,pizza vs shop,Pizza is a food preference; shop describes the venue or business.
+51,pizza,burrito,0.638749,0.305063,0.176708,0.01,False,related_but_distinct,pizza vs burrito,"Both are food types, but users can independently prefer pizza or burritos."
+52,pizza,bagel,0.774622,0.142761,0.169667,0.01,False,related_but_distinct,pizza vs bagel,"Both are foods, but they represent distinct menu-item preferences."
+53,pizza,homemade,0.612875,0.366838,0.47343,0.01,False,related_but_distinct,pizza vs homemade,Pizza is a dish; homemade describes preparation style or perceived authenticity.
+54,pizza,chef,0.6216,0.375903,0.416688,0.01,False,related_but_distinct,pizza vs chef,"Pizza is a dish, while chef concerns personnel or culinary authorship."
+55,pizza,fried chicken,0.78114,0.365649,0.2574,0.01,False,related_but_distinct,pizza vs fried chicken,"Both are food preferences, but they are distinct dishes."
+56,pizza,cafe,0.684473,0.355294,0.250872,0.01,False,related_but_distinct,pizza vs cafe,Pizza is a food; cafe describes a restaurant or venue type.
+57,location,portion,0.714358,0.661094,0.947705,0.01,False,related_but_distinct,location vs portion,Location concerns geography or setting; portion concerns serving size.
+58,location,view,0.655636,0.425824,0.661923,0.01,False,related_but_distinct,location vs view,"A view may influence venue location preferences, but these are independently preferred."
+59,location,facility,0.646658,0.121776,0.278639,0.01,False,related_but_distinct,location vs facility,Location and facilities are separate restaurant attributes.
+60,location,town,0.64134,0.599893,0.934735,0.02,False,related_but_distinct,location vs town,"Town is a geographic locality, but location preferences can involve broader or different factors."
+61,location,reservation,0.479815,0.576499,0.750111,0.01,False,related_but_distinct,location vs reservation,Restaurant location and reservation preferences are behaviorally distinct.
+62,beer,coffee,0.804246,0.552495,0.512747,0.01,False,related_but_distinct,beer vs coffee,"Both are beverages, but users can independently prefer beer or coffee."
+63,beer,wine,0.764609,0.639749,0.752051,0.01,False,related_but_distinct,beer vs wine,"Both are alcoholic beverages, but beer and wine are distinct preferences."
+64,beer,ice cream,0.71733,0.4454,0.602533,0.01,False,unrelated,beer vs ice cream,They are different menu categories with no useful canonical equivalence.
+65,flavor,cuisine,0.670265,0.691223,0.879627,0.01,False,related_but_distinct,flavor vs cuisine,Flavor describes taste; cuisine describes culinary tradition or food style.
+66,flavor,ingredient,0.704505,0.235282,0.591213,0.01,False,related_but_distinct,flavor vs ingredient,"Ingredients influence flavor, but ingredient preferences are independently expressible."
+67,flavor,texture,0.821444,0.732812,0.960956,0.01,False,related_but_distinct,flavor vs texture,Flavor and texture are separate sensory dimensions.
+68,flavor,fruit,0.737252,0.422264,0.72373,0.01,False,related_but_distinct,flavor vs fruit,"Fruit can be an ingredient or flavor, but fruit preference is more specific."
+69,flavor,combination,0.664299,0.486254,0.871359,0.01,False,related_but_distinct,flavor vs combination,Flavor describes taste qualities; combination concerns pairing or composition.
+70,flavor,cream,0.733549,0.669137,0.886524,0.01,False,related_but_distinct,flavor vs cream,"Cream may provide a flavor or ingredient preference, not the entire flavor dimension."
+71,flavor,creamy,0.817698,0.600192,0.895978,0.01,False,related_but_distinct,flavor vs creamy,Flavor and creaminess represent distinct taste and texture attributes.
+72,flavor,juicy,0.656824,0.560086,0.852113,0.01,False,related_but_distinct,flavor vs juicy,"Juiciness is a texture or moisture attribute, distinct from flavor."
+73,chicken,sandwich,0.815227,0.718522,0.775985,0.01,False,related_but_distinct,chicken vs sandwich,Chicken is an ingredient or dish type; sandwich is a preparation or menu form.
+74,chicken,dog,0.578126,0.4046,0.547722,0.01,False,unrelated,chicken vs dog,Chicken is a food category here; dog has no useful equivalent restaurant aspect.
+75,chicken,steak,0.81832,0.674933,0.773804,0.01,False,related_but_distinct,chicken,"Both are meat preferences, but diners can independently prefer chicken or steak."
+76,chicken,meat,0.908988,0.740336,0.905096,0.02,False,related_but_distinct,chicken,"Chicken is a type of meat, but meat preference is broader."
+77,chicken,shrimp,0.833465,0.715998,0.797283,0.01,False,related_but_distinct,chicken,"Both are protein preferences, but poultry and shrimp are independently preferred."
+78,chicken,soup,0.869309,0.659478,0.761445,0.01,False,related_but_distinct,chicken,"Chicken can be an ingredient in soup, but soup is a dish category."
+79,chicken,seafood,0.783885,0.585754,0.653107,0.01,False,related_but_distinct,chicken,"Both concern food choices, but poultry and seafood are distinct preferences."
+80,chicken,egg,0.735787,0.629457,0.756434,0.01,False,related_but_distinct,chicken,Chicken and egg are separate food ingredients with independently expressed preferences.
+81,chicken,bbq,0.596471,0.608416,0.688824,0.01,False,related_but_distinct,chicken,Chicken is an ingredient; BBQ is a preparation style or cuisine.
+82,chicken,pork,0.892033,0.759835,0.848441,0.01,False,related_but_distinct,chicken,Chicken and pork are distinct meat preferences.
+83,chicken,rib,0.568816,0.485526,0.646131,0.01,False,related_but_distinct,chicken,"Chicken and ribs are distinct food preferences, despite possible overlap in dishes."
+84,chicken,beef,0.832514,0.68573,0.834641,0.01,False,related_but_distinct,chicken,Chicken and beef are independently preferred meat categories.
+85,chicken,sausage,0.867925,0.603139,0.735683,0.01,False,related_but_distinct,chicken,Chicken and sausage are distinct protein or dish preferences.
+86,chicken,pot,0.648187,0.435361,0.595667,0.01,False,unrelated,separate aspects,Chicken is a food preference; pot has no reliable equivalent meaning here.
+87,chicken,brisket,0.63568,0.511821,0.463038,0.01,False,related_but_distinct,chicken,Chicken and brisket are distinct meat preferences.
+88,chicken,vegetarian,0.665446,0.381183,0.782002,0.01,False,related_but_distinct,chicken,Chicken is a specific food; vegetarian describes a dietary preference that excludes it.
+89,chicken,fried chicken,0.975715,0.69162,0.689053,0.03,False,related_but_distinct,chicken,"Fried chicken is a preparation-specific subset, not interchangeable with all chicken dishes."
+90,chicken,lobster,0.752909,0.512213,0.486811,0.01,False,related_but_distinct,chicken,Chicken and lobster are distinct protein preferences.
+91,chicken,cook,0.675027,0.367665,0.736855,0.01,False,related_but_distinct,chicken,Chicken is a food; cook refers to preparation or cooking quality.
+92,menu,decor,0.620245,0.686301,0.934091,0.01,False,unrelated,separate aspects,"Menu concerns food offerings, while decor concerns restaurant atmosphere."
+93,menu,breakfast,0.701067,0.694821,0.684994,0.01,False,related_but_distinct,menu,"Breakfast may be a menu section, but menu breadth and breakfast preference differ."
+94,menu,dessert,0.738175,0.758838,0.885422,0.01,False,related_but_distinct,menu,"Dessert is a menu category, not interchangeable with the overall menu."
+95,menu,buffet,0.695941,0.304434,0.328664,0.01,False,related_but_distinct,menu,Buffet describes service format; menu describes available offerings.
+96,menu,vegetarian,0.667401,0.482422,0.820112,0.01,False,related_but_distinct,menu,"Vegetarian options are one menu attribute, not the complete menu dimension."
+97,menu,combo,0.467771,0.442729,0.785855,0.01,False,related_but_distinct,menu,"Combo describes bundled offerings, while menu refers to the broader food selection."
+98,wait time,room,0.702283,0.67217,0.905056,0.01,False,unrelated,separate aspects,Wait time concerns service speed; room concerns physical space or ambiance.
+99,wait time,deal,0.661708,0.569115,0.900248,0.01,False,unrelated,separate aspects,"Wait time concerns service speed, while deal concerns price or promotion."
+100,wait time,table,0.668753,0.836536,0.972772,0.01,False,related_but_distinct,wait time,"Tables are seating objects; wait time measures delay, and diners can prefer them independently."
+101,wait time,course,0.787248,0.638402,0.918305,0.01,False,related_but_distinct,wait time,"A course is a meal segment, while wait time measures service delay."
+102,wait time,patient,0.578859,0.287348,0.711009,0.02,False,related_but_distinct,wait time,Patience describes tolerance or demeanor; wait time describes elapsed service delay.
+103,coffee,wine,0.814136,0.532075,0.602639,0.0,False,related_but_distinct,coffee,Coffee and wine are distinct beverage categories with independently preferred offerings.
+104,coffee,tea,0.807965,0.472315,0.647131,0.0,False,related_but_distinct,coffee,Coffee and tea are separate beverage types and should remain independently selectable.
+105,coffee,fruit,0.752408,0.40297,0.758204,0.0,False,related_but_distinct,coffee,Coffee and fruit are different food or beverage categories with distinct preferences.
+106,burger,sandwich,0.726929,0.625821,0.720044,0.01,False,related_but_distinct,burger,Burgers and sandwiches overlap broadly but are distinct menu formats.
+107,burger,taco,0.729143,0.458473,0.293034,0.0,False,related_but_distinct,burger,Burgers and tacos are distinct prepared-food categories.
+108,burger,steak,0.708012,0.581877,0.605171,0.0,False,related_but_distinct,burger,Burger and steak are distinct entrees despite both commonly using beef.
+109,burger,burrito,0.557414,0.356811,0.272923,0.0,False,related_but_distinct,burger,Burgers and burritos are distinct menu items and formats.
+110,portion,facility,0.5932,0.109656,0.246752,0.0,False,unrelated,portion,Portion concerns serving quantity; facility concerns restaurant amenities or physical conditions.
+111,portion,tip,0.659262,0.455592,0.905222,0.0,False,unrelated,portion,Portion size and tipping are separate dining preferences.
+112,portion,town,0.625247,0.515902,0.933121,0.0,False,unrelated,portion,Portion concerns food quantity; town concerns location or community context.
+113,portion,reservation,0.56484,0.572124,0.800267,0.0,False,unrelated,portion,Portion size and reservations address different restaurant attributes.
+114,sandwich,sushi,0.7132,0.386015,0.181428,0.0,False,related_but_distinct,sandwich,Sandwiches and sushi are distinct cuisine or menu-item categories.
+115,sandwich,taco,0.696117,0.4448,0.283442,0.0,False,related_but_distinct,sandwich,Sandwiches and tacos are distinct food formats.
+116,sandwich,steak,0.799357,0.600258,0.660029,0.0,False,related_but_distinct,sandwich,Sandwiches and steaks are distinct entrees with independently preferred qualities.
+117,sandwich,appetizer,0.730116,0.571143,0.626873,0.0,False,related_but_distinct,sandwich,A sandwich is a specific item; an appetizer is a course or serving role.
+118,sandwich,burrito,0.558161,0.353739,0.294706,0.0,False,related_but_distinct,sandwich,Sandwiches and burritos are distinct menu formats.
+119,sandwich,bagel,0.69365,0.174149,0.368605,0.0,False,related_but_distinct,sandwich,Sandwiches and bagels overlap as bread-based foods but remain distinct items.
+120,sandwich,sausage,0.846955,0.558002,0.705115,0.0,False,related_but_distinct,sandwich,"Sandwiches and sausage are distinct food concepts, though sausage may be an ingredient."
+121,sandwich,fried chicken,0.81338,0.493348,0.51631,0.0,False,related_but_distinct,sandwich,"Sandwiches and fried chicken are distinct menu items, despite possible combination dishes."
+122,dish,appetizer,0.710782,0.64718,0.908303,0.01,False,related_but_distinct,dish,Dish is a broad item term; appetizer identifies a course category.
+123,dish,dessert,0.764109,0.721041,0.906633,0.0,False,related_but_distinct,dish,"Dish is generic, while dessert specifies a meal-course category."
+124,dish,soup,0.78444,0.658678,0.838871,0.0,False,related_but_distinct,dish,Dish is a broad food term; soup is a specific preparation category.
+125,dish,pasta,0.804966,0.607701,0.689488,0.01,False,related_but_distinct,dish,"Pasta is a dish type, but users may prefer pasta independently from dishes generally."
+126,dish,cake,0.772882,0.61596,0.837831,0.01,False,related_but_distinct,dish,"Cake is a dish or dessert type, not interchangeable with dishes broadly."
+127,lunch,breakfast,0.871305,0.673378,0.68986,0.01,False,related_but_distinct,lunch,Lunch and breakfast are distinct meal occasions with independently varying preferences.
+128,lunch,dinner,0.836884,0.791737,0.914966,0.01,False,related_but_distinct,lunch,Lunch and dinner are distinct meal occasions despite similar restaurant contexts.
+129,lunch,delivery,0.585091,0.250019,0.546597,0.005,False,unrelated,lunch,Lunch is a meal occasion; delivery is a service or ordering method.
+130,lunch,brunch,0.705784,0.659825,0.71434,0.02,False,related_but_distinct,lunch,Brunch overlaps lunch but is a distinct meal occasion and service period.
+131,lunch,buffet,0.779769,0.312425,0.356789,0.01,False,related_but_distinct,lunch,"Buffet describes service format, while lunch describes meal occasion."
+132,lunch,cook,0.677628,0.368273,0.742474,0.005,False,unrelated,lunch,Lunch is a meal occasion; cook refers to food preparation or a chef.
+133,decor,cuisine,0.563103,0.637638,0.848528,0.005,False,unrelated,decor,Decor concerns ambiance; cuisine concerns food style and culinary offerings.
+134,decor,patio,0.565446,0.381532,0.588991,0.01,False,related_but_distinct,decor,"A patio affects dining ambiance, but is distinct from decor as a preference."
+135,decor,kitchen,0.635854,0.533038,0.878222,0.01,False,related_but_distinct,decor,"Kitchen visibility or quality relates to venue setting, but differs from decor."
+136,cuisine,wine,0.681675,0.618454,0.683367,0.01,False,related_but_distinct,cuisine,"Wine accompanies cuisine, but beverage preferences differ from food-style preferences."
+137,cuisine,seafood,0.678212,0.601813,0.670285,0.01,False,related_but_distinct,cuisine,"Seafood is a cuisine or food category, not equivalent to cuisine generally."
+138,cuisine,vegetarian,0.674181,0.440799,0.757632,0.01,False,related_but_distinct,cuisine,"Vegetarian describes dietary or cuisine characteristics, independently preferred from cuisine style."
+139,breakfast,dinner,0.895906,0.658603,0.591201,0.005,False,related_but_distinct,breakfast,Breakfast and dinner are distinct meal occasions despite being restaurant dining periods.
+140,breakfast,brunch,0.80604,0.634586,0.842303,0.02,False,related_but_distinct,breakfast,Brunch overlaps breakfast but remains a distinct meal occasion.
+141,breakfast,buffet,0.875694,0.285107,0.292046,0.01,False,related_but_distinct,breakfast,"Buffet is a service format, whereas breakfast is a meal occasion."
+142,dinner,cocktail,0.660145,0.595619,0.848335,0.01,False,related_but_distinct,dinner,Cocktails are beverages; dinner is a meal occasion.
+143,dinner,brunch,0.767915,0.725248,0.690834,0.02,False,related_but_distinct,dinner,Brunch and dinner are distinct meal occasions with different timing and offerings.
+144,dinner,buffet,0.788898,0.306063,0.367276,0.01,False,related_but_distinct,dinner,"Buffet describes service format, while dinner describes meal occasion."
+145,dinner,chef,0.6331,0.505654,0.817795,0.005,False,related_but_distinct,dinner,Dinner is a meal occasion; chef concerns food preparation or personnel.
+146,room,bar,0.657909,0.715676,0.898543,0.005,False,related_but_distinct,room,"A bar may occupy part of a room, but room ambiance and bar preference differ."
+147,room,table,0.710888,0.734729,0.92967,0.005,False,related_but_distinct,room,"Tables are furnishings within a room, but seating and room ambiance are distinct."
+148,room,hotel,0.703951,0.381058,0.635122,0.005,False,related_but_distinct,room,"A hotel may contain rooms, but hotel and room preferences are distinct concepts."
+149,room,parking,0.688715,0.53721,0.854724,0.005,False,unrelated,room,Room ambiance and parking are separate restaurant attributes with independently varying preferences.
+150,room,bathroom,0.807652,0.365826,0.739207,0.98,False,related_but_distinct,room,A bathroom is a distinct room feature and user preference.
+151,room,house,0.724386,0.635176,0.899444,0.97,False,related_but_distinct,room,A house contains rooms; lodging type and room preference differ.
+152,room,bed,0.812532,0.333017,0.715457,0.99,False,related_but_distinct,room,"Beds are furnishings within rooms, not interchangeable with room preference."
+153,room,piece,0.65541,0.464909,0.864076,0.97,False,unrelated,room,“Piece” has no stable restaurant or lodging equivalence to room.
+154,room,glass,0.673543,0.570546,0.864862,0.96,False,unrelated,room,"A glass is an object, not a room-related preference dimension."
+155,room,kitchen,0.795348,0.616612,0.881646,0.98,False,related_but_distinct,room,Kitchens and rooms are separate lodging spaces with independently preferred features.
+156,room,pool,0.664614,0.257998,0.432202,0.99,False,related_but_distinct,room,Pool and room are distinct hotel amenities users may evaluate independently.
+157,room,front desk,0.783576,0.207159,0.500189,0.99,False,related_but_distinct,room,Front desk service and room quality are distinct lodging experiences.
+158,room,gym,0.70887,0.144607,0.36986,0.99,False,related_but_distinct,room,Gym and room are separate hotel amenities with independent preferences.
+159,bar,shop,0.704769,0.457378,0.51285,0.99,False,related_but_distinct,bar,A bar and shop are different venue or facility types.
+160,bar,house,0.621999,0.699517,0.901024,0.99,False,related_but_distinct,bar,A bar and house describe different places or establishment concepts.
+161,bar,cafe,0.673461,0.507315,0.493923,0.99,False,related_but_distinct,bar,Bars and cafes are distinct dining venue types.
+162,sushi,seafood,0.749227,0.360979,0.342995,0.99,False,related_but_distinct,sushi,Sushi is a specific cuisine or dish category within broader seafood.
+163,sushi,fried chicken,0.697698,0.265056,0.180697,0.99,False,unrelated,sushi,Sushi and fried chicken are distinct food categories without canonical equivalence.
+164,sushi,ramen,0.530959,0.354176,0.301561,0.99,False,related_but_distinct,sushi,Sushi and ramen are distinct Japanese food categories.
+165,sushi,lobster,0.699772,0.406042,0.358375,0.99,False,related_but_distinct,sushi,"Sushi and lobster are distinct food preferences, though both may involve seafood."
+166,quality,music,0.552053,0.426341,0.720409,0.99,False,unrelated,quality,Food or service quality and music are separate preference dimensions.
+167,quality,presentation,0.589589,0.374876,0.781132,0.98,False,related_but_distinct,quality,Presentation can influence perceived quality but remains independently evaluated.
+168,quality,product,0.786962,0.247589,0.593949,0.98,False,related_but_distinct,quality,Product quality and the product itself are distinct preference dimensions.
+169,quality,combination,0.759914,0.391288,0.853037,0.97,False,related_but_distinct,quality,"Combination concerns pairing or composition, not overall quality."
+170,quality,business,0.666276,0.360246,0.849469,0.98,False,unrelated,quality,Quality and business describe different restaurant attributes.
+171,quality,patient,0.557221,0.205405,0.693866,0.99,False,unrelated,quality,"Patient describes temperament or service behavior, not quality itself."
+172,deal,product,0.590229,0.205791,0.560273,0.99,False,related_but_distinct,deal,A deal concerns pricing or promotion; product concerns the item.
+173,deal,business,0.648264,0.312594,0.829549,0.99,False,related_but_distinct,deal,"Deals concern transactions, while business refers to the establishment or operation."
+174,dog,fish,0.641713,0.359485,0.458472,0.99,False,unrelated,dog,Dog and fish are distinct animal or menu categories.
+175,dog,meat,0.589689,0.396564,0.575859,0.99,False,unrelated,dog / meat,"Dog typically denotes pet-friendliness, while meat denotes food; these are different restaurant preference dimensions."
+176,dog,crab,0.562332,0.306981,0.374647,0.99,False,unrelated,dog / crab,"Dog and crab refer to unrelated restaurant concepts, commonly pet policy versus seafood."
+177,bread,cheese,0.810037,0.799295,0.896254,0.99,False,related_but_distinct,bread / cheese,"Both are food ingredients, but diners can independently prefer bread or cheese."
+178,bread,soup,0.837499,0.6594,0.742277,0.99,False,related_but_distinct,bread / soup,"Both are foods, but bread and soup represent independently preferred dishes."
+179,bread,vegetable,0.796036,0.376291,0.623884,0.99,False,related_but_distinct,bread / vegetable,"Both are food categories, but bread and vegetables are independently selectable preferences."
+180,bread,cake,0.820162,0.631275,0.82556,0.99,False,related_but_distinct,bread / cake,"Both are baked goods, but savory bread and sweet cake are distinct preferences."
+181,bread,potato,0.809347,0.107276,0.305818,0.99,False,related_but_distinct,bread / potato,"Both are starches, but diners can prefer bread independently from potatoes."
+182,bread,pie,0.801421,0.537753,0.694758,0.99,False,related_but_distinct,bread / pie,"Both may be baked foods, but bread and pie are distinct dish preferences."
+183,bread,pot,0.69349,0.41612,0.514325,0.98,False,unrelated,bread / pot,"Bread is food, whereas pot usually denotes cookware or cannabis; no safe equivalence exists."
+184,table,plate,0.636189,0.723867,0.939037,0.99,False,related_but_distinct,table / plate,"Both concern dining setup, but table and plate are separate physical features."
+185,table,course,0.650269,0.66679,0.937229,0.99,False,related_but_distinct,table / course,"Both relate to dining, but tables and meal courses are independently preferred concepts."
+186,table,cup,0.670213,0.521355,0.82025,0.99,False,related_but_distinct,table / cup,"Both are dining-related objects, but tables and cups represent distinct preferences."
+187,table,pool,0.691397,0.24459,0.397168,0.99,False,unrelated,table / pool,Tables and pools describe unrelated restaurant amenities or features.
+188,table,front desk,0.717421,0.183233,0.430395,0.99,False,unrelated,table / front desk,A table and front desk are distinct restaurant or hospitality features.
+189,taco,burrito,0.701791,0.305411,0.549302,0.99,False,related_but_distinct,taco / burrito,"Both are Mexican dishes, but diners can independently prefer tacos or burritos."
+190,taco,bagel,0.646724,0.134405,0.105585,0.99,False,unrelated,taco / bagel,Tacos and bagels are distinct food categories without canonical equivalence.
+191,taco,combo,0.459578,0.294949,0.381901,0.98,False,related_but_distinct,taco / combo,"A combo may include tacos, but combo meals and tacos are different preference dimensions."
+192,view,house,0.624493,0.390848,0.606881,0.98,False,unrelated,view / house,A view and a house are not interchangeable restaurant attributes.
+193,view,presentation,0.572022,0.246122,0.558173,0.99,False,related_but_distinct,view / presentation,"Both affect dining experience, but scenery and food presentation are independently preferred."
+194,view,course,0.668678,0.373248,0.633616,0.99,False,related_but_distinct,view / course,"Both relate to restaurant experience, but views and meal courses are distinct."
+195,bartender,shop,0.527165,0.268716,0.347518,0.99,False,unrelated,bartender / shop,"Bartender is a staff role, while shop denotes a retail venue or business."
+196,bartender,chef,0.641386,0.334914,0.674289,0.99,False,related_but_distinct,bartender / chef,"Both are restaurant staff roles, but beverage and kitchen service preferences differ."
+197,bartender,cafe,0.554576,0.316557,0.37659,0.99,False,unrelated,bartender / cafe,"A bartender is a staff role, whereas cafe denotes an establishment type."
+198,steak,bbq,0.581404,0.474901,0.494478,0.99,False,related_but_distinct,steak / bbq,"Both concern grilled meat, but steak and barbecue represent distinct cuisine preferences."
+199,steak,rib,0.623617,0.46212,0.683776,0.99,False,related_but_distinct,steak / rib,"Rib is a meat cut often served as steak or barbecue, but preferences remain distinct."
+200,steak,sausage,0.796958,0.473957,0.585515,0.01,False,related_but_distinct,steak vs sausage,"Both are meat dishes, but users can independently prefer steak or sausage."
+201,steak,brisket,0.652328,0.417307,0.308578,0.01,False,related_but_distinct,steak vs brisket,"Both are meats, but steak and brisket are distinct food preferences."
+202,steak,fried chicken,0.817733,0.433628,0.421298,0.01,False,related_but_distinct,steak vs fried chicken,"Both are entrees, but beef and fried chicken preferences differ."
+203,steak,juicy,0.628744,0.470677,0.714502,0.01,False,related_but_distinct,steak vs juiciness,Steak is a dish; juiciness is a preparation or quality attribute.
+204,appetizer,dessert,0.775749,0.651645,0.882881,0.01,False,related_but_distinct,appetizer vs dessert,"Both are menu courses, but savory starters and sweet finales are distinct preferences."
+205,appetizer,pasta,0.7516,0.510854,0.69821,0.01,False,related_but_distinct,appetizer vs pasta,An appetizer is a course category; pasta is a specific food type.
+206,appetizer,pedicure,0.46237,0.021556,0.037932,0.0,False,unrelated,appetizer vs pedicure,"These refer to restaurant food and a personal-care service, respectively."
+207,dessert,cocktail,0.656008,0.560822,0.835159,0.01,False,related_but_distinct,dessert vs cocktail,"Both are menu offerings, but food desserts and alcoholic drinks are distinct."
+208,dessert,margarita,0.51036,0.415595,0.486237,0.01,False,related_but_distinct,dessert vs margarita,"A margarita is a cocktail, not a dessert; users may prefer either independently."
+209,dessert,chocolate,0.810254,0.729349,0.896843,0.01,False,related_but_distinct,dessert vs chocolate,"Chocolate is an ingredient or flavor, while dessert is a broader course category."
+210,dessert,pasta,0.792937,0.570236,0.710625,0.01,False,related_but_distinct,dessert vs pasta,"Both are foods, but dessert and pasta occupy different culinary roles."
+211,dessert,cake,0.852675,0.675611,0.886059,0.01,False,related_but_distinct,dessert vs cake,"Cake is one type of dessert, not interchangeable with all desserts."
+212,dessert,guacamole,0.657332,0.439584,0.32566,0.01,False,related_but_distinct,dessert vs guacamole,"Both are food offerings, but dessert and guacamole are distinct preferences."
+213,wing,front desk,0.524335,0.053545,0.255295,0.0,False,unrelated,wing vs front desk,A wing is food; a front desk is a service or facility feature.
+214,fish,meat,0.79954,0.641614,0.770736,0.01,False,related_but_distinct,fish vs meat,Fish and meat are distinct protein categories with independently preferred options.
+215,fish,shrimp,0.798144,0.672721,0.870343,0.01,False,related_but_distinct,fish vs shrimp,Shrimp is seafood but not fish; users can prefer one independently.
+216,fish,seafood,0.753232,0.596863,0.812761,0.01,False,related_but_distinct,fish vs seafood,"Fish is one seafood category, but seafood includes shellfish and other varieties."
+217,fish,salmon,0.834023,0.51705,0.675195,0.01,False,related_but_distinct,fish vs salmon,"Salmon is a specific fish, not interchangeable with fish generally."
+218,fish,tip,0.566053,0.426973,0.769189,0.0,False,unrelated,fish vs tip,"Fish is a food; tip generally refers to gratuity, not a dish category."
+219,cheese,chocolate,0.821997,0.662516,0.79624,0.01,False,related_but_distinct,cheese vs chocolate,"Both are food ingredients or flavors, but they represent distinct preferences."
+220,cheese,mac and cheese,0.700761,0.737087,0.68182,0.01,False,related_but_distinct,cheese vs mac and cheese,Cheese is an ingredient; mac and cheese is a specific prepared dish.
+221,cheese,bacon,0.705406,0.713492,0.848794,0.01,False,related_but_distinct,cheese vs bacon,"Both are common savory ingredients, but users may prefer them independently."
+222,cheese,pie,0.783324,0.541853,0.692088,0.01,False,related_but_distinct,cheese vs pie,Cheese is an ingredient; pie is a prepared dish that may be sweet or savory.
+223,cheese,sausage,0.852609,0.61073,0.769125,0.01,False,related_but_distinct,cheese vs sausage,"Both are savory foods or ingredients, but they are distinct preference dimensions."
+224,cheese,guacamole,0.649395,0.483018,0.411496,0.01,False,related_but_distinct,cheese vs guacamole,"Both are food toppings or accompaniments, but users can prefer them independently."
+225,cheese,cream,0.819549,0.725222,0.861309,0.97,False,related_but_distinct,,Cheese and cream are distinct dairy ingredients with independently preferred flavors and uses.
+226,cheese,grits,0.710662,0.170132,0.330787,0.98,False,related_but_distinct,,"Cheese and grits are separate food components, even when served together."
+227,cheese,pastry,0.745269,0.323933,0.476712,0.99,False,related_but_distinct,,Cheese and pastry are distinct food categories and preferences.
+228,meat,ingredient,0.65322,0.233523,0.570035,0.98,False,related_but_distinct,,"Meat is an ingredient category, but ingredient preference is broader and independently meaningful."
+229,meat,seafood,0.794408,0.582273,0.675422,0.98,False,related_but_distinct,,Seafood and meat are distinct protein categories with different dietary preferences.
+230,meat,pork,0.89604,0.742799,0.86985,0.99,False,related_but_distinct,,"Pork is a specific meat type, not interchangeable with general meat preference."
+231,meat,beef,0.919906,0.694352,0.8805,0.99,False,related_but_distinct,,"Beef is a specific meat type, not equivalent to general meat preference."
+232,meat,fried chicken,0.881642,0.526811,0.555395,0.99,False,related_but_distinct,,"Fried chicken is a specific dish and preparation, distinct from general meat preference."
+233,hotel,parking,0.648381,0.289296,0.535034,0.99,False,related_but_distinct,,"Hotels may provide parking, but lodging and parking are independently preferred."
+234,hotel,shop,0.681673,0.239773,0.403851,0.99,False,related_but_distinct,,A hotel and a shop are different businesses or amenities.
+235,hotel,car,0.558156,0.198212,0.463229,0.99,False,related_but_distinct,,Hotels and cars are contextually related but represent separate preferences.
+236,hotel,neighborhood,0.659387,0.205418,0.34461,0.99,False,related_but_distinct,,Hotel quality and neighborhood preference are separate lodging considerations.
+237,hotel,town,0.62613,0.321825,0.644189,0.99,False,related_but_distinct,,A hotel and a town are different location or lodging concepts.
+238,hotel,cafe,0.715945,0.279901,0.451581,0.99,False,related_but_distinct,,"A cafe may be a hotel amenity, but cafe and hotel preferences differ."
+239,music,presentation,0.536065,0.308684,0.61172,0.99,False,related_but_distinct,,Music and presentation are entertainment elements with independently evaluable qualities.
+240,music,piece,0.625559,0.363402,0.682847,0.99,False,related_but_distinct,,"A musical piece is a specific work, while music is the broader entertainment category."
+241,music,business,0.526803,0.299034,0.702151,0.99,False,unrelated,,Music and business do not denote the same restaurant preference dimension.
+242,ingredient,vegetable,0.694588,0.166203,0.552975,0.99,False,related_but_distinct,,"Vegetables are ingredient types, but ingredient preference is broader."
+243,ingredient,fruit,0.651269,0.185001,0.484544,0.99,False,related_but_distinct,,"Fruit is an ingredient type, not interchangeable with general ingredient preference."
+244,parking,bathroom,0.622178,0.294555,0.670826,0.99,False,related_but_distinct,,Parking and bathrooms are separate restaurant facilities.
+245,parking,car,0.64223,0.38188,0.719511,0.99,False,related_but_distinct,,"Cars relate to parking, but vehicle and parking preferences are distinct."
+246,parking,facility,0.616598,0.136125,0.322734,0.99,False,related_but_distinct,,Parking is one facility type; facility preference is broader.
+247,shrimp,seafood,0.804969,0.685158,0.870108,0.99,False,related_but_distinct,,"Shrimp is a specific seafood type, not equivalent to general seafood preference."
+248,shrimp,crab,0.845723,0.712955,0.855849,0.99,False,related_but_distinct,,Shrimp and crab are distinct seafood choices with independently preferred flavors.
+249,shrimp,salmon,0.758695,0.451526,0.625498,0.99,False,related_but_distinct,,Shrimp and salmon are distinct seafood choices with different preferences.
+250,shrimp,gumbo,0.633738,0.579923,0.602553,0.02,False,related_but_distinct,shrimp,"Both are food offerings, but shrimp and gumbo represent independently preferred dishes."
+251,shrimp,calamari,0.591017,0.412347,0.556652,0.01,False,related_but_distinct,shrimp,"Both are seafood, but diners can independently prefer shrimp or calamari."
+252,shrimp,fried chicken,0.835933,0.530561,0.501724,0.01,False,unrelated,shrimp,These are distinct food categories without a useful shared preference dimension.
+253,shrimp,lobster,0.859098,0.529279,0.6263,0.01,False,related_but_distinct,shrimp,"Both are seafood, but shrimp and lobster are independently preferred menu items."
+254,delivery,chip,0.558569,0.132123,0.319743,0.01,False,unrelated,delivery,Delivery and chips describe unrelated restaurant concepts.
+255,delivery,phone service,0.590172,0.167367,0.490247,0.01,False,related_but_distinct,delivery,"Both involve customer access or communication, but delivery and phone service differ behaviorally."
+256,texture,crust,0.605388,0.537271,0.750046,0.03,False,related_but_distinct,texture,"Crust has textural properties, but crust preference is a distinct food-specific dimension."
+257,texture,fruit,0.60982,0.427333,0.729885,0.01,False,related_but_distinct,texture,"Fruit may have texture preferences, but fruit and texture are distinct aspects."
+258,texture,hair,0.59541,0.23892,0.658306,0.01,False,unrelated,texture,Texture and hair have no useful restaurant preference equivalence.
+259,texture,creamy,0.825627,0.644271,0.900085,0.04,False,related_but_distinct,texture,"Creamy describes one texture type, but users can prefer creaminess independently from texture generally."
+260,wine,chocolate,0.699488,0.543247,0.808128,0.01,False,related_but_distinct,wine,"Wine and chocolate are sometimes paired, but represent independently preferred foods or beverages."
+261,soup,vegetable,0.771385,0.378413,0.688825,0.01,False,related_but_distinct,soup,"Vegetables can be soup ingredients, but soup and vegetable preferences differ."
+262,soup,pasta,0.831449,0.50748,0.553782,0.01,False,related_but_distinct,soup,Soup and pasta are distinct dish categories with independently expressed preferences.
+263,soup,bean,0.734713,0.444539,0.734449,0.01,False,related_but_distinct,soup,"Beans commonly occur in soup, but bean and soup preferences are not interchangeable."
+264,soup,potato,0.848901,0.097147,0.211004,0.01,False,related_but_distinct,soup,"Potatoes may appear in soup, but potato and soup are distinct food preferences."
+265,soup,pot,0.666643,0.442117,0.626738,0.01,False,unrelated,soup,"Soup and pot describe different concepts, typically a dish versus cookware."
+266,soup,gumbo,0.633596,0.381054,0.424709,0.01,False,related_but_distinct,soup,"Gumbo resembles a soup category, but users can independently prefer gumbo versus soup."
+267,soup,broth,0.75976,0.52876,0.723038,0.02,False,related_but_distinct,soup,"Broth is a soup component or base, not an interchangeable soup preference."
+268,soup,calamari,0.571565,0.396896,0.515242,0.01,False,unrelated,soup,Soup and calamari are unrelated dish concepts.
+269,soup,garlic,0.742255,0.529909,0.734107,0.01,False,related_but_distinct,soup,"Garlic may flavor soup, but garlic and soup are independently preferred aspects."
+270,soup,fried chicken,0.87981,0.445646,0.435094,0.01,False,related_but_distinct,soup,"Both are foods, but soup and fried chicken are distinct dish preferences."
+271,soup,ramen,0.592762,0.397438,0.307191,0.01,False,related_but_distinct,soup,"Ramen is soup-like, but ramen and soup are distinct preference dimensions."
+272,soup,mushroom,0.730893,0.46527,0.659633,0.01,False,related_but_distinct,soup,"Mushrooms can be soup ingredients, but mushroom and soup preferences differ."
+273,soup,onion,0.755065,0.537137,0.692679,0.01,False,related_but_distinct,soup,"Onions may occur in soup, but onion and soup are independently preferred aspects."
+274,cocktail,massage,0.640632,0.054736,0.152752,0.01,False,unrelated,cocktail,Cocktails and massages are unrelated restaurant preference concepts.
+275,cocktail,homemade,0.592591,0.373029,0.643145,0.02,False,related_but_distinct,cocktail versus homemade preparation,"Homemade describes preparation or origin, while cocktail identifies a beverage category."
+276,cocktail,cream,0.684146,0.507319,0.754627,0.01,False,related_but_distinct,cocktail versus cream,Cocktail is a beverage; cream is an ingredient or dessert-related preference.
+277,staff suggestion,house,0.648177,0.400604,0.85453,0.01,False,related_but_distinct,staff suggestion versus house specialty,Staff recommendations and house offerings are related but independently preferred concepts.
+278,staff suggestion,office,0.736607,0.125654,0.512525,0.0,False,unrelated,staff suggestion,A staff recommendation has no meaningful canonical equivalence with an office.
+279,bathroom,patio,0.692401,0.217451,0.410273,0.0,False,related_but_distinct,restaurant facilities,"Bathrooms and patios are venue facilities, but customers can prefer them independently."
+280,bathroom,bed,0.783121,0.194029,0.597833,0.0,False,unrelated,bathroom,A bathroom and a bed represent unrelated amenities in restaurant preferences.
+281,bathroom,glass,0.657642,0.306095,0.680157,0.0,False,unrelated,bathroom,Bathroom facilities and drinking glasses are distinct restaurant concerns.
+282,bathroom,massage,0.588945,0.035507,0.177724,0.0,False,unrelated,bathroom,Bathrooms and massages have no useful canonical equivalence in restaurant preferences.
+283,bathroom,kitchen,0.819367,0.33633,0.689327,0.0,False,related_but_distinct,restaurant facilities,Bathrooms and kitchens are venue areas with distinct user preferences.
+284,bathroom,gym,0.617128,0.076829,0.327926,0.0,False,unrelated,bathroom,A bathroom and a gym are unrelated amenities for restaurant recommendation.
+285,online ordering,product,0.639067,0.139829,0.455201,0.0,False,related_but_distinct,online ordering versus product,Online ordering is a service channel; product refers to goods or menu items.
+286,online ordering,business,0.678828,0.228646,0.740658,0.0,False,related_but_distinct,online ordering versus business operations,"Both concern commerce, but ordering functionality and business identity differ."
+287,online ordering,phone service,0.791052,0.274695,0.703965,0.0,False,related_but_distinct,ordering channels,Online ordering and phone service are distinct ordering channels users may prefer independently.
+288,seafood,fried chicken,0.789039,0.429334,0.360187,0.0,False,related_but_distinct,food type,Seafood and fried chicken are different cuisine or food-type preferences.
+289,shop,salon,0.616391,0.079751,0.169972,0.0,False,related_but_distinct,business type,A shop and a salon are different business categories despite both being commercial venues.
+290,shop,car,0.6585,0.237267,0.495436,0.0,False,related_but_distinct,business type,A shop and a car-related business are distinct venue or service categories.
+291,shop,neighborhood,0.602143,0.292938,0.526538,0.0,False,unrelated,shop,A shop and a neighborhood are not interchangeable restaurant preference dimensions.
+292,shop,kitchen,0.801025,0.382099,0.53584,0.0,False,related_but_distinct,business versus kitchen,A shop identifies a business venue; a kitchen identifies food preparation or facility space.
+293,shop,cafe,0.750848,0.358782,0.512551,0.0,False,related_but_distinct,business type,A shop and a cafe are different venue types users can distinguish.
+294,egg,cake,0.756441,0.52922,0.676496,0.0,False,related_but_distinct,food item,"Egg and cake are distinct food preferences, even when cake contains egg."
+295,egg,pie,0.73328,0.419169,0.511076,0.0,False,related_but_distinct,food item,Egg and pie are separate food preferences and are not interchangeable.
+296,egg,cream,0.730728,0.589999,0.756627,0.0,False,related_but_distinct,food ingredient,Egg and cream are different ingredients with independently preferred culinary uses.
+297,egg,mushroom,0.690453,0.458782,0.651513,0.0,False,related_but_distinct,food ingredient,Egg and mushroom are distinct ingredients that diners may prefer independently.
+298,rice,vegetable,0.674588,0.38654,0.640169,0.0,False,related_but_distinct,food ingredient,Rice and vegetables are different food components with separate preference dimensions.
+299,rice,beef,0.652136,0.625784,0.724232,0.0,False,related_but_distinct,food ingredient,Rice and beef are distinct staple and protein preferences.
+300,rice,fruit,0.679767,0.420992,0.597952,0.99,False,unrelated,rice vs fruit,Distinct food categories with no interchangeable restaurant preference dimension.
+301,plate,ice,0.707519,0.568492,0.829482,0.99,False,unrelated,plate vs ice,A serving vessel and a cold ingredient or dessert are not equivalent aspects.
+302,plate,ice cream,0.687793,0.52166,0.731912,0.99,False,unrelated,plate vs ice cream,A serving vessel and a dessert are distinct preference dimensions.
+303,plate,piece,0.636283,0.510855,0.859366,0.97,False,related_but_distinct,plate vs piece,"Both can describe serving quantity or presentation, but customers can prefer them independently."
+304,plate,tip,0.632956,0.457622,0.869877,0.99,False,unrelated,plate vs tip,Serving presentation and gratuity are unrelated restaurant aspects.
+305,vegetable,tea,0.702473,0.318675,0.630584,0.99,False,unrelated,vegetable vs tea,A food category and a beverage category are distinct.
+306,vegetable,fruit,0.82503,0.298956,0.600923,0.98,False,related_but_distinct,vegetable vs fruit,"Both are produce categories, but users may independently prefer vegetables or fruit."
+307,vegetable,potato,0.763369,0.038884,0.199737,0.98,False,related_but_distinct,vegetable vs potato,"Potato is a specific vegetable, not interchangeable with the broader vegetable category."
+308,vegetable,homemade,0.591676,0.252657,0.609157,0.96,False,related_but_distinct,vegetable vs homemade,Vegetable describes an ingredient; homemade describes preparation or sourcing.
+309,brunch,buffet,0.823715,0.290337,0.317699,0.98,False,related_but_distinct,brunch vs buffet,"Brunch is a meal occasion, while buffet is a service format."
+310,bbq,gumbo,0.640657,0.36456,0.418494,0.97,False,related_but_distinct,bbq vs gumbo,"Both are cuisine or dish preferences, but they denote different food styles."
+311,bbq,fried chicken,0.583577,0.42787,0.478158,0.98,False,related_but_distinct,bbq vs fried chicken,"Both are savory food preferences, but barbecue and fried chicken are distinct dishes."
+312,bbq,ramen,0.523517,0.265064,0.167682,0.98,False,unrelated,bbq vs ramen,Distinct cuisine and dish preferences with no canonical equivalence.
+313,salon,patio,0.534697,0.084656,0.07122,0.99,False,unrelated,salon vs patio,A salon and an outdoor dining area are different venue or facility concepts.
+314,salon,chef,0.540742,0.057036,0.152441,0.99,False,unrelated,salon vs chef,A venue type and a culinary professional are unrelated aspects.
+315,salon,cafe,0.627241,0.069021,0.207471,0.96,False,related_but_distinct,salon vs cafe,"Both can describe hospitality venues, but salon and cafe are distinct venue concepts."
+316,chip,mac and cheese,0.566794,0.225272,0.39804,0.98,False,unrelated,chip vs mac and cheese,"Distinct food items, despite both commonly appearing as side dishes."
+317,chip,product,0.599063,0.113186,0.346674,0.99,False,unrelated,chip vs product,A specific food item and a generic merchandise or item concept are not equivalent.
+318,margarita,chocolate,0.455657,0.362184,0.400854,0.99,False,unrelated,margarita vs chocolate,A cocktail and a flavor or dessert ingredient are unrelated preferences.
+319,chocolate,cake,0.873083,0.662295,0.865357,0.98,False,related_but_distinct,chocolate vs cake,Chocolate is a flavor or ingredient; cake is a dessert category.
+320,chocolate,ice cream,0.827344,0.602697,0.796755,0.98,False,related_but_distinct,chocolate vs ice cream,Chocolate flavor and ice cream dessert preference can vary independently.
+321,chocolate,pie,0.801037,0.501601,0.693052,0.98,False,related_but_distinct,chocolate vs pie,"Chocolate is an ingredient or flavor, while pie is a dessert format."
+322,chocolate,cream,0.891429,0.67196,0.869226,0.99,False,related_but_distinct,chocolate vs cream,Chocolate and cream are different ingredients or flavor preferences.
+323,chocolate,creamy,0.762921,0.530036,0.823068,0.98,False,related_but_distinct,chocolate vs creamy,Chocolate denotes a flavor; creamy denotes texture or mouthfeel.
+324,ice,crust,0.62895,0.421262,0.681499,0.98,False,unrelated,ice vs crust,A cold ingredient or dessert and a baked outer layer are distinct aspects.
+325,ice,ice cream,0.89614,0.914632,0.931057,0.02,False,related_but_distinct,ice,"Ice and ice cream are distinct preferences: one is a substance, the other a dessert."
+326,ice,bowl,0.573492,0.494661,0.766057,0.01,False,related_but_distinct,ice,"Ice and bowls can co-occur in serving, but users may prefer them independently."
+327,ice,cup,0.599512,0.427683,0.721485,0.01,False,related_but_distinct,ice,Ice and cups are separate beverage-related preferences and are not interchangeable.
+328,ice,cream,0.64569,0.814044,0.911553,0.01,False,related_but_distinct,ice,"Ice and cream are separate ingredients or preferences, despite appearing together in ice cream."
+329,ice,pool,0.60167,0.21355,0.355846,0.0,False,unrelated,ice,"Ice and pools are different amenities or concepts, not interchangeable preferences."
+330,pasta,guacamole,0.682523,0.341172,0.073781,0.0,False,related_but_distinct,pasta,"Pasta and guacamole are distinct food preferences, though both are menu items."
+331,pasta,broth,0.784426,0.38017,0.405495,0.0,False,related_but_distinct,pasta,Pasta and broth are separate food components and can be preferred independently.
+332,pasta,calamari,0.586376,0.35384,0.52241,0.0,False,related_but_distinct,pasta,Pasta and calamari are different dishes or ingredients with independent preferences.
+333,pasta,fried chicken,0.802149,0.392242,0.338878,0.0,False,related_but_distinct,pasta,Pasta and fried chicken are distinct entree preferences.
+334,pasta,grits,0.7096,0.113016,0.24075,0.0,False,related_but_distinct,pasta,Pasta and grits are distinct starch-based dishes.
+335,pasta,pedicure,0.470295,0.064343,0.048506,0.0,False,unrelated,pasta,"Pasta is food, while pedicure is a personal-care service."
+336,patio,bed,0.653774,0.211989,0.39525,0.0,False,related_but_distinct,patio,Patios and beds are separate venue features or furnishings.
+337,patio,kitchen,0.677688,0.386284,0.56017,0.0,False,related_but_distinct,patio,Patio and kitchen refer to distinct dining areas with independently relevant preferences.
+338,patio,cafe,0.64941,0.308741,0.363998,0.0,False,related_but_distinct,patio,A patio is seating space; a cafe is a venue type.
+339,tea,fruit,0.730494,0.371816,0.6444,0.0,False,related_but_distinct,tea,Tea and fruit are distinct beverage and food preferences.
+340,mac and cheese,product,0.674082,0.177158,0.323903,0.0,False,related_but_distinct,mac and cheese,"Mac and cheese is a dish, while product is a generic merchandise or menu concept."
+341,mac and cheese,combination,0.65958,0.320471,0.497349,0.0,False,related_but_distinct,mac and cheese,Mac and cheese and combination describe different dish or ordering concepts.
+342,mac and cheese,bean,0.668206,0.313801,0.430696,0.0,False,related_but_distinct,mac and cheese,Mac and cheese and beans are separate food preferences.
+343,mac and cheese,potato,0.672253,0.09343,0.285878,0.0,False,related_but_distinct,mac and cheese,Mac and cheese and potatoes are distinct side or entree preferences.
+344,house,office,0.800572,0.230112,0.484608,0.0,False,related_but_distinct,house,House and office are different property or space types.
+345,house,front desk,0.654164,0.175517,0.419493,0.0,False,related_but_distinct,house,A house and front desk are distinct spaces or amenities.
+346,car,phone service,0.577471,0.21845,0.559743,0.0,False,unrelated,car,Car and phone service represent unrelated preference dimensions.
+347,cake,ice cream,0.741805,0.556355,0.736366,0.0,False,related_but_distinct,cake,Cake and ice cream are separate dessert preferences.
+348,cake,pie,0.863996,0.470245,0.675755,0.0,False,related_but_distinct,cake,Cake and pie are distinct dessert types.
+349,cake,pot,0.68351,0.364177,0.527848,0.0,False,related_but_distinct,cake,Cake and pot are distinct food and serving or container concepts.
+350,cake,cream,0.798986,0.625291,0.839928,0.02,False,related_but_distinct,cake,Cream is an ingredient or topping; cake is the dessert itself.
+351,cake,pastry,0.76839,0.306492,0.573714,0.02,False,related_but_distinct,cake,Cake and pastry are distinct baked dessert categories.
+352,pork,beef,0.911897,0.699675,0.830206,0.01,False,related_but_distinct,pork,Pork and beef are different meats with independently preferred flavors.
+353,pork,brisket,0.662774,0.550261,0.560348,0.02,False,related_but_distinct,pork,"Brisket is a cut or preparation, while pork denotes a meat category."
+354,pork,fried chicken,0.868122,0.53511,0.539707,0.01,False,related_but_distinct,pork,Pork and fried chicken are distinct meats and dishes.
+355,crust,ice cream,0.690602,0.398759,0.628504,0.01,False,unrelated,crust,Crust and ice cream are different food components.
+356,crust,pie,0.764326,0.449891,0.748621,0.02,False,related_but_distinct,crust,Crust is a component or texture; pie is the complete dessert.
+357,crust,creamy,0.683318,0.478288,0.75612,0.02,False,related_but_distinct,crust,"Crust describes a component, while creamy describes texture or richness."
+358,crust,pastry,0.758238,0.274673,0.465924,0.03,False,related_but_distinct,crust,Crust and pastry overlap in baked goods but denote different concepts.
+359,ice cream,bowl,0.612297,0.451126,0.666179,0.01,False,related_but_distinct,ice cream,Bowl is a serving vessel; ice cream is the food.
+360,ice cream,cup,0.553738,0.386397,0.599432,0.01,False,related_but_distinct,ice cream,"Cup is a serving vessel, distinct from the ice cream itself."
+361,ice cream,hair,0.662305,0.218742,0.535302,0.0,False,unrelated,ice cream,Hair and ice cream have no useful restaurant-preference equivalence.
+362,ice cream,cream,0.917493,0.835271,0.860397,0.01,False,related_but_distinct,ice cream,Cream is an ingredient or texture; ice cream is a prepared dessert.
+363,rib,bed,0.556376,0.21473,0.526724,0.0,False,unrelated,rib,Rib and bed are unrelated restaurant aspects.
+364,rib,brisket,0.54727,0.355157,0.462278,0.02,False,related_but_distinct,rib,Rib and brisket are distinct meat cuts.
+365,beef,fried chicken,0.789471,0.474777,0.458401,0.01,False,related_but_distinct,beef,Beef and fried chicken are distinct meat dishes.
+366,bowl,cup,0.693539,0.425569,0.732151,0.01,False,related_but_distinct,bowl,Bowl and cup are different serving vessels.
+367,bowl,cream,0.53956,0.545425,0.774403,0.0,False,unrelated,bowl,Bowl and cream denote a vessel and an ingredient or texture.
+368,presentation,piece,0.612901,0.307335,0.785532,0.01,False,related_but_distinct,presentation,Presentation concerns plating; piece concerns portion or item unit.
+369,product,combination,0.744561,0.140369,0.548502,0.0,False,unrelated,product,Product and combination do not form a reliable shared preference aspect.
+370,product,business,0.724484,0.182984,0.557728,0.0,False,unrelated,product,Product and business describe different restaurant concepts.
+371,bacon,sausage,0.71884,0.575603,0.742205,0.02,False,related_but_distinct,bacon,Bacon and sausage are distinct meat products.
+372,bacon,fried chicken,0.755006,0.497981,0.563026,0.01,False,related_but_distinct,bacon,Bacon and fried chicken are distinct foods.
+373,bacon,cook,0.724074,0.336116,0.660481,0.01,False,related_but_distinct,bacon,Bacon is food; cook refers to preparation or the person cooking.
+374,bed,hair,0.655584,0.142174,0.533608,0.0,False,unrelated,bed,Bed and hair have no useful restaurant-preference equivalence.
+375,bed,kitchen,0.741178,0.292955,0.683087,0.99,False,unrelated,bed / kitchen,"These denote different household or venue features, with no shared restaurant preference dimension."
+376,crab,salmon,0.755078,0.442753,0.635546,0.99,False,related_but_distinct,crab / salmon,"Both are seafood proteins, but diners can independently prefer crab versus salmon."
+377,crab,fried chicken,0.75314,0.440657,0.408205,0.98,False,unrelated,crab / fried chicken,"These are distinct dishes and protein preferences, despite both being food items."
+378,crab,lobster,0.889884,0.550643,0.685874,0.98,False,related_but_distinct,crab / lobster,"Both are shellfish, but specific shellfish preferences are behaviorally distinct."
+379,crab,mushroom,0.729679,0.424192,0.575225,0.98,False,unrelated,crab / mushroom,These are different ingredients with independent seafood versus vegetable preferences.
+380,fruit,bean,0.743747,0.326542,0.626986,0.98,False,related_but_distinct,fruit / bean,"Both are food categories, but fruit and bean preferences are independently expressed."
+381,piece,nail,0.575123,0.083548,0.278018,0.99,False,unrelated,piece / nail,These terms do not identify a common restaurant preference dimension.
+382,piece,glass,0.732149,0.411283,0.810924,0.98,False,related_but_distinct,piece / glass,"A piece is generic or portion-related, while glass denotes drinkware or serving format."
+383,nail,homemade,0.580326,0.065856,0.267918,0.99,False,unrelated,nail / homemade,Nail-related terminology and homemade food describe unrelated concepts.
+384,nail,hair,0.589615,0.059437,0.250592,0.99,False,unrelated,nail / hair,Nail and hair refer to separate personal-care services or features.
+385,nail,cream,0.576105,0.072183,0.270387,0.99,False,unrelated,nail / cream,Nail services and cream products are distinct preference dimensions.
+386,salmon,lobster,0.722321,0.419001,0.561191,0.99,False,related_but_distinct,salmon / lobster,"Both are seafood, but fish versus shellfish preferences remain independently meaningful."
+387,glass,kitchen,0.703361,0.522773,0.840237,0.98,False,unrelated,glass / kitchen,"Glass may describe drinkware or material, whereas kitchen denotes a facility or area."
+388,course,combination,0.61636,0.431462,0.857029,0.97,False,related_but_distinct,course / combination,"A course is a meal sequence, while combination usually describes bundled items or offerings."
+389,course,pool,0.596572,0.228224,0.4181,0.99,False,unrelated,course / pool,These terms refer to unrelated concepts in restaurant or service contexts.
+390,combination,patient,0.550529,0.158178,0.649241,0.99,False,unrelated,combination / patient,Combination and patient do not represent the same preference dimension.
+391,massage,patient,0.535999,0.0,0.106499,0.99,False,unrelated,massage / patient,Massage is a service; patient describes a person or care context.
+392,massage,pedicure,0.665215,0.0,0.0,0.98,False,related_but_distinct,massage / pedicure,"Both are personal-care services, but customers can prefer them independently."
+393,massage,gym,0.598411,0.055451,0.152096,0.98,False,related_but_distinct,massage / gym,"Both relate to wellness businesses, but massage and gym preferences are distinct."
+394,neighborhood,town,0.785728,0.386053,0.718292,0.98,False,related_but_distinct,neighborhood / town,"Both describe locality, but neighborhood and town are different geographic scopes."
+395,neighborhood,cafe,0.641151,0.29646,0.486794,0.98,False,unrelated,neighborhood / cafe,"Neighborhood is a location descriptor, while cafe denotes a venue type."
+396,business,office,0.690721,0.109369,0.486645,0.97,False,related_but_distinct,business / office,"An office may be a business setting, but business and office preferences are not interchangeable."
+397,business,phone service,0.727915,0.214958,0.704021,0.98,False,related_but_distinct,business / phone service,"Phone service is a business category, but general business and telecommunications preferences differ."
+398,burrito,combo,0.470939,0.234837,0.364101,0.98,False,related_but_distinct,burrito / combo,A burrito is a specific dish; combo denotes a bundled meal or offering.
+399,bagel,waffle,0.638034,0.104924,0.386281,0.99,False,related_but_distinct,bagel / waffle,"Both are breakfast foods, but users can independently prefer bagels or waffles."
+400,bean,potato,0.795004,0.076029,0.247999,0.01,False,related_but_distinct,bean,"Both are food ingredients, but users can independently prefer beans versus potatoes."
+401,bean,pepper,0.712015,0.384259,0.694493,0.01,False,related_but_distinct,bean,"Both are ingredients, yet bean and pepper preferences are behaviorally distinct."
+402,bean,fried chicken,0.754934,0.288663,0.436532,0.01,False,related_but_distinct,bean,"Both are food items, but legumes and fried chicken are distinct menu preferences."
+403,tip,front desk,0.573071,0.13159,0.441208,0.01,False,unrelated,tip,A tip concerns gratuity; a front desk concerns restaurant or lodging service.
+404,potato,fried chicken,0.798475,0.088623,0.219869,0.01,False,related_but_distinct,potato,"Both are menu foods, but potatoes and fried chicken are independently preferred."
+405,pie,waffle,0.598836,0.255548,0.346764,0.01,False,related_but_distinct,pie,"Both are baked or breakfast foods, but pie and waffles are distinct."
+406,pie,pastry,0.768088,0.241452,0.42661,0.02,False,related_but_distinct,pie,"Pie is a specific dessert; pastry is a broader, non-interchangeable category."
+407,sausage,homemade,0.593257,0.395467,0.726706,0.01,False,related_but_distinct,sausage,"Homemade describes preparation or provenance, while sausage is a food item."
+408,sausage,brisket,0.630565,0.411151,0.398268,0.01,False,related_but_distinct,sausage,"Both are meats, but sausage and brisket are distinct menu preferences."
+409,sausage,fried chicken,0.872356,0.457091,0.542852,0.01,False,related_but_distinct,sausage,"Both are savory entrees, but sausage and fried chicken are not interchangeable."
+410,sausage,grits,0.749819,0.153936,0.385477,0.01,False,related_but_distinct,sausage,"Both are foods, but sausage and grits represent distinct menu preferences."
+411,office,phone service,0.690107,0.154655,0.442117,0.01,False,related_but_distinct,office,"Both relate to business operations, but office and phone service are distinct aspects."
+412,office,front desk,0.712313,0.094294,0.300013,0.01,False,related_but_distinct,office,Office and front desk concern different spaces or functions.
+413,nacho,guacamole,0.54572,0.130411,0.512727,0.01,False,related_but_distinct,nacho,"Both are Mexican-associated foods, but nachos and guacamole are distinct preferences."
+414,nacho,gumbo,0.494362,0.055269,0.069919,0.01,False,related_but_distinct,nacho,"Both are dishes, but nachos and gumbo are unrelated menu categories."
+415,guacamole,creamy,0.647182,0.343521,0.32667,0.01,False,related_but_distinct,guacamole,Creamy describes texture; guacamole identifies a specific dish.
+416,chef,pastry,0.666155,0.266187,0.516419,0.01,False,related_but_distinct,chef,A chef is a person or role; pastry is a food category.
+417,gumbo,grits,0.663476,0.153337,0.423476,0.01,False,related_but_distinct,gumbo,"Both are regional dishes, but gumbo and grits are distinct foods."
+418,hair,cream,0.643317,0.258571,0.64898,0.01,False,unrelated,hair,Hair and cream do not denote the same restaurant preference dimension.
+419,kitchen,gym,0.599387,0.130095,0.331631,0.01,False,unrelated,kitchen,A kitchen and a gym are different facilities with no canonical equivalence.
+420,cream,creamy,0.79457,0.585053,0.873318,0.08,False,related_but_distinct,cream,"Cream is an ingredient; creamy describes texture, so users may prefer them independently."
+421,broth,garlic,0.844261,0.438354,0.61892,0.01,False,related_but_distinct,broth,"Both are flavor ingredients, but broth and garlic are independently preferred."
+422,broth,pepper,0.695392,0.392862,0.578426,0.01,False,related_but_distinct,broth,"Both influence flavor, but broth and pepper are distinct ingredients."
+423,broth,onion,0.749479,0.374703,0.461904,0.01,False,related_but_distinct,broth,"Both are savory ingredients, yet broth and onion are not interchangeable."
+424,calamari,lobster,0.631928,0.409244,0.610063,0.01,False,related_but_distinct,calamari,"Both are seafood items, but calamari and lobster are distinct menu preferences."
+425,garlic,pepper,0.864926,0.507487,0.776971,0.99,False,related_but_distinct,garlic / pepper,"Both are savory ingredients, but users may independently prefer garlic or pepper."
+426,garlic,onion,0.889489,0.507521,0.669867,0.99,False,related_but_distinct,garlic / onion,"Both are aromatic ingredients, yet they represent distinct flavor preferences."
+427,pepper,onion,0.792371,0.470848,0.726108,0.99,False,related_but_distinct,pepper / onion,"Both are common savory ingredients, but pepper and onion preferences differ."
+428,fried chicken,grits,0.722624,0.143485,0.303786,0.99,False,related_but_distinct,fried chicken / grits,"Both are foods, but distinct dishes with independently expressed preferences."
+429,fried chicken,lobster,0.781567,0.326539,0.216919,0.99,False,related_but_distinct,fried chicken / lobster,"Both are entrée foods, but different proteins and distinct preference dimensions."
+430,fried chicken,cook,0.696375,0.269834,0.501399,0.98,False,related_but_distinct,fried chicken / cooking,"Fried chicken is a dish; cook concerns preparation or a person, not the same aspect."
+431,ramen,mushroom,0.536122,0.284686,0.285383,0.98,False,related_but_distinct,ramen / mushroom,"Ramen is a dish, while mushroom is an ingredient that may accompany it."
+432,creamy,juicy,0.62734,0.507169,0.787653,0.97,False,related_but_distinct,creaminess / juiciness,"Both describe food texture or moisture, but users can prefer them independently."
+433,waffle,grits,0.606285,0.092088,0.243199,0.99,False,related_but_distinct,waffle / grits,"Both are food dishes, but they represent distinct menu-item preferences."
+434,waffle,pastry,0.660359,0.178495,0.286209,0.99,False,related_but_distinct,waffle / pastry,"Both are baked or breakfast foods, but users may prefer one independently."
+435,pedicure,pastry,0.453356,0.070404,0.0,1.0,False,unrelated,pedicure / pastry,"Pedicure is a personal-service offering, whereas pastry is food."
+436,juicy,onion,0.652596,0.42111,0.754174,0.99,False,related_but_distinct,juiciness / onion,Juiciness is a food attribute; onion is a specific ingredient.
+437,mushroom,onion,0.694103,0.377245,0.640483,0.99,False,related_but_distinct,mushroom / onion,"Both are ingredients, but distinct flavors and user preferences."

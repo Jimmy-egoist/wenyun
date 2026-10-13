@@ -1,0 +1,21 @@
+{"provider": "openai", "model": "gpt-5.6-terra", "candidates": 464, "cached": 0, "missing": 464}
+labeled=25/464 total_tokens=2957
+labeled=50/464 total_tokens=5912
+labeled=75/464 total_tokens=8633
+labeled=100/464 total_tokens=11490
+labeled=125/464 total_tokens=14251
+labeled=150/464 total_tokens=17083
+labeled=175/464 total_tokens=19847
+labeled=200/464 total_tokens=22573
+labeled=225/464 total_tokens=25657
+labeled=250/464 total_tokens=28926
+labeled=275/464 total_tokens=32050
+labeled=300/464 total_tokens=34812
+labeled=325/464 total_tokens=37699
+labeled=350/464 total_tokens=40481
+labeled=375/464 total_tokens=43335
+labeled=400/464 total_tokens=46382
+labeled=425/464 total_tokens=49253
+labeled=450/464 total_tokens=52126
+labeled=464/464 total_tokens=53937
+{"provider": "openai", "model": "gpt-5.6-terra", "candidate_count": 464, "cache": "outputs/llm_aspect_pair_cache_v2.jsonl", "output": "outputs/llm_aspect_pairs_v2.csv", "usage": {"input_tokens": 33186, "output_tokens": 20751, "total_tokens": 53937}}

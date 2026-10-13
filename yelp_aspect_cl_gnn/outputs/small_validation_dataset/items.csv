@@ -1,0 +1,600 @@
+item_idx,business_id,business_name,city,state,categories,num_interactions
+0,-0TffRSXXIlBYVbb5AwfTg,IndeBlue Modern Indian Food & Spirits,Philadelphia,PA,"Cocktail Bars, Food Delivery Services, Nightlife, Breakfast & Brunch, Food, Bars, Event Planning & Services, Caterers, Restaurants, Indian",307
+1,-1B9pP_CrRBJYPICE5WbRA,Spice 28,Philadelphia,PA,"Asian Fusion, Restaurants, American (New), Thai, Szechuan, Chinese",205
+2,-DGsnMlRrR_tv8avrpQLQw,Sam's Morning Glory Diner,Philadelphia,PA,"Breakfast & Brunch, Restaurants, Diners",228
+3,-EHrU_DwtX2Jv4NbAMppTA,Yummy House China Bistro,Tampa,FL,"Seafood, Dim Sum, Restaurants, Chinese",150
+4,-FM4CxOg4XXmX_Ebky_SiQ,Finch & Fork,Santa Barbara,CA,"Breakfast & Brunch, American (New), Restaurants, American (Traditional), Nightlife, Bars",107
+5,-Tskf8WK17rb3ZfeFuRSWA,Palace Café,New Orleans,LA,"Seafood, Restaurants, Cafes, Cajun/Creole, American (New)",184
+6,-VlBFlHwX-Pt6Xyzs9roGw,Superior Seafood & Oyster Bar,New Orleans,LA,"Brasseries, Restaurants, Cajun/Creole, Seafood",218
+7,-cEFKAznWmI0cledNOIQ7w,Gran Caffe L'Aquila,Philadelphia,PA,"Restaurants, Gelato, Coffee & Tea, Food, Italian, Bakeries",275
+8,-e1BUAOBk9RAu89c6uTyGA,Texas Roadhouse,Reno,NV,"Steakhouses, Restaurants, Barbeque, American (Traditional)",73
+9,-ejuzGbu3ZHUndhLTQafJg,Saint Anejo,Nashville,TN,"Nightlife, Breakfast & Brunch, Bars, Desserts, Restaurants, Adult Entertainment, Food, Cocktail Bars, Mexican",101
+10,-lX4ufgPLYubI8rVxNM31w,New Orleans Creole Cookery,New Orleans,LA,"Restaurants, Seafood, Vegetarian, American (Traditional), Cajun/Creole",61
+11,-mIlmp5l4hKlp1tvHRdvTg,Sonny's Famous Steaks,Philadelphia,PA,"Cheesesteaks, Comfort Food, Restaurants, Delis, Burgers, American (Traditional), Sandwiches, Local Flavor",166
+12,-tDmeO1Q5aqThVY3AFJJ7A,Oceano,Reno,NV,"Sushi Bars, Seafood, Restaurants",47
+13,03dIEDBsDERr6Osmey-udQ,Steelbach at Armature Works,Tampa,FL,"Seafood, Steakhouses, Southern, American (New), Restaurants",96
+14,04l8PYcuYQeEkEhJCbhtOA,Ruby Slipper Cafe,New Orleans,LA,"Breakfast & Brunch, Restaurants, American (Traditional), Cafes",38
+15,05ev984NYfimRN0UiFrxaA,Osteria,Philadelphia,PA,"Nightlife, Restaurants, Italian, Bars, Wine Bars",261
+16,0RuvlgTnKFbX3IK0ZOOocA,Green Eggs Café,Philadelphia,PA,"Restaurants, American (New), Diners, Breakfast & Brunch",452
+17,0WrdiQ4qJBu2Gc7wRcIfdw,Tupelo Junction Cafe,Santa Barbara,CA,"Restaurants, Breakfast & Brunch, American (Traditional), American (New), Southern",73
+18,0ZsqqzHu1HHkDdIKoivi5g,Goody Goody Burgers,Tampa,FL,"Restaurants, Burgers, Food, Diners, Breakfast & Brunch, Desserts, Sandwiches",140
+19,0a9Miij7BFmKm83Iqni5sA,Capital Tacos,Wesley Chapel,FL,"Restaurants, Tacos, Mexican, Tex-Mex",80
+20,0d1dpaZqcm7litFOJl7atA,Noble Crust,St. Petersburg,FL,"Breakfast & Brunch, Pizza, Southern, Italian, Nightlife, Bars, Restaurants, American (Traditional)",210
+21,0oSSjekU-3GR8gselReWnA,Butcher and Singer,Philadelphia,PA,"Restaurants, Steakhouses, American (Traditional)",340
+22,0qu0fNTOsSmuREYVIMPuIQ,Cold Spring Tavern,Santa Barbara,CA,"American (Traditional), Restaurants, Bars, Nightlife",52
+23,14QP5lOdrTAVVCDDuHIAUg,Tucson Tamale Company,Tucson,AZ,"Restaurants, Gluten-Free, Vegetarian, Mexican",66
+24,16tjKOvMw_nOgNViq2LwOQ,Hattie B's Hot Chicken - Nashville West,Nashville,TN,"Beer Bar, Bars, Southern, Soul Food, Restaurants, American (Traditional), Nightlife, Chicken Wings",125
+25,1Efjww8n7WtKtKTgDqjgdA,Founding Farmers King of Prussia,King of Prussia,PA,"American (New), Breakfast & Brunch, Food, Restaurants, Desserts",125
+26,1FURjeGJi_LBXcJQg8eskw,Padaro Beach Grill,Carpinteria,CA,"American (Traditional), Restaurants, Seafood, Burgers, Tacos, Sandwiches, Mexican, Bars, Food, Beer Bar, Juice Bars & Smoothies, Nightlife",28
+27,1Tb7ION52mf2I7wXJY9HAw,Portillo's Hot Dogs,Brandon,FL,"Fast Food, Food, Restaurants, Salad, Burgers, Hot Dogs",90
+28,1Vo4BLw75ntATAJHYsxO3g,Whiskey Joe's Bar & Grill - Tampa,Tampa,FL,"Restaurants, Music Venues, African, Nightlife, Arts & Entertainment, American (New), American (Traditional), Bars, Burgers, Seafood, Venues & Event Spaces, Event Planning & Services",142
+29,1b5mnK8bMnnju_cvU65GqQ,Biscuit Love: Gulch,Nashville,TN,"Burgers, American (Traditional), Breakfast & Brunch, Restaurants, Southern",352
+30,1jeaxiZOisgDMxHR2K088g,Guppys on the Beach,Indian Rocks Beach,FL,"Sandwiches, Restaurants, American (New), Seafood",96
+31,24f-qQokEN2UvBNHMWLm3A,Antoine's Restaurant,New Orleans,LA,"Event Planning & Services, Restaurants, French, Salad, Venues & Event Spaces, Party & Event Planning, Cajun/Creole, Desserts, Food",181
+32,26107Pz4hjESgQ8J2c81rA,Anise Global Gastrobar,Tampa,FL,"Restaurants, Gastropubs, Cocktail Bars, Nightlife, Bars",163
+33,26jYcdFR5oLqKDKpTH0JIQ,Drago's Seafood Restaurant,Metairie,LA,"Restaurants, Desserts, Food, Salad, Seafood",149
+34,27zlxlmlQu9KBr5Vj4MGeg,Pickles & Swiss,Goleta,CA,"Delis, Sandwiches, American (New), Restaurants",16
+35,2BMk_drsikKWslJCXmQtjQ,Rooster - Downtown,St. Louis,MO,"Creperies, Cafes, Restaurants, Sandwiches, Breakfast & Brunch, Gluten-Free",155
+36,2CDI713ATuxHfnB5b-sBdw,Vedge,Philadelphia,PA,"Restaurants, Vegetarian, Beer, Wine & Spirits, Vegan, Food",347
+37,2DTkzhmMpv5fIPKheePClA,Shaya,New Orleans,LA,"Mediterranean, Middle Eastern, Restaurants, Desserts, Food, Kosher, American (New)",235
+38,2KIDQyTh-HzLxOUEDqtDBg,Mazzaro's Italian Market,Saint Petersburg,FL,"Specialty Food, Delis, Coffee Roasteries, Butcher, Meat Shops, Food, Restaurants, Grocery, Italian",230
+39,2N97axWHko3rzyzOGCxxBA,URBAN Brew and BBQ,St Petersburg,FL,"Specialty Food, Event Planning & Services, American (New), Restaurants, Barbeque, Caterers, Food, Beer Bar, Bars, American (Traditional), Whiskey Bars, Nightlife",87
+40,2OXCAbz3x_MrQSYj1zarIA,Pinewood Social,Nashville,TN,"Lounges, Restaurants, Social Clubs, Arts & Entertainment, American (Traditional), Bars, Nightlife",207
+41,30cpm1uq6xcQCmN6JTrB8w,Luke's Lobster Rittenhouse,Philadelphia,PA,"Sandwiches, Seafood, Restaurants",280
+42,3CFVBCfjdCvESS1ogBv21A,DeSano Pizza Bakery,Nashville,TN,"Pizza, Restaurants",152
+43,3FPi2yKCIh0Hh3iBg8faYA,Tokyo Sushi,Reno,NV,"Asian Fusion, Sushi Bars, Restaurants, Japanese",54
+44,3JpJ3b8r5jMdAb1yPmchrQ,Prince's Hot Chicken Shack,Nashville,TN,"Chicken Shop, Restaurants, American (Traditional), Southern",112
+45,3WU1ZobAqXQ07xYoKE2Vyg,Daisy Dukes - French Quarter,New Orleans,LA,"Breakfast & Brunch, Cajun/Creole, Chicken Wings, Restaurants, Seafood, Southern",87
+46,3Wy21heeDm8h2tSZfcj6OA,Lure Fish House,Santa Barbara,CA,"Breakfast & Brunch, Food, Beer, Wine & Spirits, Bars, Seafood, Restaurants, Wine Bars, Cocktail Bars, American (New), Nightlife",102
+47,3Ym00dQ_oqZ0zunGMLhX3Q,Prasino,St. Charles,MO,"Restaurants, American (New), Bars, Nightlife",58
+48,3YqUe2FTCQr0pPVK8oCv6Q,Columbia Restaurant,Tampa,FL,"Latin American, Restaurants, Spanish, American (Traditional), Cuban",340
+49,3Z4rhPFO6XWJRQipEIZCWA,Casa Tina,Dunedin,FL,"Mexican, Restaurants, Desserts, Vegetarian, Food, Soup",102
+50,3_WGRjRrnZX2b4ZVpjmL6w,Arnold's Country Kitchen,Nashville,TN,"Comfort Food, Southern, Desserts, Food, Restaurants",158
+51,3db1R99-mdSvx3QwryJSNQ,The Camellia Grill,New Orleans,LA,"Sandwiches, Restaurants, Breakfast & Brunch, Burgers, American (Traditional)",158
+52,3gVSrS4kffGGZT8oXHsIcw,Pod,Philadelphia,PA,"Restaurants, Lounges, Asian Fusion, Nightlife, Sushi Bars, Bars",243
+53,3iUCCf1FWmjlFbGYvBgf9w,Martin's Bar-B-Que Joint,Nashville,TN,"Restaurants, Barbeque, Nightlife, Bars, Pubs, Chicken Wings, American (Traditional)",140
+54,3ovV2S7XEAOEk8hCdYKhOA,Hi-Pointe Drive-In,St Louis,MO,"Restaurants, Food, Burgers, Sandwiches, Ice Cream & Frozen Yogurt",82
+55,3wo9jODQnuvBm8Gkem6qXg,Ruby Slipper Cafe,New Orleans,LA,"American (New), American (Traditional), Nightlife, Southern, Cocktail Bars, Coffee & Tea, Breakfast & Brunch, Food, Restaurants, Cafes, Bars",111
+56,43MDfrU28FYjfpamNfL9GA,Zinburger,Tucson,AZ,"Restaurants, Event Planning & Services, Gluten-Free, Venues & Event Spaces, Burgers, American (New)",85
+57,44Xh-IjWDSn7XTw1hzO50g,Dutch Eating Place,Philadelphia,PA,"Sandwiches, Restaurants, Juice Bars & Smoothies, Food, Breakfast & Brunch",201
+58,4J06--ty2Ydj1---IsArLw,Cantina Los Caballitos,Philadelphia,PA,"Restaurants, Mexican, Breakfast & Brunch, Bars, Fast Food, Nightlife",241
+59,4R2KR_-FybS7oegGrXjHVg,Del Frisco's Double Eagle Steakhouse,Philadelphia,PA,"Food, Restaurants, Seafood, Specialty Food, Steakhouses, American (Traditional)",236
+60,4SRl5od0lY33oK1GMbA23A,Husk,Nashville,TN,"Restaurants, American (New), Nightlife, Bars, Cocktail Bars, Southern, American (Traditional), Breakfast & Brunch",208
+61,4WdDY97x4GdMYtyk1KQMnw,Lilly's Cafe,New Orleans,LA,"Cafes, American (Traditional), Vietnamese, Restaurants",122
+62,4YoVUmkpUBNtdYa804Wzvg,The Patterson House,Nashville,TN,"Restaurants, Nightlife, Bars, Cocktail Bars, Southern, Lounges, American (New)",185
+63,4_OXOjAUA9Q8L6VdZz692w,Naan & Kabab,Reno,NV,"Greek, Persian/Iranian, Restaurants, Mediterranean, Middle Eastern, Indian",44
+64,4gszBjoouIzfi1ltSQZ2BQ,Tampa Bay Brewing Company,Tampa,FL,"Restaurants, Food, Breweries, American (Traditional), Pets, Brasseries",180
+65,4r3Ck65DCG1T6gpWodPyrg,Bridge Tap House and Wine Bar,Saint Louis,MO,"Gastropubs, Nightlife, Restaurants, Tapas/Small Plates, Bars, American (New), Wine Bars, Beer Bar",98
+66,4r6N_Fhiwoqo_FqQ7Mm6mQ,Boca Tacos Y Tequila,Tucson,AZ,"Restaurants, Beer Bar, Nightlife, Lounges, Latin American, Bars, Mexican",48
+67,4szMVHmGXodrVGw4Zhev9g,Bartaco,Nashville,TN,"Mexican, Nightlife, Bars, Restaurants",150
+68,4wDo72kKuceoLw8Uu_Y_RQ,Pia's Trattoria,Gulfport,FL,"Restaurants, Italian",56
+69,59-56qbtgwGigLNNsZiVZQ,Snapper's Sea Grill,St. Pete Beach,FL,"Restaurants, Steakhouses, Wine Bars, Bars, Seafood, Nightlife",54
+70,5CbJgHWgvjyDRw9Sl4BXhg,Yo Mama's Bar & Grill,New Orleans,LA,"Pubs, Dive Bars, Nightlife, Bars, Restaurants, Burgers",116
+71,5DJ2sDvM_XRndlB24DnxYw,Adele's,Nashville,TN,"Cocktail Bars, Restaurants, American (New), Event Planning & Services, Caterers, Nightlife, Bars, Breakfast & Brunch, Desserts, Food, Italian",100
+72,5SbXk54zWe22jg95R-8Fjw,The Stein & Vine,Brandon,FL,"American (New), Nightlife, Restaurants, Wine Bars, Bars, Burgers, Pubs",93
+73,5fSPNlVUBGMExOy9lgFn0A,Columbia Restaurant,Clearwater Beach,FL,"Spanish, Restaurants, Latin American, Cuban",103
+74,5hAUdFPi1QFJJOlFReVexg,Fogo de Chao Brazilian Steakhouse,Indianapolis,IN,"Steakhouses, Brazilian, Restaurants, Seafood",65
+75,5oX4G1cptixPZecih9L3dg,Daily Eats,Tampa,FL,"Cafes, American (New), Breakfast & Brunch, Diners, Restaurants",203
+76,5vObJIHLO-QOMrw_MvC4rA,The Worker Bee Cafe,Carpinteria,CA,"Breakfast & Brunch, Diners, Restaurants, American (Traditional)",13
+77,6-ixjryKFrCgue3JaHnvXQ,Pearly's Beach Eats,Clearwater,FL,"American (Traditional), Mexican, Restaurants, Local Flavor, Burgers, Sandwiches, Seafood, Salad, American (New), Tacos",27
+78,60PRpOidld9weYzjWwlMaQ,Meals From The Heart Cafe,New Orleans,LA,"Gluten-Free, American (New), Vegan, Food, Restaurants, Breakfast & Brunch",57
+79,617w8MQE3z1szmLvs0WfCw,Bar Bombón,Philadelphia,PA,"Restaurants, Vegetarian, Latin American, Vegan",166
+80,63wsqoXuGgehnuGrTW4y7g,The Farm House,Nashville,TN,"Food, Restaurants, Southern, American (New)",92
+81,6Cs52T0ItZ5TQ5Qx-UGaMw,Baja Cafe on Campbell,Tucson,AZ,"Restaurants, American (Traditional), Mexican, Breakfast & Brunch",52
+82,6EizP0XyqITuGZ8GZMI9Lw,Toma Restaurant & Bar,Santa Barbara,CA,"American (New), Italian, Bars, Restaurants, Nightlife, Food, Beer, Wine & Spirits",57
+83,6FX09pOrazvGT9s6_nQ7CQ,Frothy Monkey,Nashville,TN,"Breakfast & Brunch, American (New), Sandwiches, Food, Coffee & Tea, Restaurants",67
+84,6Pu5MKIWbn6FO-oebSSrYQ,The Southern Steak & Oyster,Nashville,TN,"Seafood, Bars, Breakfast & Brunch, Nightlife, Cajun/Creole, American (Traditional), Southern, Steakhouses, Pubs, Restaurants",244
+85,6RBZfirnzE4NahJTn1UPNA,La Super-Rica Taqueria,Santa Barbara,CA,"Restaurants, Mexican",105
+86,6TUOsIU1vNNQcoauKrZFCw,417 Union,Nashville,TN,"American (New), Barbeque, Diners, Southern, Restaurants, Chicken Wings, Mexican, Burgers, Breakfast & Brunch, American (Traditional)",53
+87,6Ty-KKWq6hLZYW8DWEHYvg,Pat O'Brien’s,New Orleans,LA,"American (Traditional), Arts & Entertainment, Music Venues, Beer, Wine & Spirits, Cocktail Bars, Restaurants, Bars, Nightlife, Food, Piano Bars",382
+88,6_T2xzR74JqGCTPefAD8Tw,Morimoto,Philadelphia,PA,"Japanese, American (Traditional), American (New), Restaurants, Sushi Bars, Asian Fusion",378
+89,6a4gLLFSgr-Q6CZXDLzBGQ,Cochon,New Orleans,LA,"Cajun/Creole, Seafood, Restaurants",487
+90,6ajnOk0GcY9xbb5Ocaw8Gw,Barbuzzo,Philadelphia,PA,"Mediterranean, Restaurants, Pizza, Italian",753
+91,6ewV-e7-39oqYUq3yZuIyw,Sabrina's Café,Philadelphia,PA,"Breakfast & Brunch, Restaurants, Vegetarian, American (New), American (Traditional), Comfort Food, Cafes",172
+92,6pVVwtFmd7VBsgyFPHvU_w,Union Public House,Tucson,AZ,"Bars, Cocktail Bars, Nightlife, American (Traditional), Restaurants, Wine Bars, Gastropubs",115
+93,6zEWIsb6Lhr3BeoC3gm1lw,Chickie's and Pete's,Philadelphia,PA,"Sandwiches, American (Traditional), Seafood, Restaurants",73
+94,73UjNbSoQjQAOS45rcihFg,Cantina Dos Segundos,Philadelphia,PA,"Nightlife, Restaurants, Breakfast & Brunch, Bars, Mexican",268
+95,75FY8ZQx5nOWP0VFmNvWfw,Atchafalaya Restaurant,New Orleans,LA,"Seafood, Breakfast & Brunch, American (New), Bars, Southern, Restaurants, Cajun/Creole, Nightlife",266
+96,7pwFfnB6FH4lflXWrQ2Tqw,Jack's Bar-B-Que,Nashville,TN,"Barbeque, Salad, Southern, Restaurants",121
+97,8A5LSwsKK5vXDH1M3_Tf1w,"The Ritz-Carlton Bacara, Santa Barbara",Santa Barbara,CA,"Restaurants, Beauty & Spas, American (New), Event Planning & Services, Hotels, Massage, Resorts, Day Spas, Hotels & Travel, Venues & Event Spaces",27
+98,8BhNur6_XKLjCDvbhX2CNg,The Old Coffee Pot Restaurant,New Orleans,LA,"Restaurants, Breakfast & Brunch, Cajun/Creole, Seafood",53
+99,8NyDM-FDoWEEeEG9XUwnbg,K-Paul's Louisiana Kitchen,New Orleans,LA,"Southern, Cajun/Creole, Restaurants, Delis",167
+100,8QqnRpM-QxGsjDNuu0E57A,Carlillos Cocina,Sparks,NV,"Bars, Mexican, Breakfast & Brunch, Restaurants, Nightlife",43
+101,8UPv1p9GW-BiZtQqUt8nOA,Neyow's Creole Cafe,New Orleans,LA,"Seafood, Cajun/Creole, Restaurants",133
+102,8Vk_2t7hQI02IhpcRnfAIw,OBON Sushi Bar Ramen,Tucson,AZ,"Sushi Bars, Restaurants, Bars, Japanese, Ramen, Nightlife, Cocktail Bars",48
+103,8Vo6LN9gqULhXzoxj5k6kQ,The Black Sheep,Santa Barbara,CA,"American (New), Beer, Wine & Spirits, Food, Japanese, Bars, Asian Fusion, Ramen, Restaurants, Cocktail Bars, Nightlife",50
+104,8eDkw7CE0NKqMknPIu26fw,Two Chicks Cafe,New Orleans,LA,"Breakfast & Brunch, Juice Bars & Smoothies, Restaurants, Food, American (New)",62
+105,8gY3LGFUMIQubovGbSd7Nw,Süp,Reno,NV,"Soup, American (New), Salad, Restaurants, Sandwiches",88
+106,8j3blTZChklt3j89jxx0fw,Brauhaus Schmitz,Philadelphia,PA,"Nightlife, Bars, Restaurants, German",275
+107,8kUh6TROemLfbVR_ewVVLg,Nam Phuong,Philadelphia,PA,"Restaurants, Seafood, Vietnamese",271
+108,8kh6Z3c8UHQKmsy0_TbOnA,Carmo,New Orleans,LA,"Asian Fusion, Vegetarian, Vegan, Seafood, Restaurants, Brazilian, Latin American, Caribbean",121
+109,8pqdJjefYq-a9IBSJJmKwA,The Dandelion,Philadelphia,PA,"British, Restaurants, Gastropubs, Bars, Nightlife",642
+110,8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,New Orleans,LA,"Food, Donuts, Burgers, American (Traditional), Coffee & Tea, Restaurants",306
+111,8yR12PNSMo6FBYx1u5KPlw,Bru Burger Bar - Indianapolis,Indianapolis,IN,"Restaurants, Gluten-Free, Bars, Food, Nightlife, Sandwiches, Burgers",125
+112,9HvjjSwxxubIhG6E_sObfQ,NOLA Poboys,New Orleans,LA,"Cajun/Creole, Restaurants, Sandwiches, Seafood",105
+113,9OCsSHr6OCSyR91BFIbszQ,The Original French Market Restaurant and Bar,New Orleans,LA,"Seafood, Cajun/Creole, Bars, Nightlife, Food, Specialty Food, Restaurants, French",63
+114,9PZxjhTIU7OgPIzuGi89Ew,El Vez,Philadelphia,PA,"Lounges, Bars, Nightlife, Breakfast & Brunch, Mexican, Restaurants",785
+115,9b-LZWsj75mmfMYuChXDkg,Ciro's,Tampa,FL,"Cocktail Bars, Bars, American (New), Speakeasies, Nightlife, Restaurants",180
+116,9cu2p2Z925hHkWHVyrp1JQ,Hawkers Asian Street Food,St. Petersburg,FL,"Malaysian, Nightlife, Bars, Salad, Cocktail Bars, Tapas/Small Plates, Japanese, Restaurants, Ramen, Filipino, Pan Asian, Chinese, Asian Fusion",158
+117,9f5GXEeTvBWnrZ-AHEjgJQ,The Original Crabby Bills,Indian Rocks Beach,FL,"Food, Seafood Markets, Seafood, Nightlife, Sandwiches, Salad, Specialty Food, Restaurants, Bars, Fish & Chips, Breakfast & Brunch",63
+118,9gObo5ltOMo6UgsaXaHPWA,R2L,Philadelphia,PA,"American (New), Lounges, Nightlife, Cocktail Bars, Bars, Restaurants",184
+119,9ugpNKKhnYRa51qXoxUw_A,Lilly's Tacos,Santa Barbara,CA,"Mexican, Restaurants",79
+120,9w-LZEkP1hf363G-OYvKDg,Mas Tacos Por Favor,Nashville,TN,"Tacos, Mexican, Restaurants",184
+121,9xdXS7jtWjCVzL4_oPGv9A,GW Fins,New Orleans,LA,"Seafood, Gluten-Free, Vegetarian, Restaurants",248
+122,AGlh4ZDv6jnoiYfz7At9mw,Dim Sum Garden,Philadelphia,PA,"Chinese, Restaurants, Dim Sum, Asian Fusion, Shanghainese",582
+123,ALK-7tTvDKAzxAtIiNyh2A,Rolf and Daughters,Nashville,TN,"Italian, American (New), Restaurants, Mediterranean",149
+124,AVf4RO3bh2AAoZeCiPTQNg,Hattie B's Hot Chicken - Melrose,Nashville,TN,"American (Traditional), Chicken Wings, Southern, Restaurants",84
+125,AaTpjyw-EiODgi3tR4Xr-g,Estia,Philadelphia,PA,"Restaurants, Greek, Mediterranean, Seafood",228
+126,AhVvuzwWQU__CligbY4r0Q,Juan's Flying Burrito,New Orleans,LA,"Restaurants, Mexican, Mass Media, Cajun/Creole",143
+127,AixPbZxJkgRyjxVqrpPAmw,Zia's on the Hill,Saint Louis,MO,"Italian, Restaurants, Seafood, Buffets",68
+128,AlH5V97JSAu7AL_xdibMIg,Bahama Breeze,Tampa,FL,"Restaurants, Latin American, Laotian, Caribbean, Nightlife, American (Traditional), Seafood, Bars",166
+129,AmI3LIUNwsi4023hOVGu3w,Moshulu,Philadelphia,PA,"American (Traditional), Seafood, Nightlife, Event Planning & Services, Cocktail Bars, Wine Bars, Restaurants, Venues & Event Spaces, American (New), Bars",161
+130,BHnCAV4_hgqgNZGdfXNJkA,Cajun Seafood,New Orleans,LA,"Food, Cajun/Creole, Seafood Markets, Seafood, Specialty Food, Restaurants, French",79
+131,BOjpe0u5u_cm9SWMS2KLFg,Stacked STL,Saint Louis,MO,"Restaurants, Desserts, Food, Bars, American (Traditional), Nightlife, Burgers",70
+132,BWITd9JUXP3gSi1z3Y-z8g,In Riva,Philadelphia,PA,"Italian, Food, Nightlife, Pizza, Bars, Cocktail Bars, Beer, Wine & Spirits, Restaurants",167
+133,BY-du320SIHBR9MYUrZSZg,Keegan's Seafood Grille,Indian Rocks Beach,FL,"American (Traditional), Restaurants, American (New), Seafood",74
+134,BbnL_wJLB-EHvFx0dXuAjg,Olde Nola Cookery,New Orleans,LA,"Restaurants, Seafood, Cajun/Creole, Soul Food",60
+135,Bj7DL3SwmYHZYqPduAsa2w,Johnny's Po-Boys,New Orleans,LA,"Breakfast & Brunch, Restaurants, Sandwiches",155
+136,BjBDHqHhMXSxgyVipccznQ,Rusty Pelican - Tampa,Tampa,FL,"African, Venues & Event Spaces, Steakhouses, Restaurants, Seafood, American (New), Event Planning & Services",83
+137,BjeHLwKOlHyV6DJgmZxAjA,Jimmy J's Cafe,New Orleans,LA,"American (Traditional), Cafes, American (New), Restaurants, Sandwiches, Breakfast & Brunch",122
+138,BuQGsltd3B4L_HRCP2jpTQ,Joey K's Restaurant & Bar,New Orleans,LA,"Restaurants, Southern",104
+139,BxfvdHqETU8jWYUjx5OL2A,Shake Shack,Philadelphia,PA,"Food, Hot Dogs, Burgers, Ice Cream & Frozen Yogurt, Fast Food, American (Traditional), Restaurants",313
+140,Bxmhm659VqrQYHc0hiku5w,Eddie & Sam's NY Pizza,Tampa,FL,"Salad, Food, Pizza, Restaurants, Desserts, Ice Cream & Frozen Yogurt, Gelato",202
+141,C26xmwM2_OgJJi2BbL3KkQ,Dickie Brennan's Steakhouse,New Orleans,LA,"Restaurants, Cajun/Creole, Steakhouses, Seafood, Local Flavor",112
+142,C6KP0hSutumHzLDCFyjvJQ,Katie's Pizza & Pasta Osteria,Saint Louis,MO,"Bars, Italian, Cocktail Bars, Nightlife, Beer, Wine & Spirits, Food, Pizza, Restaurants",84
+143,C9K3579SJgLPp0oAOM29wg,Peg Leg Porker,Nashville,TN,"Pubs, Nightlife, American (Traditional), Barbeque, Restaurants, Bars",254
+144,CG1Bb2MTraJYTHCPFm72XA,Red Dog Diner,New Orleans,LA,"American (New), Restaurants, Breakfast & Brunch, Bars, Nightlife, Diners, Cocktail Bars",115
+145,CTZEnTsW2JYN2NH1BCAaZw,Darfons Restaurant & Lounge,Nashville,TN,"American (New), Restaurants, Nightlife, American (Traditional), Bars, Lounges",58
+146,CYSPKiVdoPX3erovujnE9Q,Harp & Crown,Philadelphia,PA,"Active Life, Nightlife, Bars, American (Traditional), Bowling, Restaurants, American (New), Gastropubs",285
+147,Cbktlvci_z4HwdqPUW-5cg,Cafe Maspero,New Orleans,LA,"Cajun/Creole, Restaurants, Sandwiches, Seafood",68
+148,CgiwCrXs3Ggu9eKFPIgjtA,Conch Republic Grill,North Redington Bch,FL,"Seafood, Restaurants, Sandwiches, Chicken Wings",84
+149,ChlcxTEoWBQJXJ2Xb2vm5g,NOLA Restaurant,New Orleans,LA,"Cajun/Creole, American (New), Southern, Restaurants",226
+150,CkENBnSJFfPA1hY0qrqfCg,Carlitos Cafe Y Cantina,Santa Barbara,CA,"Restaurants, Mexican",28
+151,CoZ2mpsMBP8HUG1ymKoZTg,Opal Restaurant & Bar,Santa Barbara,CA,"Seafood, American (New), Sandwiches, Steakhouses, Restaurants, Bars, Nightlife",48
+152,CziOtnFSklimJnBgksDDwA,Pascucci,Santa Barbara,CA,"Gelato, Food, Restaurants, Italian, Vegetarian, Gluten-Free",45
+153,DKtAKuOjI6vUAHhW4NR5UA,Mulate's,New Orleans,LA,"Restaurants, Seafood, Nightlife, Cajun/Creole",77
+154,DOoJrrsqGzZN2FqzvllKnQ,Taco Mamacita,Nashville,TN,"Tacos, Mexican, Restaurants",130
+155,DXDoh8MNrqjtXsZnkuk4hA,Frenchy's Rockaway Grill,Clearwater Beach,FL,"Sandwiches, American (Traditional), Restaurants, Seafood",192
+156,DcBLYSvOuWcNReolRVr12A,Drago's Seafood Restaurant,New Orleans,LA,"Restaurants, Seafood",298
+157,DeVlppoc8dPBhOCPrm4wmg,Harry & Izzy's,Indianapolis,IN,"American (Traditional), Nightlife, Restaurants, American (New), Bars, Steakhouses",71
+158,Dv6RfXLYe1atjgz3Xf4GGw,HipCityVeg,Philadelphia,PA,"Burgers, Vegetarian, Restaurants, Vegan",269
+159,DvBdqAA3XleMaOMwBl7g4g,Kona Grill - Tampa,Tampa,FL,"Sushi Bars, American (New), Asian Fusion, Restaurants",174
+160,Dzm1y59cLFt8OjTsZRUC6w,Circles Waterfront at Lands End Marina,Apollo Beach,FL,"Seafood, Restaurants, Steakhouses, Bars, Nightlife",69
+161,E7RtIisUoRMcADSebBgNAA,Santa Barbara FisHouse,Santa Barbara,CA,"Tapas/Small Plates, Desserts, Restaurants, Breakfast & Brunch, Food, Seafood",68
+162,ECOUuwE5H1HHE8xBfNAjFg,Crescent City Brewhouse,New Orleans,LA,"American (Traditional), Restaurants, Food, Nightlife, Cajun/Creole, Breweries, Bars, Event Planning & Services, Venues & Event Spaces, Pubs, Brewpubs",105
+163,ELY0HI8GDEx0jkmREVna0A,Frankford Hall,Philadelphia,PA,"German, Restaurants, Nightlife, Food, Bars, Pretzels, Beer Gardens, Pubs",375
+164,EME5hqQLjBD7e2cLryupbA,Mr Ed's Oyster Bar - Bienville,New Orleans,LA,"Cajun/Creole, Southern, French, Salad, Restaurants, Nightlife, Seafood, Fish & Chips, Bars",77
+165,EQ-TZ2eeD_E0BHuvoaeG5Q,Milktooth,Indianapolis,IN,"Beer, Wine & Spirits, Cafes, Coffee & Tea, Restaurants, Food, Breakfast & Brunch, American (New)",118
+166,EQP8f7Rq5KXknJixlwxZEw,Salt Rock Grill,Indian Shores,FL,"American (New), Steakhouses, Seafood, Restaurants",106
+167,EYw42-YsnMr0pbqM5YXRxw,Engine No 9,Saint Petersburg,FL,"American (Traditional), Food, Burgers, Nightlife, Food Delivery Services, Sports Bars, Cajun/Creole, Bars, Restaurants, American (New), Pubs",180
+168,EZc2myE2mYk2h9JK9qu8gw,Finney's Crafthouse,Santa Barbara,CA,"Bars, American (Traditional), Gastropubs, Nightlife, Cocktail Bars, Restaurants, American (New)",55
+169,E_h2yNoagLK-3ODYwMPErw,V Street,Philadelphia,PA,"American (New), Breakfast & Brunch, Vegetarian, Vegan, Bars, Wine Bars, Restaurants, Nightlife",185
+170,EagkHaaC-kUozD3MPzbRIw,Stanley,New Orleans,LA,"Breakfast & Brunch, Food, Restaurants",254
+171,EtKSTHV5Qx_Q7Aur9o4kQQ,Village Whiskey,Philadelphia,PA,"Bars, Nightlife, Whiskey Bars, Burgers, Restaurants, American (New)",511
+172,EtM079Cj7-B3G7jPsGYb_Q,Sandbar,Santa Barbara,CA,"Nightlife, Arts & Entertainment, Restaurants, Dance Clubs, Bars, Music Venues, Mexican, Sports Bars",56
+173,FEBwxZMEpxRwVXx9Fm0XZw,Chad's,Santa Barbara,CA,"Diners, Salad, American (Traditional), Breakfast & Brunch, Restaurants",45
+174,FEXhWNCMkv22qG04E83Qjg,Café Du Monde,New Orleans,LA,"Flowers & Gifts, Gift Shops, Cafes, Restaurants, Coffee & Tea, Donuts, Food, Souvenir Shops, Shopping",169
+175,FGGDERcsTDYt6uLHPWEKrw,Martin's Bar-B-Que Joint,Nashville,TN,"Barbeque, Restaurants",98
+176,FHNIvNgh3fS7VZQq2Y3dsA,Cheu Noodle Bar,Philadelphia,PA,"Asian Fusion, Tapas/Small Plates, American (New), Restaurants, Vietnamese, Korean, Noodles, Ramen, Japanese",282
+177,FaY_9x8ZtsuHe5wS2iJM1Q,Verti Marte,New Orleans,LA,"Restaurants, Convenience Stores, Grocery, Sandwiches, Food, Delis, Shopping, Beer, Wine & Spirits, Tobacco Shops, Breakfast & Brunch, Salad",202
+178,FkmUQqJCjgAYSlckQL0umw,Bobby Hebert's Cajun Cannon,Metairie,LA,"Seafood, American (New), Nightlife, Tapas/Small Plates, Soul Food, Sports Bars, Restaurants, Bars, Cajun/Creole",66
+179,FqOCC8Y9xryaX7sIBJcrxA,Vic Sushi Bar,Philadelphia,PA,"Japanese, Sushi Bars, Restaurants",331
+180,FryXEasH74MQDnj5Bvz3QA,The Mud House,Saint Louis,MO,"Food, Breakfast & Brunch, Coffee & Tea, Restaurants, Sandwiches, Bakeries",133
+181,Fs4T7lKpXVtD5Pz7jWSJeg,Coquette,New Orleans,LA,"Restaurants, French, American (New)",142
+182,GBTPC53ZrG1ZBY3DT8Mbcw,Luke,New Orleans,LA,"German, Restaurants, Seafood, Cocktail Bars, French, Brasseries, American (New), Nightlife, Bars, Cajun/Creole, Breakfast & Brunch",553
+183,GSOLNXG5-IPvNj0DPf3kOQ,Irene's,New Orleans,LA,"Italian, Restaurants",117
+184,GST3wg-wej15vHeCvaXE6w,Acme Feed & Seed,Nashville,TN,"American (Traditional), Bars, Sushi Bars, Restaurants, Nightlife, Beer, Wine & Spirits, Food, Chicken Wings, Event Planning & Services, Venues & Event Spaces",200
+185,GVWcwqUD-ekCMQ0x2Ke6Ww,Ocean Prime,Tampa,FL,"Steakhouses, Seafood, Restaurants, Desserts, American (New), Food",175
+186,GXFMD0Z4jEVZBCsbPf4CTQ,Hattie B’s Hot Chicken - Nashville,Nashville,TN,"American (Traditional), Chicken Shop, Southern, Restaurants, Chicken Wings, American (New), Soul Food",477
+187,Gb5nFcTgOBWeMrmCIbxqJA,Two Chicks,Reno,NV,"Restaurants, Food, Breakfast & Brunch, American (New)",102
+188,GmXC3CBu172Bkb0c6RnO7w,Restaurant R'evolution,New Orleans,LA,"Event Planning & Services, Hotels, Cajun/Creole, Restaurants, Seafood, Southern, Hotels & Travel",153
+189,GoYSJ-YY-YwbxdgasHuq-Q,Mixto,Philadelphia,PA,"Latin American, Argentine, Restaurants, Breakfast & Brunch, Italian, Cuban, Caribbean",367
+190,GuzbBFraIq-fbkjfvaTRvg,Mesa Verde,Santa Barbara,CA,"Garage Door Services, Restaurants, Live/Raw Food, Food, Home Services, Mediterranean, Keys & Locksmiths, Burgers, Vegetarian, Juice Bars & Smoothies, Vegan, Salad",47
+191,H26zRyQkXXYzUZUOtppFcA,Green Lemon,Tampa,FL,"Food, Tapas Bars, Gluten-Free, Tacos, Restaurants, Latin American, Tapas/Small Plates, Breakfast & Brunch, Bars, Mexican, Event Planning & Services, Caterers, Nightlife",229
+192,H5Rk-aunuEzGANXCBu-NPQ,Miguel's Mexican Seafood & Grill,Tampa,FL,"Seafood, Party & Event Planning, Event Planning & Services, Restaurants, Mexican",186
+193,HCqmx4ENAZ76SAjoalj-MQ,Puckett's Grocery & Restaurant,Franklin,TN,"Barbeque, American (Traditional), Arts & Entertainment, Southern, Breakfast & Brunch, Comfort Food, Nightlife, Music Venues, Restaurants, Food, Grocery",59
+194,HKS-63JzfR0DMNVLBuokYw,Mission Taco Joint - Delmar Loop,St. Louis,MO,"Bars, Nightlife, Mexican, Restaurants, Beer Bar, Cocktail Bars",134
+195,HPqTJ_yF2ZJw87yHWnSzSg,City Tavern Restaurant,Philadelphia,PA,"Pubs, Restaurants, Event Planning & Services, Desserts, Food, Comfort Food, American (Traditional), Nightlife, Bars, Venues & Event Spaces, Italian, American (New)",97
+196,HuawlT4tXzCXL8ftyvCZ0Q,Topgolf,Tampa,FL,"Golf, Sports Bars, Nightlife, Active Life, Bars, Restaurants, American (New)",139
+197,HyZCLz5O3n24ne8gLgfvCQ,Stillwaters Tavern,Saint Petersburg,FL,"Bars, American (New), Restaurants, Food, Nightlife, American (Traditional), Seafood",133
+198,I0I2mkCOPTYVSLpc8A8VVw,Compère Lapin,New Orleans,LA,"Personal Chefs, Event Planning & Services, Restaurants, Caribbean, American (New), American (Traditional), French",133
+199,I2ISRV7IybkMc3HEYKUE9g,Audrey Claire,Philadelphia,PA,"Restaurants, Greek, Mediterranean, Seafood, American (New)",235
+200,I3Uy20BKx7G-Fzz6hLIeWg,Restaurant August,New Orleans,LA,"Cajun/Creole, American (New), Restaurants, French",194
+201,I6L0Zxi5Ww0zEWSAVgngeQ,Cafe Beignet on Bourbon Street,New Orleans,LA,"Sandwiches, Breakfast & Brunch, Cajun/Creole, Cafes, Food, Restaurants, Donuts",111
+202,IGxrAQcqw8Mr1x9WLXQsNA,Hawthornes Biercafé,Philadelphia,PA,"Breakfast & Brunch, American (Traditional), Food, American (New), Sandwiches, Restaurants, Beer, Wine & Spirits",253
+203,IJEivHHf5A8LzXXOn0o0Nw,Skull's Rainbow Room,Nashville,TN,"American (New), Public Services & Government, Landmarks & Historical Buildings, Diners, Salad, Bars, Burgers, Nightlife, American (Traditional), Restaurants, Steakhouses, Seafood, Breakfast & Brunch, Cocktail Bars",70
+204,IWHdx0NhDKADkGOgXgOFKQ,Tommy DiNic's,Philadelphia,PA,"Restaurants, American (Traditional), Sandwiches",420
+205,IZZ_uR2ps5KuuyE0n--jVA,Elizabeth's Restaurant,New Orleans,LA,"Nightlife, Southern, Restaurants, Breakfast & Brunch, Bars",218
+206,I_3LMZ_1m2mzR0oLIOePIg,Pappy's Smokehouse,Saint Louis,MO,"Food, Restaurants, Caterers, Smokehouse, Barbeque, Food Trucks, Event Planning & Services",294
+207,I_mCFePUG2MGuH-zuws7bA,Great Full Gardens-Midtown,Reno,NV,"American (Traditional), Breakfast & Brunch, Desserts, American (New), Restaurants, Vegan, Gluten-Free, Food",86
+208,Ih6_y2nnbg2Jw9Qdc876GA,Cafe Patachou,Indianapolis,IN,"Cafes, Restaurants, American (New), Breakfast & Brunch",91
+209,IkY2ticzHEn4QFn8hQLSWg,Geno's Steaks,Philadelphia,PA,"Sandwiches, Cheesesteaks, Steakhouses, Restaurants",387
+210,Ipkx4Sa7ybn8C6LtTqTztw,Double Knot,Philadelphia,PA,"Nightlife, Sushi Bars, Cafes, Japanese, Bars, Restaurants",353
+211,IvAa7PvfOYl0xRML5W3ebg,Yards Brewing Company,Philadelphia,PA,"American (Traditional), Nightlife, Food, Bars, Restaurants, Beer, Wine & Spirits, American (New), Pubs, Local Flavor, Breweries, Event Planning & Services, Venues & Event Spaces",212
+212,Iw8uqNPxviwcgxtruAx_LA,Good Dog Bar,Philadelphia,PA,"American (Traditional), Restaurants, Bars, Nightlife, Burgers, Sandwiches, Soup, Pubs",410
+213,J-Go00lYW4f4a3lLLtoh_A,Bobo's Restaurant,Tucson,AZ,"Burgers, Sandwiches, Diners, Restaurants, Breakfast & Brunch",54
+214,J0joPXxmN-_9Lzafspqdbw,Peg's Glorified Ham N Eggs,Reno,NV,"Restaurants, Breakfast & Brunch, Diners, Hawaiian, American (Traditional)",77
+215,J5SlGtKZglJk3VB6C3lrNg,Island Way Grill,Clearwater,FL,"Seafood, Sushi Bars, Steakhouses, Restaurants",91
+216,J6ZSgoKCLBDMMzuhM-aYGg,Eldorado Resort Casino,Reno,NV,"Arts & Entertainment, Hotels, Hotels & Travel, Restaurants, Casinos, Event Planning & Services, Resorts, Venues & Event Spaces",52
+217,J8S7cPPlTgsQnXKVfTyN8g,PYT,Philadelphia,PA,"American (Traditional), Food, Salad, Burgers, Bars, Nightlife, Restaurants",258
+218,JHRlwxxKY0JJcU97rJ-Bug,Cuba Libre Restaurant & Rum Bar - Philadelphia,Philadelphia,PA,"Nightlife, Cuban, Breakfast & Brunch, Latin American, Restaurants, Dance Clubs, Shopping, Bars, Beer, Wine & Spirits, Food",270
+219,JUlsvVAvZvGHWFfkKm0nlg,El Camino Real,Philadelphia,PA,"Mexican, Tex-Mex, Restaurants, Barbeque",277
+220,JVDHxMnKjif8XdXVFWiClg,Dizengoff,Philadelphia,PA,"Beer, Wine & Spirits, Middle Eastern, Restaurants, Food",276
+221,JWqbjm0wtbbciu_Gb6Eqyw,Mcnamara's Irish Pub and Restaurant,Nashville,TN,"Restaurants, Irish, Irish Pub, Sandwiches, Bars, Nightlife",70
+222,JrG4NINLspXPNhSXg7Q07Q,Front Street Cafe,Philadelphia,PA,"Coffee & Tea, Restaurants, Cafes, American (New), Cocktail Bars, Breakfast & Brunch, Vegan, Bars, Nightlife, Food, Juice Bars & Smoothies, Beer Gardens",166
+223,JvawJ9bSr22xn4R9oLvl_w,Desire Oyster Bar,New Orleans,LA,"Southern, Event Planning & Services, Restaurants, Cajun/Creole, Seafood, Live/Raw Food, Hotels & Travel, Hotels",90
+224,Jzb2IQSwPfULWzdl9Bq5fg,Monell's Dining & Catering,Nashville,TN,"Soul Food, Food, Southern, Diners, American (Traditional), Restaurants, Breakfast & Brunch, Salad",188
+225,K3RURR9lIEE4JjOaPt99zg,Sabrina's Café,Philadelphia,PA,"Vegetarian, Breakfast & Brunch, American (New), Coffee & Tea, American (Traditional), Caterers, Food, Cafes, Event Planning & Services, Restaurants, Diners",314
+226,K7KHmHzxNwzqiijSJeKe_A,Cafe La Maude,Philadelphia,PA,"Sandwiches, Cafes, Coffee & Tea, Restaurants, Food, Breakfast & Brunch, Mediterranean, American (New)",350
+227,KP5OncF2jhT7_J1phHPPww,Besito Mexican Restaurant,Tampa,FL,"Mexican, Restaurants, Salad, Food, Bars, Nightlife",176
+228,KSYONgGtrK0nKXfroB-bwg,Loquita,Santa Barbara,CA,"Event Planning & Services, Nightlife, Tapas Bars, Spanish, Modern European, Bars, Cocktail Bars, Seafood, Venues & Event Spaces, Restaurants",63
+229,KXecZki-_3N7afs6HKWM3A,Ichicoro Ramen,Tampa,FL,"Japanese, Cocktail Bars, Bars, Nightlife, Diners, Ramen, Restaurants",204
+230,KlZvP_k_VEJV0G-6tTqnqQ,Pier 424 Seafood Market,New Orleans,LA,"Cajun/Creole, Seafood, Restaurants, Southern",31
+231,L-VNs3YquPGKVsXl2Ze-Yg,Peacemaker Lobster and Crab,Saint Louis,MO,"Seafood, Restaurants",110
+232,L5LLN0RafiV1Z9cddzvuCw,Ulele,Tampa,FL,"Breweries, Food, American (New), Beer, Wine & Spirits, Restaurants, Seafood",414
+233,LGYIhGqbYakMMdsn_GCzJg,Anthonino's Taverna,Saint Louis,MO,"Greek, Pizza, Restaurants, Italian, Mediterranean",113
+234,LM54ufrINJWoTN5imV8Etw,John's Roast Pork,Philadelphia,PA,"Sandwiches, Salad, American (Traditional), Cheesesteaks, Breakfast & Brunch, Active Life, American (New), Beaches, Restaurants",295
+235,LZzDvgfpkd4nI3E4L9wF1w,El Charro Cafe,Tucson,AZ,"Tapas/Small Plates, Desserts, Cocktail Bars, Nightlife, Bars, Tacos, Mexican, Food, Restaurants, Salad",77
+236,LdECsE8lJS7v5GTFTcjPSg,Crabby Bill's Seafood,St. Pete Beach,FL,"Seafood, Restaurants",38
+237,LwX2vbzttWYAdoBoVtfvRg,City Tap House,Philadelphia,PA,"Pubs, Gastropubs, Venues & Event Spaces, Bars, Nightlife, Event Planning & Services, American (New), Restaurants",272
+238,M0r9lUn2gLFYgIwIfG8-bQ,Baileys' Range,Saint Louis,MO,"Ice Cream & Frozen Yogurt, Burgers, Food, Nightlife, Beer Bar, Bars, Restaurants",156
+239,M2h3vq8WeSiQAmyJtrPvbQ,Emeril's Delmonico,New Orleans,LA,"Restaurants, American (New), Cajun/Creole, Bars, Steakhouses, American (Traditional), Nightlife",94
+240,ME7nOO4hHoCwkbssGqsyPA,Blackbird Pizzeria,Philadelphia,PA,"Restaurants, Pizza, Vegan",135
+241,MI7cUsPiQGYQRuQmn3MbtA,Boca - Tampa,Tampa,FL,"Live/Raw Food, American (New), Breakfast & Brunch, Restaurants, Nightlife, American (Traditional), Bars",227
+242,MJI-bNIn3QDgiGggm9Wp1w,Moby Dick Restaurant,Santa Barbara,CA,"Seafood, American (Traditional), Breakfast & Brunch, Restaurants",18
+243,MMRRS6YhVRx_iN5-JhMRYg,Han Dynasty,Philadelphia,PA,"Restaurants, Chinese, Szechuan",235
+244,MbzgGsMQpGyVrUJXi_Jw0Q,Dawn Patrol,Santa Barbara,CA,"Coffee & Tea, Breakfast & Brunch, Restaurants, American (New), Food",44
+245,Meww6RIE4cFL_kG0aRlbAA,Blue Oak BBQ,New Orleans,LA,"Chicken Wings, Restaurants, Nightlife, Barbeque, Bars, Event Planning & Services, Caterers",166
+246,Mr7Aov2n7wPCpwaUxk8lCw,Mango,Saint Louis,MO,"Tapas Bars, Comfort Food, Tapas/Small Plates, Restaurants, Peruvian, Latin American, Seafood",107
+247,NB5XTBuLVCn7c9Lu5SUqKg,Chauhan Ale & Masala House,Nashville,TN,"Gastropubs, Restaurants, Nightlife, Southern, Bars, Indian",143
+248,NFzfuIFghE-HnrodHpaT6A,Garces Trading Company,Philadelphia,PA,"Cheese Shops, Food, Specialty Food, Sandwiches, Cafes, Restaurants, Pizza, American (New), Beer, Wine & Spirits, Butcher, Modern European, Italian, Bars, Nightlife",356
+249,NGR_aVWJ-W_KHvBDrmFP1A,Atlantis Toucan Charlie's Buffet & Grille,Reno,NV,"Restaurants, Buffets",66
+250,NHb6QTrJOnyIj-Zd0fYzFg,Bogart's Smokehouse,Saint Louis,MO,"Food, Event Planning & Services, American (Traditional), Caterers, Smokehouse, Barbeque, Sandwiches, Restaurants",146
+251,NIQWO-Q_F598XlAvZnFVCA,Eureka!,Santa Barbara,CA,"Restaurants, American (Traditional), Lounges, Nightlife, Bars, Burgers, American (New)",76
+252,NT5S6JV5wPwKOd3s3Yh1zQ,Burger Up,Nashville,TN,"Restaurants, American (New), Sandwiches, Burgers",156
+253,NTiPDvC99_yK0RY9ltnLgQ,Ale Emporium,Indianapolis,IN,"Sports Bars, Arts & Entertainment, Restaurants, Burgers, Nightlife, Bars, Chicken Wings, Pizza, Pubs, Music Venues",66
+254,Ns8vJxhsc5ygiX7Vff1bDQ,Rippy's Bar & Grill,Nashville,TN,"Restaurants, Nightlife, Arts & Entertainment, Barbeque, Bars, Music Venues, American (Traditional)",58
+255,OCzo8T-76iJ_QVB2UX5SEQ,Killer Poboys,New Orleans,LA,"American (New), Sandwiches, Food, Cajun/Creole, Restaurants",122
+256,OHzX-ZD9qyoeoxR8Z0dlIA,Khyber Pass Pub,Philadelphia,PA,"Restaurants, American (Traditional), Bars, Pubs, Nightlife, Gastropubs",272
+257,OJEiB_a2I_gxC-ZeayI94A,Another Broken Egg Cafe,Nashville,TN,"American (Traditional), Restaurants, Cafes, Breakfast & Brunch",26
+258,ORL4JE6tz3rJxVqkdKfegA,Gaylord Opryland Resort & Convention Center,Nashville,TN,"Venues & Event Spaces, Performing Arts, Arts & Entertainment, Hotels & Travel, Food, Convenience Stores, American (New), Beauty & Spas, Restaurants, Museums, Event Planning & Services, Hotels, Cinema, Resorts, Day Spas",108
+259,OWOOc0YjU_kioLeEgo5VCA,Loveless Cafe,Nashville,TN,"Food, American (Traditional), Arts & Entertainment, Southern, Nightlife, Restaurants, Breakfast & Brunch, Music Venues",244
+260,OXDo1mHlp2Io3CM6a1aB1w,Seoul Taco,Saint Louis,MO,"Restaurants, Asian Fusion, Food, Mexican, Food Trucks, Korean",109
+261,OZcl2HOUXAHuICrh5d2WjQ,Half & Half,Clayton,MO,"Restaurants, Cafes, Breakfast & Brunch",132
+262,ObHsdZKeFSvoPJT8D0r1yA,The Avenue DTSP,Saint Petersburg,FL,"Dive Bars, Burgers, Cocktail Bars, American (Traditional), American (New), Bars, Restaurants, Nightlife",113
+263,OdIBX09glfXNVSyd0RnIeg,Monk's Cafe,Philadelphia,PA,"Nightlife, Pubs, Bars, Belgian, Restaurants, Gastropubs",548
+264,P-TC0VSnUsct3NhYrj5xOA,Thinh An Kitchen & Tofu,Tampa,FL,"Food, Vietnamese, Sandwiches, Bakeries, Soup, Restaurants",133
+265,P6ud6vukerhdIqpoejMFqg,Twisted Fork,Reno,NV,"American (New), Restaurants",94
+266,PGd06nrseC2YAIqP6S9gUA,Ruby Slipper Cafe,New Orleans,LA,"American (New), Breakfast & Brunch, Restaurants, Cafes",115
+267,PP3BBaVxZLcJU54uP_wL6Q,Pat's King of Steaks,Philadelphia,PA,"Italian, American (Traditional), Sandwiches, Fast Food, Restaurants, Local Flavor, Cheesesteaks",475
+268,PVieWiYn8GK9GSLnNFmOyA,Morning Call Coffee Stand,New Orleans,LA,"Breakfast & Brunch, Coffee & Tea, Donuts, Restaurants, Food, Cafes",112
+269,PlaECqs3oPBRo47p85zkzw,Party Fowl - The Gulch,Nashville,TN,"Soup, Breakfast & Brunch, American (New), Chicken Shop, Chicken Wings, Southern, Restaurants, Nightlife, Bars, American (Traditional), Cocktail Bars, Sports Bars",129
+270,Ppy-UN5RptIog4AvNnAM-g,Acme Oyster House,Metairie,LA,"Seafood, Sandwiches, Cajun/Creole, Restaurants",87
+271,Ps7Q7BOKzJO4nDTUhbk43Q,Clear Sky Cafe,Clearwater,FL,"Restaurants, American (Traditional), Tapas/Small Plates, Seafood, Breakfast & Brunch, American (New)",116
+272,PwbeSKSCBnqXJlAxEaUrnA,Rosepepper Mexican Grill,Nashville,TN,"Nightlife, Bars, Restaurants, Dive Bars, Mexican",128
+273,Q-prSTdggNlxAEFV88BZOw,Tria Cafe Wash West,Philadelphia,PA,"Beer, Wine & Spirits, Wine Bars, Modern European, American (New), Cheese Shops, Specialty Food, Food, Restaurants, Bars, Nightlife",287
+274,Q4h1hSX21mzSEUfZ6iU3iQ,Rumba Island Bar & Grill,Clearwater,FL,"Bars, Nightlife, Restaurants, Barbeque, Caribbean, Seafood",72
+275,QA8QLpwf_YT9C2ST5YJ0vw,Galatoire's Restaurant,New Orleans,LA,"Cajun/Creole, Southern, Restaurants, French",157
+276,QHWYlmVbLC3K6eglWoHVvA,Datz,Tampa,FL,"Burgers, Bars, Restaurants, American (Traditional), Vegan, Asian Fusion, Cocktail Bars, Breakfast & Brunch, Soul Food, Sandwiches, American (New), Gastropubs, Comfort Food, Nightlife, Wine Bars, Delis",451
+277,QaFbv7aLQBcfT4xMF1_WnQ,Rockfire Grill,Goleta,CA,"Restaurants, Chicken Wings, Sandwiches, Breakfast & Brunch, Pizza, Burgers",31
+278,Qlmusk0BBY0kMOd8Y96H4A,Kingfish,New Orleans,LA,"Nightlife, Local Flavor, Cocktail Bars, Cajun/Creole, Bars, Restaurants",121
+279,Qw7tz-UkPrpXaVidWuab4Q,Philadelphia Museum of Art,Philadelphia,PA,"Art Museums, Jazz & Blues, Arts & Crafts, American (New), Shopping, Museums, Nightlife, Art Galleries, Restaurants, Arts & Entertainment",177
+280,R17gwW6zn9ilslbdvKdgsg,Alma de Cuba,Philadelphia,PA,"Latin American, Nightlife, Cocktail Bars, Caribbean, Cuban, Restaurants, Bars",360
+281,R8t9g5nvi7VFyS8zsgmj8Q,Salt + Smoke,Saint Louis,MO,"Restaurants, American (Traditional), Barbeque, Cocktail Bars, Bars, Nightlife",165
+282,R9TBf8VqGQ83kvdIxkC9RQ,Dooky Chase's Restaurant,New Orleans,LA,"Restaurants, Sandwiches, Soul Food, Buffets, Cajun/Creole",90
+283,RGXb-3iUuaORNWB_nt_RcQ,Galliano Restaurant,New Orleans,LA,"Cajun/Creole, Seafood, Southern, Restaurants",47
+284,RLlOK2fL6xU1sfIPiP2QBw,Deanie's Seafood,New Orleans,LA,"Restaurants, American (Traditional), Food, French, Specialty Food, Seafood, Diners, Cajun/Creole, Seafood Markets, Event Planning & Services, Southern, Caterers, Salad",191
+285,RQAF6a0akMiot5lZZnMNNw,Dalessandro’s Steaks & Hoagies,Philadelphia,PA,"Sandwiches, Delis, Restaurants, Cheesesteaks",267
+286,RRCgIohWjaeGtlbpcYJBbw,Lenny's Restaurant,Clearwater,FL,"Delis, American (Traditional), Breakfast & Brunch, Restaurants",114
+287,Rb9QIj-NyRn_giOBN991YA,Pine State Biscuits - Reno,Reno,NV,"Southern, Comfort Food, Breakfast & Brunch, Restaurants",57
+288,ReV4Q3rEJ8neicQPc6pC0w,St. Elmo Steak House,Indianapolis,IN,"Steakhouses, Seafood, Restaurants, Bars, Cocktail Bars, Nightlife",125
+289,ReVpjIDupK_VMPn7ZxPvOQ,Roux,Tampa,FL,"Cocktail Bars, Breakfast & Brunch, Food, Southern, Nightlife, Restaurants, Bars, Cajun/Creole, Seafood, Beer, Wine & Spirits, American (Traditional)",184
+290,ReX09lhufLTAx19krkltDA,Fido,Nashville,TN,"Bakeries, American (Traditional), American (New), Restaurants, Breakfast & Brunch, Sandwiches, Coffee & Tea, Food, Desserts, Cafes",184
+291,Rl42JbSMsmNW3LRjsTMYAg,Freebirds,Isla Vista,CA,"Salad, Restaurants, Tacos, Mexican, Breakfast & Brunch",59
+292,RnhLCG4N9MPy6ZRzq787Cg,Devil's Alley Bar & Grille,Philadelphia,PA,"Local Flavor, Nightlife, Bars, American (New), Restaurants, Breakfast & Brunch, Sports Bars, Pubs",289
+293,RqW9S4WG9UYZHKhHRHXJZg,Lolis Mexican Cravings,Tampa,FL,"Ethnic Food, Restaurants, Specialty Food, Mexican, Food",168
+294,RscMwBafa1cZh94tGlZT_Q,Ichiban Japanese Steak House,Reno,NV,"Steakhouses, Grocery, Restaurants, Japanese, Food, Sushi Bars, Ethnic Food, Asian Fusion, Specialty Food, Event Planning & Services, Caterers",57
+295,Rv8bW3pkzpi5dZu5ckbgtA,Guadalajara Original Grill,Tucson,AZ,"Bars, Seafood, Breakfast & Brunch, Mexican, Nightlife, Restaurants",65
+296,S2Ho8yLxhKAa26pBAm6rxA,Creole House Restaurant & Oyster Bar,New Orleans,LA,"Cajun/Creole, Seafood, Restaurants, Breakfast & Brunch",50
+297,S2n_06z4lGLZfdJ53XAXQQ,Etch,Nashville,TN,"Desserts, Wine Bars, Restaurants, Event Planning & Services, Seafood, Food, Nightlife, Bars, Middle Eastern, Venues & Event Spaces, Asian Fusion, Mediterranean, American (New), Salad",176
+298,S8ZFYEgMejpChID8tzKo9A,Amada,Philadelphia,PA,"Spanish, Restaurants, Breakfast & Brunch, Tapas Bars, Iberian",596
+299,SCjUeZfjafJ88fWWQjRh2w,El Rey,Philadelphia,PA,"Restaurants, Lounges, Bars, Mexican, Nightlife, Tex-Mex, Breakfast & Brunch",352
+300,SJIQFKTW6uUsOo29w9IHxw,Mambo's,New Orleans,LA,"Cocktail Bars, Soul Food, Nightlife, Food, Desserts, Bars, Seafood, Cajun/Creole, Restaurants",35
+301,SYHDOHRNAH-2xsw3XB5qbg,The Shop Kitchen,Santa Barbara,CA,"American (New), Food, Restaurants, Coffee & Tea, Breakfast & Brunch",67
+302,SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,Santa Barbara,CA,"Live/Raw Food, Restaurants, Seafood, Beer Bar, Beer, Wine & Spirits, Bars, Food, Nightlife",96
+303,S_jfDqc2TUhkraTpeZgqjg,Bakersfield,Indianapolis,IN,"Bars, Mexican, Nightlife, Cocktail Bars, Restaurants, Tacos",148
+304,Ss6f5v_t5Vddiaz4ZOxL0g,Andersen's Danish Bakery & Restaurant,Santa Barbara,CA,"Modern European, Nightlife, Bars, Restaurants, Bakeries, Wine Bars, Food, Scandinavian, Breakfast & Brunch",50
+305,Sv1MEZP-mMfp8SmE0hwYEA,Terakawa Ramen,Philadelphia,PA,"Japanese, Ramen, Ethnic Food, Restaurants, Local Flavor, Food, Specialty Food",399
+306,SwBhaxfQPbyhsi0QHUAN0A,Seminole Hard Rock Hotel & Casino Tampa,Tampa,FL,"Food, Hotels, Coffee & Tea, Hotels & Travel, Restaurants, Casinos, Burgers, Bars, Nightlife, Arts & Entertainment, Event Planning & Services",115
+307,T2JzbrPH2GkY6XpyzNe7ow,Marché Artisan Foods,Nashville,TN,"Breakfast & Brunch, Specialty Food, Restaurants, French, Delis, Food",143
+308,TDKBPcViJQDMrdUm6a9XZA,The Depot Craft Brewery Distillery,Reno,NV,"Food, Restaurants, Brasseries, Breweries, Distilleries, Gastropubs",96
+309,TF3qNGUBUgIYp6u0j79JHQ,BJ's Nevada Barbecue,Sparks,NV,"Breakfast & Brunch, American (Traditional), Barbeque, Cafes, Restaurants",70
+310,TNTBObKmICMn13T0pyAGyg,BellaBrava,St. Petersburg,FL,"Pizza, Bars, Italian, Nightlife, Restaurants",165
+311,TSKCK51GymAsxiA-kx-RiA,Butchertown Hall,Nashville,TN,"American (Traditional), Breakfast & Brunch, German, Gastropubs, Restaurants, American (New)",98
+312,TV81bpCQ6p6o4Hau5hk-zw,Hellas Restaurant,Tarpon Springs,FL,"Food, Bakeries, Greek, Restaurants, Soup",174
+313,TcNZXteosegb1RO4O5hREw,Parkway Bakery & Tavern,New Orleans,LA,"Restaurants, Sandwiches, Seafood, Food, Desserts, Bakeries, Comfort Food, Beer, Wine & Spirits",363
+314,TunmRrfZb7bt53T6HJi4UQ,Bleu Sushi,Philadelphia,PA,"Sushi Bars, Japanese, Restaurants, Asian Fusion, Tapas/Small Plates",147
+315,TwnzM8mJn_nT2PJf1x-9kQ,Cafe Lift,Philadelphia,PA,"Caterers, American (New), Breakfast & Brunch, Event Planning & Services, Diners, Restaurants",356
+316,TzkVUJab9Sh0CqDk2sCF-w,Bayona,New Orleans,LA,"Restaurants, Mediterranean, Salad, American (New), Nightlife, Bars, Gastropubs, Gluten-Free",106
+317,U2hkeMI-q4cS35QolJYN0A,Arigato Sushi,Santa Barbara,CA,"Restaurants, Sushi Bars, Japanese, Asian Fusion",57
+318,U3grYFIeu6RgAAQgdriHww,Brophy Bros - Santa Barbara,Santa Barbara,CA,"Cocktail Bars, Fish & Chips, Nightlife, Seafood, Restaurants, Bars",147
+319,U4X-tzwvTzW8uWxs2KIPtg,The Original Pierre Maspero's,New Orleans,LA,"Seafood, Restaurants, Cajun/Creole, Sandwiches, Breakfast & Brunch",111
+320,UBX73ZWgCdgom4nv0UeGvg,Border Cafe,Newark,DE,"Cajun/Creole, Vegetarian, Restaurants, Tex-Mex, Cocktail Bars, Bars, Nightlife",45
+321,UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,Tucson,AZ,"Restaurants, Cocktail Bars, Bars, Comfort Food, American (New), Sandwiches, Nightlife, Breakfast & Brunch",129
+322,UFCN0bYdHroPKu6KV5CJqg,The Eagle,Indianapolis,IN,"Nightlife, Comfort Food, Restaurants, American (New), American (Traditional), Soul Food, Southern, Bars, Beer Bar, Sandwiches",141
+323,UGefDZNmnBztS0eoXWtHyQ,The Joint,New Orleans,LA,"Southern, Nightlife, Sandwiches, Barbeque, Restaurants, Bars",194
+324,UTg2aZ9zXLK8_0K-UnCVUA,Rock Bottom Restaurant & Brewery,Nashville,TN,"Restaurants, Breweries, Food Trucks, American (New), Food",44
+325,UboXRwy2UBVH91pAwHiK_w,Weber Grill Restaurant,Indianapolis,IN,"Steakhouses, Barbeque, American (Traditional), Restaurants, Seafood, Burgers",59
+326,UeYZgcORV2Veo_BZzdiaTg,Napoleon House,New Orleans,LA,"Cocktail Bars, American (Traditional), Party & Event Planning, Nightlife, Cafes, Bars, Restaurants, Event Planning & Services, Salad, Sandwiches",183
+327,UjQnH-pElJZ9jD51vOt5Rw,Wildflower,Tucson,AZ,"Event Planning & Services, American (New), Food, Beer, Wine & Spirits, Gluten-Free, Venues & Event Spaces, Burgers, Restaurants",77
+328,UlGS2NxZSiph33E3nfovRw,Whiskey Kitchen,Nashville,TN,"Bars, Lounges, Whiskey Bars, Restaurants, American (New), Nightlife",131
+329,UnBs9SfFGQ7TpE_3uYIqfg,Charley's Steak House,Tampa,FL,"Steakhouses, Restaurants, Seafood",148
+330,UnQriKTiNsYnyPE3Rt8lTQ,Tableau,New Orleans,LA,"Cajun/Creole, Wine Bars, Bars, Nightlife, Food, Restaurants, Southern, Cocktail Bars, Food Delivery Services, Seafood",130
+331,UuRZpgZsHX7PyykHV3wbZg,Crushcakes & Cafe,Santa Barbara,CA,"Bakeries, Cafes, Coffee & Tea, Food, Desserts, Breakfast & Brunch, Restaurants",40
+332,V0SHmvYtXqdv8-AsqshV6w,Smokin Bettys,Philadelphia,PA,"Nightlife, Bars, American (New), Barbeque, Restaurants",274
+333,V2xSuNLZb6QAb7GdNkI3rg,The Frog Pond,St Pete Beach,FL,"Breakfast & Brunch, Waffles, Restaurants",42
+334,V9VLhHdSFpFi4yXFqVcVEA,Pêche,New Orleans,LA,"Seafood, Restaurants",244
+335,VAeEXLbEcI9Emt9KGYq9aA,The Pharmacy,Nashville,TN,"Burgers, Sandwiches, Food, Beer, Wine & Spirits, American (Traditional), Bars, Nightlife, Restaurants",314
+336,VQcCL9PiNL_wkGf-uF3fjg,Royal House,New Orleans,LA,"American (New), Restaurants, Sandwiches, Seafood, Cajun/Creole",308
+337,VVH6k9-ycttH3TV_lk5WfQ,Willie Mae's Scotch House,New Orleans,LA,"Comfort Food, Restaurants, Southern",360
+338,VXAPhFVCpwUjG2JIYCHRnw,Mesh Restaurant,Indianapolis,IN,"Desserts, Seafood, Steakhouses, Food, Bars, American (New), Breakfast & Brunch, Restaurants, Nightlife",94
+339,VaO-VW3e1kARkU9bP1E7Fw,Felix's Restaurant & Oyster Bar,New Orleans,LA,"Restaurants, Sandwiches, Seafood, Cajun/Creole",330
+340,VhBW615VRkiQLP03oAZ59Q,Ijji 2 Sushi & Japanese Steakhouse,Reno,NV,"Sushi Bars, Japanese, Restaurants, Steakhouses",76
+341,Vz2RN55rTJBGn43K1v84nA,Domenica,New Orleans,LA,"Restaurants, Italian, Pizza, Tapas/Small Plates",322
+342,W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,New Orleans,LA,"Bars, Breakfast & Brunch, Restaurants, Barbeque, Cajun/Creole, Cafes, Cocktail Bars, Nightlife",268
+343,W9y4JkMqy2dFNwYc3Y5cKQ,Hinoki Sushi,Reno,NV,"Japanese, Seafood, Sushi Bars, Restaurants",54
+344,WCdSajl5Q0qywpv7K5jHdQ,Sugarfire Smoke House,Saint Louis,MO,"Sandwiches, Salad, Barbeque, Turkish, Burgers, Soup, Food, Restaurants, Desserts",58
+345,WMkiheTT-8kRslImVLWMVw,Standard Tap,Philadelphia,PA,"Local Flavor, American (Traditional), Restaurants, Burgers, Desserts, Breakfast & Brunch, Food, American (New), Gastropubs, Beer, Wine & Spirits, Nightlife, Bars, Pubs",283
+346,WNhcS2zi4zAqA2TbduVINQ,Cleo's,New Orleans,LA,"Food, Convenience Stores, Vegan, Salad, Mediterranean, Seafood, Middle Eastern, Halal, Kebab, Restaurants, Vegetarian",81
+347,WSx9-iYYyST_umny9sJBFg,The Parish,Tucson,AZ,"Gastropubs, Cajun/Creole, Southern, Burgers, American (New), Restaurants",77
+348,WXgV2lOUgas7DzTLeDau-w,The Rum House,New Orleans,LA,"Cocktail Bars, Tacos, Restaurants, Food, Caribbean, Tapas/Small Plates, Bars, Nightlife, Mexican",233
+349,WZUIlyefoUhuH_VkVCEyAw,North Italia,Tucson,AZ,"Italian, Restaurants, Venues & Event Spaces, American (New), Nightlife, Cocktail Bars, Bars, Pizza, Event Planning & Services",96
+350,WrZaL6BxHqVqt3sAcJ-5Rg,Bluebeard,Indianapolis,IN,"Restaurants, American (New), Venues & Event Spaces, Event Planning & Services",92
+351,WxB8498ejPtHE7wFa89_fA,The Continental Mid-town,Philadelphia,PA,"Breakfast & Brunch, Lounges, Bars, Cocktail Bars, Nightlife, American (Traditional), American (New), Restaurants",471
+352,X0vPZIkbUj22afBQz5-neA,Ford's Garage,Brandon,FL,"Nightlife, Bars, Desserts, Food, Restaurants, Burgers, Comfort Food, Breakfast & Brunch, Cocktail Bars, American (Traditional)",108
+353,XF2SR4yNnIOGRGH9goofuA,Cassis St. Pete,St Petersburg,FL,"Brasseries, French, American (New), Restaurants",125
+354,XJ1KN2kQGBIo8h1nWvZNzw,Rick's Cafe Boatyard,Indianapolis,IN,"Cafes, Bars, American (Traditional), Nightlife, Seafood, Restaurants",61
+355,Xm3fazqrD-Fi4tVPlc4i6Q,Caplinger's Fresh Catch,Indianapolis,IN,"Sandwiches, Cajun/Creole, Specialty Food, Food, Seafood, American (New), Restaurants, Seafood Markets",49
+356,XnQ84ylyAZwh-XfHGGNBbQ,Coop's Place,New Orleans,LA,"Cajun/Creole, Nightlife, Bars, Restaurants",282
+357,XrikSy0DQ_fhVCaRRBJI-g,Kayne Prime,Nashville,TN,"Restaurants, Steakhouses",113
+358,XuQ5ekbJ9eRUX06JTqJHaQ,The Mill Restaurant,Saint Petersburg,FL,"Breakfast & Brunch, American (New), Bars, Lounges, Restaurants, Nightlife",164
+359,Y2Pfil51rNvTd_lFHwzb_g,Cafe Beignet on Royal Street,New Orleans,LA,"Cafes, Breakfast & Brunch, Food, Restaurants, Coffee & Tea, Local Flavor, Sandwiches, Donuts",239
+360,YMOCOlONOae4zaiKImTnTQ,Reef Sushi & Sake,Reno,NV,"Restaurants, Sushi Bars, Asian Fusion, Japanese",40
+361,YPTYOQO8Lg9BtHsRwYBY7g,Mai Lee,Saint Louis,MO,"Restaurants, Chinese, Vietnamese, Vegetarian, Asian Fusion, Noodles",159
+362,YSRM9nWQn40eg49tSiI-_Q,Mi Nidito Restaurant,Tucson,AZ,"Restaurants, Mexican, Desserts, Food, Latin American, Tacos, Breakfast & Brunch, Soup",37
+363,YSgcojsb2kWHXNLWaGCuBA,Pastaria,Clayton,MO,"Italian, Gluten-Free, Restaurants, Breakfast & Brunch",149
+364,YvrV_Tc9syF2Wch0HOIT3A,Flamingo A-Go-Go,New Orleans,LA,"Sandwiches, Nightlife, American (New), Bars, Restaurants",73
+365,Z4PF4EtM12L7nwOHZHFJNA,Seed,New Orleans,LA,"Vegan, American (New), Restaurants, American (Traditional), Vegetarian, Breakfast & Brunch",72
+366,ZDV6ocQSe6dkMt-u011xcQ,Eat New Orleans,New Orleans,LA,"Cajun/Creole, Breakfast & Brunch, Soul Food, Restaurants",99
+367,ZKPrXH_GNW_AtZ31tP3NmA,White Dog Cafe,Philadelphia,PA,"Cocktail Bars, Gluten-Free, Bars, Diners, Vegetarian, Nightlife, Restaurants, American (New), Breakfast & Brunch, American (Traditional), Pubs",295
+368,ZTctPm8-lBy0iJ9dFhYhyQ,Herbsaint,New Orleans,LA,"Seafood, Restaurants, French",154
+369,Z_WZq3uFGqvtjsFl6kNBQA,Campo,Reno,NV,"Italian, Restaurants",108
+370,ZfOS7Mz-iGseNxBhlhXm_w,Lucky Dill Deli,Palm Harbor,FL,"Coffee & Tea, Restaurants, Desserts, Food, American (New), Sandwiches, Breakfast & Brunch, Delis",94
+371,Zi-F-YvyVOK0k5QD7lrLOg,Muriel's Jackson Square,New Orleans,LA,"Cajun/Creole, Restaurants",224
+372,Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,Nashville,TN,"American (New), Restaurants, American (Traditional), Food, Breakfast & Brunch, Coffee & Tea, Pizza",126
+373,_0QZGrg91aaiMhh7tQyYYg,Jacksons Bistro Bar & Sushi,Tampa,FL,"Seafood, Japanese, Nightlife, Dance Clubs, Bars, American (New), Restaurants, Sushi Bars",164
+374,_4bhVmlvT9dvqydQG2TOMA,Olive + Oak,Saint Louis,MO,"American (Traditional), Restaurants, Nightlife, Wine Bars, Bars, Seafood, Cocktail Bars",76
+375,_78Lam9Jd0W6ZmnHTvdjMg,Armature Works,Tampa,FL,"Specialty Food, Event Planning & Services, Food, Venues & Event Spaces, Real Estate, Restaurants, Southern, Food Court, Bars, Shared Office Spaces, Nightlife, Home Services",235
+376,_C7QiQQc47AOEv4PE3Kong,Commander's Palace,New Orleans,LA,"French, Restaurants, Cocktail Bars, Nightlife, American (New), Cajun/Creole, Breakfast & Brunch, American (Traditional), Bars",628
+377,_LOJW0XkOpj4O348GVRDeQ,Zavino,Philadelphia,PA,"Italian, Wine Bars, Bars, Mediterranean, Pizza, Restaurants, Nightlife",272
+378,_LgI5387qAmMuS8i6h69cg,Meril,New Orleans,LA,"Restaurants, American (New)",141
+379,_MWbuRiTqbWEjlfxRAvzWQ,Cristino's Coal Oven Pizza,Clearwater,FL,"Pizza, Restaurants",88
+380,_NozEKb4y0jkC08DWU8ywA,Golden Flower Vietnamese,Reno,NV,"Restaurants, Desserts, Vietnamese, Bars, Chinese, Food, Soup, Nightlife",87
+381,_OMGZ3TXOfN2By7skat_bw,Drunken Fish - Central West End,Saint Louis,MO,"Japanese, Restaurants, Lounges, Nightlife, Bars, Sushi Bars",72
+382,_RvXPNxWcRw833a8B3vSOQ,Mission BBQ,Nashville,TN,"Sandwiches, Barbeque, Restaurants, Salad",32
+383,_UOg5_pk9IhKee91eWrT4A,Sweet Lucy's Smokehouse,Philadelphia,PA,"Smokehouse, Barbeque, Food, Restaurants, Buffets",131
+384,_V6hl1oGkTV2KbGeax_HPA,Sang Kee Peking Duck House,Philadelphia,PA,"Restaurants, Noodles, Dim Sum, Hong Kong Style Cafe, Cantonese, Food, Barbeque, Juice Bars & Smoothies, Chinese",267
+385,_aKr7POnacW_VizRKBpCiA,Blues City Deli,Saint Louis,MO,"Delis, Bars, Restaurants, Nightlife, Pubs, American (Traditional), Sandwiches",140
+386,_ab50qdWOk0DdB6XOrBitw,Acme Oyster House,New Orleans,LA,"Live/Raw Food, Seafood, Restaurants, Cajun/Creole",633
+387,_h94BxrrFKPvzUIRx3Xkhg,Saints And Sinners,New Orleans,LA,"Seafood, Nightlife, Piano Bars, Restaurants, Cocktail Bars, Cajun/Creole, Bars, Sandwiches",65
+388,_zzNQl6ImFw_B64cSdaoGA,Seabreeze Island Grill,Redington Shores,FL,"Caribbean, American (Traditional), Restaurants, Seafood",71
+389,a32M9H9nkkPGKTKB5W27NA,Enterprise Fish,Santa Barbara,CA,"Lounges, Nightlife, Restaurants, Bars, Seafood, American (Traditional), Soup",70
+390,aDgughL1vDootnXe5kUWGQ,Otaku Ramen,Nashville,TN,"Bars, Ramen, Food, Restaurants, Japanese, Cocktail Bars, Bubble Tea, Nightlife",103
+391,aI3B47Y_AUYFP5K5JAYrlA,Polite Society,Saint Louis,MO,"American (New), Breakfast & Brunch, Tapas/Small Plates, Beer, Wine & Spirits, Cocktail Bars, Wine Bars, Bars, Nightlife, Restaurants, Steakhouses, Food",69
+392,aUoMG97DMJG4nmwhT6z1zA,Devon Seafood Grill,Philadelphia,PA,"Bars, Restaurants, Nightlife, Seafood",252
+393,ac1AeYqs8Z4_e2X5M3if2A,Oceana Grill,New Orleans,LA,"Restaurants, Seafood, Cajun/Creole, Breakfast & Brunch",314
+394,arjkq9xxhTjwmncEsXNRmQ,Harrah's Reno,Reno,NV,"Arts & Entertainment, Event Planning & Services, Restaurants, Hotels, Casinos, Hotels & Travel",43
+395,atZ_olNKXOG4rEr6mccN8g,Beiler's Bakery,Philadelphia,PA,"Food, Donuts, Food Stands, Restaurants, Specialty Food, Bakeries, Breakfast & Brunch",369
+396,b7V_5q22_eTeHlYzq1bpFw,Harbor Seafood & Oyster Bar,Kenner,LA,"Seafood, Restaurants",80
+397,bjPUhanWoinHi2kywvVzBA,Mercato BYOB,Philadelphia,PA,"Italian, Mediterranean, Restaurants",257
+398,bp5Mk2d0qofUeF5uLauIbg,Chef Ron's Gumbo Stop,Metairie,LA,"Ethnic Food, Food, Cajun/Creole, Specialty Food, Comfort Food, Restaurants",90
+399,c-iKAO2GBzSKjm7y1Oljcw,Red Fish Grill,New Orleans,LA,"Seafood, Restaurants, Cajun/Creole",180
+400,c0F9yKr0bJuQDtG1lzDgmQ,Craft Street Kitchen - Oldsmar,Oldsmar,FL,"Breakfast & Brunch, Restaurants, Beer Bar, Nightlife, Salad, Bars, Food, American (New), Cocktail Bars, Gastropubs",141
+401,cE_gYW3CHEducTkEyxTDdA,Bartaco,Tampa,FL,"Mexican, Restaurants",240
+402,cGX-1IUwXOjkUqZbkKYcjw,Fogo de Chao,Philadelphia,PA,"Seafood, Steakhouses, Brazilian, Restaurants",312
+403,cOXc8c85Ms6dMEAJazLXHQ,McGillin's Olde Ale House,Philadelphia,PA,"Bars, Nightlife, Pubs, American (Traditional), Event Planning & Services, Karaoke, Restaurants, Venues & Event Spaces, Irish Pub, Sports Bars, Irish",245
+404,cQIh4YJlVtZI9TLF5_smOg,The Shaved Duck,St Louis,MO,"Barbeque, Restaurants, Soul Food, American (New), American (Traditional), Smokehouse, Food",200
+405,cXSyVvOr9YRN9diDkaWs0Q,Honey's Sit-N-Eat,Philadelphia,PA,"Southern, Restaurants, American (Traditional)",392
+406,cd-rz-piYMftZtbFU82x8g,Mr. Dunderbak's,Tampa,FL,"Beer, Wine & Spirits, Food, Pubs, German, American (Traditional), Restaurants, Bars, Nightlife",138
+407,cmvseNCdevDdxbxlz3KkWw,Shrimpys Blues Bistro,St Pete Beach,FL,"Bars, Restaurants, American (New), Pubs, Nightlife, Pizza, Cajun/Creole, Breakfast & Brunch, Seafood",74
+408,csS_UrBujOvjASbX3gLW7w,Bobby's Burger Palace,Philadelphia,PA,"Sandwiches, American (Traditional), Burgers, Restaurants, Salad",245
+409,ctHjyadbDQAtUFfkcAFEHw,Zahav,Philadelphia,PA,"Nightlife, Bars, Food, Ethnic Food, Middle Eastern, Vegetarian, Specialty Food, Israeli, Restaurants",781
+410,d4ZPdoYxDnT6f70AZPGrcw,Sky Blue Cafe,Nashville,TN,"American (Traditional), Restaurants, Coffee & Tea, Breakfast & Brunch, Food",90
+411,dG-gZOWzn8iO1Rvv_fbXxA,Silk City Diner & Lounge,Philadelphia,PA,"Dance Clubs, Bars, Diners, Breakfast & Brunch, Lounges, Restaurants, Nightlife, American (New)",314
+412,dGUyXgFW1WSYMgRypKaYew,The Row,Nashville,TN,"Restaurants, Breakfast & Brunch, Pubs, Southern, Bars, Nightlife",122
+413,d_tRshM-w6S4QxE4VVi8tQ,Jones,Philadelphia,PA,"American (New), Restaurants, Southern, Diners, American (Traditional)",337
+414,dgyKoIYEYrmRK_hktWBZdA,The Getaway,Saint Petersburg,FL,"Cocktail Bars, Seafood, American (Traditional), Restaurants, Local Flavor, Food, Bars, Breakfast & Brunch, Beer, Wine & Spirits, Burgers, Tiki Bars, Nightlife",108
+415,dsfRniRgfbDjC8os848B6A,Bern's Steak House,Tampa,FL,"Arts & Entertainment, Steakhouses, Restaurants",416
+416,dzeBiAu0VAaVBbMwcV9GFw,Rooster - South Grand,Saint Louis,MO,"Restaurants, Food, Creperies, Coffee & Tea, Breakfast & Brunch, Diners",80
+417,e1WJ1qcgF2TBkoYzopeTgQ,Adolfo's,New Orleans,LA,"Restaurants, Seafood, Italian",63
+418,e5fCI12X_GLCST668S4ROA,The Court of Two Sisters,New Orleans,LA,"Restaurants, Cajun/Creole, Buffets, Breakfast & Brunch",150
+419,eCikDKFbaeYVNdCD2beX0Q,Dat Dog,New Orleans,LA,"Cajun/Creole, American (New), Hot Dogs, Restaurants, Comfort Food",114
+420,eJaeTZlIdM3HWCq__Ve4Wg,Tria Cafe Rittenhouse,Philadelphia,PA,"French, Spanish, Tapas Bars, Cafes, Restaurants, Wine Bars, Modern European, Bars, Nightlife, Italian, Comedy Clubs, Greek, American (New)",295
+421,eaDZlSuVS0EY67Ke6pRP6Q,Penang,Philadelphia,PA,"Malaysian, Asian Fusion, Cambodian, Chinese, Restaurants, Thai",335
+422,ecI3FBTM0f99Fnml3kNKfg,Arnaud's Restaurant,New Orleans,LA,"Restaurants, Cajun/Creole",97
+423,edJoBsse6nsF0BYh6pATAg,The Palace Grill,Santa Barbara,CA,"Seafood, Cajun/Creole, American (New), Restaurants",106
+424,eoN0GAIRV0WmwUm7FmzKgQ,Yakitori Boy,Philadelphia,PA,"Japanese, Sushi Bars, Karaoke, Nightlife, Restaurants",257
+425,ezB8e2rijjViprrcTdIiQQ,La Teresita Cafe,Tampa,FL,"Bakeries, Caterers, Grocery, Cuban, Spanish, Food, Seafood, Restaurants, Event Planning & Services",184
+426,f3eve2cxUIzyanWnHdMtFQ,Corazon Cocina,Santa Barbara,CA,"Restaurants, Breakfast & Brunch, Latin American, Mexican, Seafood",65
+427,fCDMLD21ypv1XZ_EyafCkQ,Bodega,Saint Petersburg,FL,"Spanish, Cafes, Cuban, Latin American, Juice Bars & Smoothies, Food, Coffee & Tea, Restaurants",185
+428,fN12ywQpLXQ93bpwe1N_Ww,Pietro's Coal Oven Pizzeria,Philadelphia,PA,"Breakfast & Brunch, Italian, Restaurants, Pizza",198
+429,fOhnSqmO4XY5vSI8whVKSA,Farmicia,Philadelphia,PA,"Breakfast & Brunch, American (New), Mexican, French, Restaurants, Italian",309
+430,fVUurZgbWXzp2QzDzJzmpA,Pickles & Swiss,Santa Barbara,CA,"Delis, Gluten-Free, Fast Food, Salad, Sandwiches, Restaurants",29
+431,fivoAD6x6jXJRiEZwhpcEQ,Amis Trattoria,Philadelphia,PA,"Wine Bars, Tapas/Small Plates, Nightlife, Restaurants, Italian, Cocktail Bars, Pizza, Bars",254
+432,g-IXI3v3fOudMsyLPKb-eQ,Ruby Slipper Cafe,New Orleans,LA,"Cafes, American (New), Food, Restaurants, Breakfast & Brunch, Nightlife, Bars, Cocktail Bars, American (Traditional), Coffee & Tea",85
+433,g-YOzV9YIPmo6vZBHQuuUg,Bakersfield,Nashville,TN,"Restaurants, Sandwiches, Bars, Nightlife, Tex-Mex, Tacos, Mexican",122
+434,g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,New Orleans,LA,"Breakfast & Brunch, Coffee & Tea, Food, Restaurants",101
+435,g0cUlBQ2pGRxWtL6qwyeIg,Clear Sky Draught Haus,Dunedin,FL,"Restaurants, Sports Bars, Bars, American (New), Burgers, American (Traditional), Gastropubs, Breakfast & Brunch, Nightlife",103
+436,gGmqCZtOAUUqWLUJiL-Ydg,Tupelo Honey,Franklin,TN,"American (New), Southern, Cafes, Restaurants, Breakfast & Brunch, Nightlife, Bars",59
+437,gTC8IQ_i8zXytWSly3Ttvg,Cochon Butcher,New Orleans,LA,"Shopping, Butcher, Restaurants, Sandwiches, Food, Meat Shops, Specialty Food",540
+438,gVU0U7gNBMQxKTzqmRtdLg,Merchants,Nashville,TN,"Burgers, Steakhouses, American (New), Chicken Wings, Barbeque, American (Traditional), Sandwiches, Restaurants, Nightlife, Bars, Pubs",179
+439,ghsaIqQ1xY3cWtWWJ4QW5w,Old Granite Street Eatery,Reno,NV,"American (New), American (Traditional), Restaurants",86
+440,gndi4-wzu66Mtp4E0zHt7g,The Brewer's Cabinet,Reno,NV,"Beer Bar, Pubs, American (New), Food, Comfort Food, Nightlife, Restaurants, Breweries, Brewpubs, Bars",80
+441,gnpyyeWQ53WlDMJEq-YA_w,Tinto,Philadelphia,PA,"Basque, Tapas Bars, Iberian, Bars, Wine Bars, Restaurants, Lounges, Nightlife, Spanish",287
+442,gzMlFR9ViVCr_HUYPgqqVg,Sylvain,New Orleans,LA,"Restaurants, Bars, Southern, Nightlife, Gastropubs, American (New), Cocktail Bars",146
+443,h7TO_IsmLCYmKKDVOOIeFw,Fat Salmon,Philadelphia,PA,"Restaurants, Sushi Bars, Japanese",315
+444,hExi86DTBlmIhB2FLvqrHg,On Swann,Tampa,FL,"Desserts, Restaurants, Bars, Nightlife, American (New), Food",195
+445,hPd6uMCjNglnOwwHpkY5Tg,Felipe's Mexican Taqueria - French Quarter,New Orleans,LA,"Vegetarian, Bars, Food, Mexican, Nightlife, Restaurants",112
+446,hS6KNGCQVTYUdLb2edt58g,Steamboat Natchez,New Orleans,LA,"Boat Charters, Event Planning & Services, Hotels & Travel, Boat Tours, Restaurants, Active Life, Tours, Boating",95
+447,hXvf5a798WvQtFn0Zbh2yw,Caddy's Treasure Island,Treasure Island,FL,"Nightlife, Bars, Restaurants, Breakfast & Brunch, Hot Dogs, Burgers, Seafood, American (Traditional)",97
+448,hfbZ97Te3T4jeWN6GgsGrQ,Willa Jean,New Orleans,LA,"Bakeries, Breakfast & Brunch, Food, Restaurants, Coffee & Tea, Southern, Desserts, Cafes, American (New)",253
+449,hjRxa6xpKOwnbUgGvVCE5Q,Sparks Coffee Shop,Sparks,NV,"Breakfast & Brunch, Food, American (New), Coffee & Tea, Salad, Restaurants, American (Traditional)",65
+450,hyeo7JQr5uLp-St1MibYAA,Baja Cafe,Tucson,AZ,"Restaurants, Cafes, Vegetarian, American (New), Breakfast & Brunch",44
+451,i5C6RVgr03HSrgCl8oa1Fg,Patxi's Pizza,Santa Barbara,CA,"Salad, Restaurants, Pizza, Sandwiches, Italian",45
+452,iBBV8vesQ8fo2IQA7an1JA,Jane,Santa Barbara,CA,"Restaurants, Food, American (New), Wine Bars, Nightlife, Venues & Event Spaces, Bars, Event Planning & Services",47
+453,iRIHK8-EwpeffwvoO4nzIA,Broadway Oyster Bar,St Louis,MO,"Seafood, Cajun/Creole, Arts & Entertainment, Jazz & Blues, Restaurants, Nightlife, Music Venues",183
+454,iSRTaT9WngzB8JJ2YKJUig,Mother's Restaurant,New Orleans,LA,"Cajun/Creole, Restaurants, Event Planning & Services, Southern, Specialty Food, Soul Food, Food, Ethnic Food, American (New), Caterers, Breakfast & Brunch, Sandwiches",462
+455,iUZEGx29miZObLd6_lt7Vg,Sabrina's Café,Philadelphia,PA,"Breakfast & Brunch, Restaurants, Vegetarian, Cafes, American (New), Food, Diners, American (Traditional)",358
+456,i_FWONQD1ZBqrNE2b-M5Ug,Talula's Garden,Philadelphia,PA,"American (New), Restaurants",472
+457,iksVwRfpWymIUUFqw0tXpw,Chubby Cattle,Philadelphia,PA,"Restaurants, Bars, Seafood, Japanese, Hot Pot, Nightlife, Chinese, Conveyor Belt Sushi, Mongolian, Asian Fusion",89
+458,inpHHalmEPkTMBg9yOWfLg,The Diner,Nashville,TN,"Seafood, American (New), Steakhouses, Diners, Breakfast & Brunch, Restaurants",50
+459,iwmW2mgcn2YdirXUHCsgXQ,Bourbon House,New Orleans,LA,"Restaurants, Cajun/Creole, Seafood",203
+460,j-qtdD55OLfSqfsWuQTDJg,Parc,Philadelphia,PA,"Restaurants, French, Wine Bars, Nightlife, American (New), Bars, Cafes, Breakfast & Brunch",750
+461,j4kYliTkKf7k-oDqVgyXYA,Manning's Sports Bar and Grill,New Orleans,LA,"Nightlife, Restaurants, American (Traditional), Sports Bars, Bars, Burgers, Breakfast & Brunch",60
+462,j8feOxyJqlIJWOi8su2qzw,Serial Grillers,Tucson,AZ,"Cheesesteaks, Food, Salad, Restaurants, Sandwiches, Pizza, Breweries",42
+463,jMZ56S8Y1t7cA1Ob-d-qeA,Three Muses,New Orleans,LA,"Nightlife, Jazz & Blues, American (New), Music Venues, Restaurants, Gastropubs, Arts & Entertainment",150
+464,jQBPO3rYkNwIaOdQS5ktgQ,The Fountain On Locust,Saint Louis,MO,"Ice Cream & Frozen Yogurt, Food, American (New), Art Galleries, Shopping, Cocktail Bars, Arts & Entertainment, Restaurants, Nightlife, Chocolatiers & Shops, Specialty Food, Bars",135
+465,jXrhIVKcJ-upvglUmfC1pA,Clover Grill,New Orleans,LA,"Breakfast & Brunch, Burgers, Diners, Restaurants",89
+466,jar_5KMQZtgOseRdUN3L0w,Sucré,New Orleans,LA,"Food, Ice Cream & Frozen Yogurt, Restaurants, Specialty Food, Desserts, Bakeries, Chocolatiers & Shops, Coffee & Tea, Macarons",203
+467,jbJTF1zVmZsk4hea8hoeVA,Fork,Boise,ID,"American (New), Burgers, Restaurants, Breakfast & Brunch",33
+468,jkGQQ4_LgJx3hwPtCFkzbQ,Max Brenner - Philadelphia,Philadelphia,PA,"American (Traditional), Restaurants, Desserts, Food, Chocolatiers & Shops, American (New), Specialty Food, Breakfast & Brunch",337
+469,jmwasbZfgj3honf79qKsnA,Street- Taco and Beer Co.,Tucson,AZ,"Mexican, Bars, Restaurants, Nightlife",43
+470,jxEMFqwDJXjCxmcm5t5jVQ,Cleavers,Philadelphia,PA,"Food, Restaurants, Cocktail Bars, Cheesesteaks, Beer, Wine & Spirits, Sports Bars, Lounges, Sandwiches, Nightlife, Bars",189
+471,k-tHn9uxgWdq1ROHqwc-lw,Shells Seafood - St Pete Beach,St. Pete Beach,FL,"Breakfast & Brunch, Seafood, Sandwiches, Restaurants",26
+472,k8hFz4Gty5dHlDV4Wt8FqA,Southwest Diner,Saint Louis,MO,"Diners, Tex-Mex, Restaurants",120
+473,kVTHnhgYUw-Pmr7wgDB4_g,Distrito,Philadelphia,PA,"Mexican, Restaurants, Nightlife, Cocktail Bars, Bars",360
+474,kZ1q0K13tFYG_ZJrVvsJHA,Sampan,Philadelphia,PA,"Thai, American (New), Restaurants, Chinese, Asian Fusion, Tapas/Small Plates, Pan Asian",612
+475,kbXpjBSweedxQ1WrlJ5i7Q,Dan Dan,Philadelphia,PA,"Taiwanese, Restaurants, Noodles, Szechuan, Chinese",238
+476,ku8cAVBLaF_4rI-yK6gNnQ,Brennan's,New Orleans,LA,"Cajun/Creole, Restaurants",179
+477,kxKai8GE5oDMPevV7oxvbA,Tequilas Restaurant,Philadelphia,PA,"Restaurants, Bars, Nightlife, Mexican",227
+478,kxOR-Z62MnMUlCZWQmd2iQ,Ceviche Tapas Bar And Restaurant,St Petersburg,FL,"Basque, Restaurants, Tapas Bars, Spanish",98
+479,l4IeGBHXV2E8S8COd9rx9A,Rusty Bellies,Tarpon Springs,FL,"Nightlife, Seafood, Bars, Restaurants, Tiki Bars, American (Traditional)",104
+480,lEi0T3m96A2NXXDSn7569A,Wild River Grille,Reno,NV,"Bars, Nightlife, Steakhouses, Restaurants, American (New), Food",103
+481,lKU_kljhbEQKIPaM1Zbqiw,Little Nonna's,Philadelphia,PA,"Restaurants, Italian",298
+482,ld_H5-FpZOWm_tkzwkPYQQ,Silver Legacy Resort Casino,Reno,NV,"Arts & Entertainment, Hotels, Party & Event Planning, Casinos, Event Planning & Services, Restaurants, Hotels & Travel",43
+483,lqyYsXBAO6cVGR0cPCeydg,Frenchy's Saltwater Cafe,Clearwater Beach,FL,"Seafood, Nightlife, American (New), Restaurants, Wraps, Mexican, Tacos, Bars, Sandwiches",57
+484,ltBBYdNzkeKdCNPDAsxwAA,Tavern,Nashville,TN,"Cocktail Bars, Nightlife, Gastropubs, Sports Bars, Restaurants, American (New), Lounges, Bars",209
+485,m4kvY0viCwxqRtgOycnKVQ,Mony's Mexican Food,Santa Barbara,CA,"Restaurants, Mexican",48
+486,mCRa6o1eEVQr1bqV4Wy6KQ,The Blind Pelican,New Orleans,LA,"Nightlife, Restaurants, Bars, Seafood, Mexican, American (New)",102
+487,mRpk0A4u0hnF0lNe1h4hGg,Bearcat Cafe,New Orleans,LA,"Coffee & Tea, Vegan, Restaurants, Breakfast & Brunch, Food",109
+488,mc9V_wG4QyRYew9_S8R44A,Eddie V's Prime Seafood,Tampa,FL,"Jazz & Blues, Nightlife, Bars, Arts & Entertainment, Lounges, Restaurants, Seafood, Steakhouses",172
+489,mcr1lAEdvGLMJhuPwI3I2A,101 Taiwanese Cuisine,Reno,NV,"Food, Restaurants, Chinese, Bubble Tea, Taiwanese",90
+490,mhrW9O0O5hXGXGnEYBVoag,Jacques-Imo's Cafe,New Orleans,LA,"Seafood, Cajun/Creole, Restaurants, Vegetarian",325
+491,mtvT7uRey3F395STFRM1Tg,Vernick Food & Drink,Philadelphia,PA,"Food, Restaurants, Beer, Wine & Spirits, Diners, American (New)",310
+492,muxda1cSVtplETqTfYVgZA,HUB Restaurant & Ice Creamery,Tucson,AZ,"Ice Cream & Frozen Yogurt, American (New), Nightlife, Sandwiches, Bars, Restaurants, Salad, American (Traditional), Desserts, Food",96
+493,nB0dV8yPv29F3-CFMPG8cw,Joe's Cafe,Santa Barbara,CA,"Steakhouses, Cafes, American (Traditional), Seafood, Breakfast & Brunch, Restaurants, Sandwiches",33
+494,nIAbuktMEzVjT4P9pG89rQ,Buddakan,Philadelphia,PA,"Restaurants, Asian Fusion, Chinese",403
+495,nQeu2F4xOiKoXIp-9engUw,5th & Taylor,Nashville,TN,"Southern, Bars, Nightlife, Restaurants, Breakfast & Brunch, American (New), American (Traditional)",115
+496,nTBStZYJfHGdSZJbpaBiPA,The Grill,New Orleans,LA,"American (New), Food, Breakfast & Brunch, American (Traditional), Restaurants, Coffee & Tea, Burgers",95
+497,nYPzsOjvida-ne7swSPHpA,Santo Mezcal,Santa Barbara,CA,"Latin American, Restaurants, Mexican, New Mexican Cuisine",64
+498,nYsNsyIppe_DTueBha1x9A,Red Mesa Cantina,St Petersburg,FL,"Mexican, Restaurants, Latin American, Tex-Mex, Bars, Breakfast & Brunch, Nightlife",200
+499,n_7EQxn0ciucIOJfpWVaTQ,Saigon Deli,Tampa,FL,"Vietnamese, Delis, Soup, Coffee & Tea, Food, Restaurants",129
+500,n_fUROdhfmLwd_mpBi55ew,Central Grocery & Deli,New Orleans,LA,"Delis, Sandwiches, Restaurants, Grocery, Food",295
+501,nk96iwJV1_p2HECYQW1ysA,French Quarter Phantoms,New Orleans,LA,"Public Services & Government, Landmarks & Historical Buildings, Walking Tours, Art Tours, Restaurants, Hotels & Travel, Historical Tours, Tours, Barbeque, Local Flavor",56
+502,ntiIq1FNqduOyyowMFGh5A,Nan Zhou Hand Drawn Noodle House,Philadelphia,PA,"Specialty Food, Noodles, Ethnic Food, Chinese, Comfort Food, Restaurants, Food",543
+503,o1DuWXCV_kg_mSqNOxUdew,Ijji 4,Reno,NV,"Restaurants, Chicken Wings, Sushi Bars, Barbeque, Korean",65
+504,oBNrLz4EDhiscSlbOl8uAw,Ruby Slipper - New Orleans,New Orleans,LA,"Restaurants, American (Traditional), American (New), Cafes, Breakfast & Brunch",296
+505,oCbJpGl8IkH1WdYa25TDBA,Morrow's,New Orleans,LA,"Burgers, Nightlife, Cajun/Creole, Bars, Restaurants, Seafood",49
+506,oDETvkVkHw7CjZj7ZOZFOQ,Cajun Mike's Pub & Grub,New Orleans,LA,"Pubs, Cajun/Creole, Restaurants, Sandwiches, Bars, Nightlife",45
+507,oFbwMxqaCJfIzAEmwaXD3Q,Johnny Sanchez,New Orleans,LA,"Restaurants, Mexican, Bars, Nightlife",143
+508,oGDGlUbOjHxmmCh8ZYcDCg,The Lark,Santa Barbara,CA,"Nightlife, Bars, Cocktail Bars, Food, American (New), Desserts, Restaurants",80
+509,oIH5YWPy_g61YXM6R900Wg,Puckett's Grocery & Restaurant,Nashville,TN,"Southern, Grocery, Restaurants, Barbeque, American (Traditional), Food",249
+510,oQ5CPRt0R3AzFvcjNOqB1w,Edley's Bar-B-Que - 12 South,Nashville,TN,"Barbeque, Restaurants, Dive Bars, Cocktail Bars, Southern, Nightlife, Bars",162
+511,of-GVqY0G_UDHXT9Xg_ADQ,Charlie Was a Sinner,Philadelphia,PA,"Bars, Nightlife, Kosher, Burgers, Tapas/Small Plates, American (Traditional), Vegan, Seafood, Cocktail Bars, Restaurants, Vegetarian",267
+512,ompDR5sUDpoI6gnTldmneQ,The Praline Connection,New Orleans,LA,"Seafood, Cajun/Creole, Candy Stores, Coffee & Tea, Food, Restaurants, Soul Food, Specialty Food",63
+513,oqP1oQEycpp4J6u5YebRoQ,American Social,Tampa,FL,"American (Traditional), Restaurants, Venues & Event Spaces, Event Planning & Services, Breakfast & Brunch, Bars, Nightlife",98
+514,oqbhVgliVJH-iRa3AnD-3A,Elixr Coffee Roasters,Philadelphia,PA,"Cafes, Food, Coffee & Tea, Bakeries, Coffee Roasteries, Restaurants",233
+515,pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,Nashville,TN,"Restaurants, Sandwiches, Food, Breakfast & Brunch, Bakeries",229
+516,pWuoHHu0LuVrD0HjadDygg,The Stone House Cafe,Reno,NV,"Beer, Wine & Spirits, Wine Bars, Cafes, Breakfast & Brunch, Food, Restaurants, American (New), Seafood, Bars, Nightlife",80
+517,pXRrRf8fDv6yU3xp1E25hA,Bud & Marilyn's,Philadelphia,PA,"Breakfast & Brunch, Nightlife, Bars, Restaurants, American (Traditional)",409
+518,p_qSQwShIgQnNxGcajI4-w,Oxford Exchange,Tampa,FL,"Restaurants, American (New), Coffee & Tea, Books, Mags, Music & Video, Breakfast & Brunch, Food, American (Traditional), Event Planning & Services, Bookstores, Cafes, Diners, Venues & Event Spaces, Shopping",334
+519,pc8D9b_rnL_I8ak91tKjsg,Rocco's Tacos and Tequila Bar - Tampa,Tampa,FL,"Restaurants, Tacos, Tex-Mex, Mexican",106
+520,poviu-6n3iaRE4gdQz6OYw,Oyster House,Philadelphia,PA,"Restaurants, Steakhouses, Seafood",435
+521,pym7c6ZFEtmoH16xN2ApBg,Katie's Restaurant & Bar,New Orleans,LA,"Restaurants, Bars, Nightlife, American (Traditional), Cajun/Creole, Seafood",214
+522,q-zV08jt6U-q05SMEuQJAQ,The Original Tony Lukes,Philadelphia,PA,"Sandwiches, Fashion, Used, Vintage & Consignment, Cheesesteaks, Restaurants, Breakfast & Brunch, Shopping",268
+523,q6hWVlVeiCgMgM22wt1wfw,The Company Burger,New Orleans,LA,"Burgers, Food, Beer, Wine & Spirits, Restaurants, Fast Food",176
+524,qISf5ojuYbD9h71NumGUQA,Han Dynasty,Philadelphia,PA,"Beer, Wine & Spirits, Chinese, Restaurants, Food, Szechuan, Noodles, Soup",436
+525,qY-BUQY-SFBaSrFHowF3nA,Nine Ting,Philadelphia,PA,"Korean, Restaurants, Chinese, Barbeque, Hot Pot",174
+526,qb28j-FNX1_6xm7u372TZA,Gumbo Shop,New Orleans,LA,"Cajun/Creole, Seafood, Restaurants",298
+527,qsAZNQ-6P4I9r7onkBZJ_g,Percy Street Barbecue,Philadelphia,PA,"Barbeque, Restaurants",290
+528,qsm7SkX60JsajT7Yz248FA,Café Soho,Philadelphia,PA,"Coffee & Tea, Food, Japanese, Restaurants, Chicken Wings, Korean, Asian Fusion",201
+529,quk6TFDQyuQ4g0KuIb9qUA,Five Points Pizza,Nashville,TN,"Nightlife, Bars, Italian, Restaurants, Pizza, Food",172
+530,qxRTFagnexBZgDe055CjkQ,Seasons 52,King of Prussia,PA,"Vegetarian, Restaurants, Beer, Wine & Spirits, American (New), American (Traditional), Seafood, Food, Wine Bars, Nightlife, Bars, Gluten-Free",118
+531,rSYyGcZZziJLsqKl5hMcDw,Circus Circus Reno,Reno,NV,"Hotels & Travel, Casinos, Hotels, Event Planning & Services, Nightlife, Restaurants, Pet Services, Pets, Arts & Entertainment, Pet Sitting",35
+532,rYqmaOIULRouz_1db07OdQ,Green Eggs Cafe,Philadelphia,PA,"Diners, Restaurants, Breakfast & Brunch, American (New)",173
+533,rgeuy1qbw6Z8B6CSVANHIA,Federal Donuts,Philadelphia,PA,"Donuts, Sandwiches, Soul Food, Food, Coffee & Tea, Restaurants, Chicken Wings",396
+534,sTPueJEwcRDj7ZJmG7okYA,Jim's South St,Philadelphia,PA,"Bars, Restaurants, Pizza, Cheesesteaks, Italian, Beer Bar, American (Traditional), Local Flavor, Nightlife, Sandwiches",344
+535,sVZb87xjhbCWHQ2UXOGLrA,Giorgio On Pine,Philadelphia,PA,"Pizza, Italian, Restaurants, Gluten-Free",251
+536,sf0rWCnE4vHUlWncWOa3JQ,Midtown Eats,Reno,NV,"Event Planning & Services, Cocktail Bars, Diners, American (Traditional), Shopping, Nightlife, Burgers, Restaurants, American (New), Bars, Caterers",80
+537,skY6r8WAkYqpV7_TxNm23w,Boathouse at Hendry's Beach,Santa Barbara,CA,"Seafood, Restaurants, Hawaiian, American (New), Breakfast & Brunch",130
+538,snTpO07JxjGhwJbE4RDFIA,Goldy's Breakfast Bistro,Boise,ID,"American (Traditional), Breakfast & Brunch, Restaurants",27
+539,sr-5EY6bmp4jINhea06MjA,The Cake Bake Shop by Gwendolyn Rogers-Broad Ripple Village,Indianapolis,IN,"Restaurants, Bakeries, Desserts, Patisserie/Cake Shop, American (Traditional), Cafes, Coffee & Tea, Cupcakes, French, Sandwiches, Food, American (New), Breakfast & Brunch",82
+540,swVdc9piXvG0AXwL-F0GfQ,Gallier Restaurant & Oyster Bar,New Orleans,LA,"Restaurants, Seafood, Cajun/Creole, Breakfast & Brunch, Salad, Southern, American (New)",28
+541,sy7ADvpBA7SfHwbY-Y_5gw,Valanni,Philadelphia,PA,"American (New), Nightlife, Greek, Cocktail Bars, Bars, Mediterranean, Restaurants, Pizza, Tapas Bars, Latin American, Tapas/Small Plates, Lounges",267
+542,t5qfe9lOZiMyvHfAqwnAlw,Yard House,Indianapolis,IN,"Cocktail Bars, Seafood, Mexican, Beer Bar, Bars, Vegetarian, Nightlife, Restaurants, Wine Bars, Steakhouses, American (New)",75
+543,t9LiapsQABwMQeiF1Czl6w,Port Of Call,New Orleans,LA,"Bars, Restaurants, Nightlife, Steakhouses, Burgers",229
+544,tELoGj2QJYYFQ1jo_XXbpA,Robert's Western World,Nashville,TN,"Music Venues, Nightlife, Bars, American (Traditional), Arts & Entertainment, Restaurants, Burgers, Dive Bars",100
+545,tV46IhCfHbsx_af-pMupiw,Cafe Poca Cosa,Tucson,AZ,"American (Traditional), Restaurants, Mexican, Latin American",74
+546,teFjQxUqT8c-yxQdoILDVQ,Nada,Indianapolis,IN,"New Mexican Cuisine, Breakfast & Brunch, Desserts, Nightlife, Bars, Cocktail Bars, Mexican, Latin American, Restaurants, Food, Tacos",132
+547,tf6S06LD09IFDHUpOPqPaw,East Beach Tacos,Santa Barbara,CA,"Korean, Restaurants, American (New), Mexican, Tacos, Nightlife, Fast Food, Bars",43
+548,thlyktt2c7v1DyOpSVSibw,Scarlett Begonia,Santa Barbara,CA,"Cafes, Restaurants, American (Traditional), Cocktail Bars, Breakfast & Brunch, Food, Beer, Wine & Spirits, American (New), Bars, Nightlife",67
+549,trwHwsXOVV-ZmF-MtP98BA,High Street Philadelphia,Philadelphia,PA,"Cafes, Pizza, American (New), Breakfast & Brunch, Sandwiches, Restaurants",258
+550,tthy48ZIX_wfY8Dy0Dvg6w,Bouchon,Santa Barbara,CA,"Seafood, Bars, Wine Bars, American (New), Restaurants, French, Nightlife, Mexican",78
+551,u6P6I5PZnSlnILY5nFWBJA,Calle Tepa,Tucson,AZ,"Beer, Wine & Spirits, Mexican, Food, Restaurants",40
+552,u7uFQCoHFtBKCtbWUm6yZw,Emeril's,New Orleans,LA,"Seafood, Cajun/Creole, Restaurants, American (New)",179
+553,uR7G8I4Cef9D9R340TN24Q,Trenasse,New Orleans,LA,"American (New), American (Traditional), Southern, Taiwanese, Seafood, Bars, Nightlife, Cocktail Bars, Live/Raw Food, Wine Bars, Cajun/Creole, Restaurants",119
+554,uSIGgRScZmpWlEcHtoaWlA,Blanco Tacos + Tequila,Tucson,AZ,"Tex-Mex, Event Planning & Services, Cocktail Bars, Venues & Event Spaces, Restaurants, Nightlife, Vegetarian, Tacos, Mexican, Bars, Gluten-Free",81
+555,uYMVRPYEqpmVXWN2xOs5KQ,Cooper's Hawk Winery & Restaurants - Tampa,Tampa,FL,"Event Planning & Services, American (Traditional), Nightlife, Restaurants, Bars, Wineries, American (New), Wine Tasting Room, Gluten-Free, Arts & Entertainment, Party & Event Planning, Wine Bars, Food, Seafood",264
+556,uZYBF0YTU_iKq4_L_PDtMQ,Zaytoon,Santa Barbara,CA,"Restaurants, Middle Eastern, Bars, Nightlife, Mediterranean, Lebanese",66
+557,v1Uesklh8DpEufYOhTq4iA,Mar Monte Hotel - Hyatt,Santa Barbara,CA,"Hotels, Restaurants, Beauty & Spas, Hotels & Travel, Day Spas, Event Planning & Services",13
+558,v4AMcIZ--hXZuJIg3luUgg,Tamira,Santa Barbara,CA,"Indian, Restaurants",32
+559,vHr8qhM4CXYB3Ol_9yS6QQ,Sushi Pier,Reno,NV,"Sushi Bars, Buffets, Japanese, Restaurants",60
+560,vKbCtJEwGnew-BpGIIzxJw,Ruby River Steakhouse,Reno,NV,"Breakfast & Brunch, Steakhouses, Seafood, Restaurants",35
+561,vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,New Orleans,LA,"Vegetarian, Restaurants, Breakfast & Brunch, Cafes, Juice Bars & Smoothies, Sandwiches, Food",239
+562,vP_Rkh68ohANnCL-nXED6Q,Union 50,Indianapolis,IN,"Arts & Entertainment, Music Venues, Bars, Nightlife, American (New), Gastropubs, Restaurants",102
+563,vUrTGX_7HxqeoQ_6QCVz6g,Suraya,Philadelphia,PA,"Active Life, Beer Gardens, Grocery, Middle Eastern, Specialty Food, American (New), Parks, Cafes, Food, Nightlife, Restaurants, Coffee & Tea, Lebanese",318
+564,vWjME92WddneF98IqzaNfQ,Sugarfire Smoke House,Saint Louis,MO,"Restaurants, Food, Barbeque, Desserts",159
+565,vWyg7n0gGVinsrSj68GDeQ,Hash House A Go Go,Reno,NV,"Breakfast & Brunch, American (New), Restaurants, American (Traditional)",52
+566,vXb4OWsjPoiBtmarfexj-g,Green Eggs Café,Philadelphia,PA,"Restaurants, American (New), Diners, Breakfast & Brunch",212
+567,ve_-rPlEGPClytyJtY55Vw,Nugget Casino Resort,Sparks,NV,"Resorts, Event Planning & Services, Restaurants, Casinos, Arts & Entertainment, Party & Event Planning, Hotels, Venues & Event Spaces, Hotels & Travel",48
+568,vj6AetpADpHOYtMRZsXX3g,Los Agaves,Santa Barbara,CA,"American (New), Mexican, Restaurants",50
+569,voWjA6zfmXLIbKAoqwBnug,Green Goddess,New Orleans,LA,"Wine Bars, American (New), Cocktail Bars, Vegan, Nightlife, Vegetarian, Restaurants, Bars, Asian Fusion",93
+570,w9grvGu-5bHNucOeReHzfA,Urban Grub,Nashville,TN,"American (New), Restaurants, Nightlife, Bars, Cocktail Bars, Steakhouses, Southern, Seafood",158
+571,wB1Tin0OW1JRpaKM-E3ZYA,National Mechanics,Philadelphia,PA,"Pubs, Food, Breakfast & Brunch, Dance Clubs, Bars, American (New), American (Traditional), Beer, Wine & Spirits, Restaurants, Nightlife",259
+572,wIz_tZ88bj4W3VlrJTiiqQ,edison: food+drink lab,Tampa,FL,"American (New), Restaurants, Wine Bars, Beer Bar, Bars, Nightlife",169
+573,wK2G-v74dCEzmGEUtKgOKQ,Dr. BBQ,Saint Petersburg,FL,"Restaurants, Wine Bars, Southern, Barbeque, Cocktail Bars, Bars, Nightlife, American (Traditional), Breakfast & Brunch, Comfort Food",92
+574,wQUBiBqlzC6cbdkX-GaBqQ,Thai Lotus,Reno,NV,"Thai, Restaurants",67
+575,w_4xUt-1AyY2ZwKtnjW0Xg,Bittercreek Alehouse,Boise,ID,"Bars, Gastropubs, Sandwiches, Nightlife, Restaurants",26
+576,wbDRmtxaKRpBOjutvV6TEA,Barclay Prime,Philadelphia,PA,"Steakhouses, Restaurants",183
+577,wj8XtPyuREj8_0GQz3LZ6w,Wild Garlic Grill,Tucson,AZ,"French, Event Planning & Services, Seafood, Salad, Bars, Wine Bars, American (New), Caterers, Restaurants, Modern European, Barbeque, Nightlife, American (Traditional)",48
+578,wm5mQ4cSpvko9WlCq07RFw,El Limon,Conshohocken,PA,"Mexican, Restaurants",136
+579,ww3YJXu5c18aGZXWmm00qg,Café Amelie,New Orleans,LA,"Southern, American (New), Breakfast & Brunch, Restaurants",230
+580,xlMQBBt9wrtahdqiRDcVSg,The Stillery,Nashville,TN,"American (New), Restaurants, Pubs, Beer, Wine & Spirits, Pizza, Nightlife, Food, Bars",153
+581,xwjUyOwIQuFNaBCxhedwLA,Edley's Bar-B-Que,Nashville,TN,"Bars, Restaurants, Nightlife, Barbeque, Cocktail Bars, Southern",94
+582,yE1raqkLX7OZsjmX3qKIKg,Butcher & Bee,Nashville,TN,"Middle Eastern, American (New), Restaurants, Mediterranean, Southern",118
+583,yE6aDcbbK8pmvNroXnQYQA,Majoria's Commerce Restaurant,New Orleans,LA,"Diners, Sandwiches, Restaurants, Breakfast & Brunch",62
+584,yPSejq3_erxo9zdVYTBnZA,Los Agaves,Santa Barbara,CA,"Mexican, Restaurants",134
+585,yZHiutcbym-xLGkmFhP-9A,Frothy Monkey,Nashville,TN,"Food, Coffee & Tea, American (New), Sandwiches, Restaurants",114
+586,yb2vAoH3E-R11yWmnT570w,Taco Bus,Tampa,FL,"Mexican, Restaurants, Ethnic Food, Food, Vegetarian, Food Trucks, Street Vendors, Specialty Food",152
+587,yeHLiKNp0hyR-ig4M6us-w,Livery - Indianapolis,Indianapolis,IN,"Food, American (New), Nightlife, Bars, Empanadas, Latin American, Restaurants, Mexican, Tacos",95
+588,yoQBK3OUDqWEFoUDE5lM4w,Pere Antoine Restaurant,New Orleans,LA,"Cajun/Creole, Restaurants",51
+589,ytynqOUb3hjKeJfRj5Tshw,Reading Terminal Market,Philadelphia,PA,"Candy Stores, Shopping, Department Stores, Fast Food, Beer, Wine & Spirits, Fruits & Veggies, Chinese, Food, Ice Cream & Frozen Yogurt, Desserts, Seafood, Health Markets, Bagels, Cheese Shops, Shopping Centers, Chocolatiers & Shops, Meat Shops, Public Markets, Food Court, Wineries, Local Flavor, Ethnic Food, Restaurants, Specialty Food, Arts & Entertainment, Juice Bars & Smoothies, Seafood Markets, Farmers Market, Coffee & Tea, Bakeries, Food Stands, Dinner Theater, Sporting Goods, Grocery, Fashion",845
+590,yz0KWVamNhqiZGz7XTClzg,SoBou,New Orleans,LA,"Cocktail Bars, Restaurants, Nightlife, American (New), Cajun/Creole, Juice Bars & Smoothies, Bars, Food",206
+591,z4pCmH_yphNtse3ySNCzFw,Palm Pavilion Beachside Grill & Bar,Clearwater Beach,FL,"Restaurants, Seafood, American (New), Food, Beer, Wine & Spirits",76
+592,zJmp_J8SUNosLxk6borpFg,The Wild Cow,Nashville,TN,"American (New), Vegan, Restaurants, Vegetarian",95
+593,zT2OzXDWKK1abapHs2RUrQ,The Boardwalk Grill,Madeira Beach,FL,"American (New), Restaurants",68
+594,zWfzgYe2nT9mHYm_vl1Ukw,Mopho,New Orleans,LA,"Restaurants, Cocktail Bars, Vietnamese, American (New), Wine Bars, Gastropubs, Asian Fusion, Nightlife, Bubble Tea, Bars, Food",150
+595,zZ01WQlcpI1_n806WKV3bA,Culinary Dropout,Tucson,AZ,"Restaurants, American (New)",72
+596,z_7TZeTXsDH6MmkPHQN8nQ,Ella's Americana Folk Art Cafe,Tampa,FL,"American (New), Cafes, Restaurants, Food",221
+597,zbrIMldF_O1ZQ0vpUaaa8A,Bluewater Grill - Santa Barbara,Santa Barbara,CA,"Seafood, Venues & Event Spaces, Cocktail Bars, Restaurants, Nightlife, Breakfast & Brunch, American (Traditional), Event Planning & Services, Bars, American (New)",41
+598,zwrgCMuZyFX46mL3piDyjg,Cup Cafe,Tucson,AZ,"Breakfast & Brunch, Bars, Restaurants, Food, Nightlife, Cafes, Desserts, American (New)",84

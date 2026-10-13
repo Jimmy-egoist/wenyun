@@ -1,0 +1,59 @@
+{
+  "setting": {
+    "task": "implicit top-K recommendation",
+    "positive_threshold": 4.0,
+    "split": "per-user temporal train/validation/test",
+    "selection_metric": "validation NDCG@10",
+    "candidate_protocol": "all 599 items; training positives filtered",
+    "num_users": 6000,
+    "num_items": 599,
+    "num_aspects": 144,
+    "train_positive_pairs": 66828,
+    "config": {
+      "embedding_dim": 64,
+      "layers": 2,
+      "epochs": 180,
+      "min_epochs": 30,
+      "patience": 20,
+      "learning_rate": 0.003,
+      "contrastive_weight": 0.02,
+      "temperature": 0.2,
+      "contrastive_batch": 1024,
+      "regularization": 0.0001,
+      "seed": 42,
+      "threads": 16
+    }
+  },
+  "graph": {
+    "num_ui_nodes": 6599,
+    "num_uia_nodes": 6743,
+    "ui_undirected_edges": 66828,
+    "user_aspect_edges": 281608,
+    "item_aspect_edges": 52884,
+    "signed_aspect_edges": 324512
+  },
+  "results": [
+    {
+      "variant": "full",
+      "model": "AspectCL-GNN",
+      "best_epoch": 26,
+      "epochs_run": 46,
+      "validation": {
+        "evaluated_users": 4610,
+        "Recall@10": 0.18026030368763557,
+        "Recall@20": 0.2943600867678959,
+        "NDCG@10": 0.08860740798800344,
+        "NDCG@20": 0.1171353745167338
+      },
+      "test": {
+        "evaluated_users": 4609,
+        "Recall@10": 0.16966804078975917,
+        "Recall@20": 0.2837925797353005,
+        "NDCG@10": 0.08491504071613118,
+        "NDCG@20": 0.11354789695661521
+      },
+      "elapsed_seconds": 24.97119975090027,
+      "checkpoint": "results/projection_weight_0.02/best_full.pt"
+    }
+  ]
+}

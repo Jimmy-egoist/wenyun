@@ -1,0 +1,87 @@
+{
+  "setting": {
+    "task": "implicit top-K recommendation",
+    "positive_threshold": 4.0,
+    "split": "per-user temporal train/validation/test",
+    "selection_metric": "validation NDCG@10",
+    "candidate_protocol": "all 599 items; training positives filtered",
+    "num_users": 6000,
+    "num_items": 599,
+    "num_aspects": 144,
+    "train_positive_pairs": 66828,
+    "config": {
+      "embedding_dim": 64,
+      "layers": 2,
+      "epochs": 160,
+      "min_epochs": 30,
+      "patience": 20,
+      "learning_rate": 0.003,
+      "contrastive_weight": 0.02,
+      "temperature": 0.2,
+      "contrastive_batch": 1024,
+      "regularization": 0.0001,
+      "canonical_prior_weight": 0.02,
+      "canonical_cluster_weight": 0.002,
+      "canonical_sparse_weight": 0.002,
+      "merge_strength": 0.5,
+      "canonical_feature_mode": "semantic",
+      "freeze_canonical_gates": false,
+      "seed": 42,
+      "threads": 16
+    },
+    "canonicalization_candidates": {
+      "prior_source": "LLM confidence file: outputs/llm_aspect_pairs_v2.csv; feature_mode=semantic",
+      "count": 464,
+      "features": [
+        "semantic_similarity",
+        "user_behavior_similarity",
+        "item_behavior_similarity",
+        "behavior_disagreement",
+        "prior_confidence"
+      ],
+      "leakage_policy": "collaborative features use training review-aspect edges only"
+    }
+  },
+  "graph": {
+    "num_ui_nodes": 6599,
+    "num_uia_nodes": 6743,
+    "ui_undirected_edges": 66828,
+    "user_aspect_edges": 281608,
+    "item_aspect_edges": 52884,
+    "signed_aspect_edges": 324512
+  },
+  "results": [
+    {
+      "variant": "joint",
+      "model": "JointCanonical-AspectCL-GNN",
+      "best_epoch": 124,
+      "epochs_run": 144,
+      "validation": {
+        "evaluated_users": 4610,
+        "Recall@10": 0.19067245119305856,
+        "Recall@20": 0.31475054229934923,
+        "NDCG@10": 0.09488335856300856,
+        "NDCG@20": 0.1260773087354067
+      },
+      "test": {
+        "evaluated_users": 4609,
+        "Recall@10": 0.18160121501410284,
+        "Recall@20": 0.31113039704925144,
+        "NDCG@10": 0.09160227852631324,
+        "NDCG@20": 0.12407185790707839
+      },
+      "elapsed_seconds": 77.25073504447937,
+      "checkpoint": "results/canonicalization_pipeline/joint_semantic_only/seed_42/best_joint.pt",
+      "canonicalization": {
+        "prior_source": "LLM confidence file: outputs/llm_aspect_pairs_v2.csv; feature_mode=semantic",
+        "num_candidates": 464,
+        "mean_gate": 0.09816993772983551,
+        "min_gate": 0.03656087443232536,
+        "max_gate": 0.9462971091270447,
+        "mean_absolute_shift": 0.008454518392682076,
+        "num_above_0.5": 4,
+        "artifact": "results/canonicalization_pipeline/joint_semantic_only/seed_42/learned_aspect_gates.csv"
+      }
+    }
+  ]
+}

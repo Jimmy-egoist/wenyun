@@ -1,0 +1,12 @@
+{
+  "provider": "openai",
+  "model": "gpt-5.6-terra",
+  "candidate_count": 464,
+  "cache": "outputs/llm_aspect_pair_cache_v2.jsonl",
+  "output": "outputs/llm_aspect_pairs_v2.csv",
+  "usage": {
+    "input_tokens": 33186,
+    "output_tokens": 20751,
+    "total_tokens": 53937
+  }
+}

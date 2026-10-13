@@ -1,0 +1,85 @@
+{
+  "setting": {
+    "task": "implicit top-K recommendation",
+    "positive_threshold": 4.0,
+    "split": "per-user temporal train/validation/test",
+    "selection_metric": "validation NDCG@10",
+    "candidate_protocol": "all 599 items; training positives filtered",
+    "num_users": 6000,
+    "num_items": 599,
+    "num_aspects": 144,
+    "train_positive_pairs": 66828,
+    "config": {
+      "embedding_dim": 64,
+      "layers": 2,
+      "epochs": 2,
+      "min_epochs": 1,
+      "patience": 2,
+      "learning_rate": 0.003,
+      "contrastive_weight": 0.02,
+      "temperature": 0.2,
+      "contrastive_batch": 1024,
+      "regularization": 0.0001,
+      "canonical_prior_weight": 0.02,
+      "canonical_cluster_weight": 0.002,
+      "canonical_sparse_weight": 0.002,
+      "merge_strength": 0.5,
+      "seed": 42,
+      "threads": 16
+    },
+    "canonicalization_candidates": {
+      "prior_source": "GloVe-50 cosine fallback",
+      "count": 438,
+      "features": [
+        "semantic_similarity",
+        "user_behavior_similarity",
+        "item_behavior_similarity",
+        "behavior_disagreement",
+        "prior_confidence"
+      ],
+      "leakage_policy": "collaborative features use training review-aspect edges only"
+    }
+  },
+  "graph": {
+    "num_ui_nodes": 6599,
+    "num_uia_nodes": 6743,
+    "ui_undirected_edges": 66828,
+    "user_aspect_edges": 281608,
+    "item_aspect_edges": 52884,
+    "signed_aspect_edges": 324512
+  },
+  "results": [
+    {
+      "variant": "joint",
+      "model": "JointCanonical-AspectCL-GNN",
+      "best_epoch": 2,
+      "epochs_run": 2,
+      "validation": {
+        "evaluated_users": 4610,
+        "Recall@10": 0.02212581344902386,
+        "Recall@20": 0.03926247288503254,
+        "NDCG@10": 0.009645121759330442,
+        "NDCG@20": 0.013918241892019158
+      },
+      "test": {
+        "evaluated_users": 4609,
+        "Recall@10": 0.01865914515079193,
+        "Recall@20": 0.03623345628118898,
+        "NDCG@10": 0.008633068708565684,
+        "NDCG@20": 0.013045776073032242
+      },
+      "elapsed_seconds": 1.4094619750976562,
+      "checkpoint": "results/joint_smoke/best_joint.pt",
+      "canonicalization": {
+        "prior_source": "GloVe-50 cosine fallback",
+        "num_candidates": 438,
+        "mean_gate": 0.6902493834495544,
+        "min_gate": 0.4480249583721161,
+        "max_gate": 0.9482482671737671,
+        "mean_absolute_shift": 0.005823824554681778,
+        "num_above_0.5": 426,
+        "artifact": "results/joint_smoke/learned_aspect_gates.csv"
+      }
+    }
+  ]
+}

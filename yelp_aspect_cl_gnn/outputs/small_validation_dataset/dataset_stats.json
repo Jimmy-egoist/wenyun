@@ -1,0 +1,109 @@
+{
+  "domain_category": "Restaurants",
+  "top_items_parameter": 600,
+  "top_users_parameter": 6000,
+  "min_user_degree": 3,
+  "min_item_degree": 10,
+  "num_users": 6000,
+  "num_items": 599,
+  "num_aspects": 144,
+  "num_interactions": 100853,
+  "num_review_aspect_edges": 731823,
+  "num_uia_graph_edges": 460487,
+  "split_counts": {
+    "train": 88853,
+    "val": 6000,
+    "test": 6000
+  },
+  "rating_distribution": {
+    "5.0": 37499,
+    "4.0": 38548,
+    "3.0": 16909,
+    "2.0": 5719,
+    "1.0": 2178
+  },
+  "top_aspects_in_subset": [
+    {
+      "aspect": "food",
+      "count": 49265
+    },
+    {
+      "aspect": "service",
+      "count": 31832
+    },
+    {
+      "aspect": "atmosphere",
+      "count": 28304
+    },
+    {
+      "aspect": "menu",
+      "count": 23297
+    },
+    {
+      "aspect": "drinks",
+      "count": 22136
+    },
+    {
+      "aspect": "wait time",
+      "count": 16884
+    },
+    {
+      "aspect": "cheese",
+      "count": 16501
+    },
+    {
+      "aspect": "bar",
+      "count": 16371
+    },
+    {
+      "aspect": "table",
+      "count": 15946
+    },
+    {
+      "aspect": "chicken",
+      "count": 15109
+    },
+    {
+      "aspect": "meal",
+      "count": 14992
+    },
+    {
+      "aspect": "dinner",
+      "count": 14329
+    },
+    {
+      "aspect": "selection",
+      "count": 13898
+    },
+    {
+      "aspect": "staff",
+      "count": 12685
+    },
+    {
+      "aspect": "location",
+      "count": 12436
+    },
+    {
+      "aspect": "lunch",
+      "count": 11148
+    },
+    {
+      "aspect": "flavor",
+      "count": 10903
+    },
+    {
+      "aspect": "bread",
+      "count": 10801
+    },
+    {
+      "aspect": "cuisine",
+      "count": 10488
+    },
+    {
+      "aspect": "dish",
+      "count": 10269
+    }
+  ],
+  "total_source_reviews": 6990280,
+  "domain_source_reviews": 4724471
+}

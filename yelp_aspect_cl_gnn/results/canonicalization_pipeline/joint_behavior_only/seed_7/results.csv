@@ -1,0 +1,2 @@
+model,variant,best_epoch,epochs_run,val_recall@10,val_ndcg@10,val_recall@20,val_ndcg@20,test_recall@10,test_ndcg@10,test_recall@20,test_ndcg@20,test_users,elapsed_seconds
+JointCanonical-AspectCL-GNN,joint,135,155,0.1878524945770065,0.09383612162158926,0.313882863340564,0.1254100808015024,0.1794315469733131,0.09015284101662822,0.3080928617921458,0.12259334064484965,4609,82.54185843467712

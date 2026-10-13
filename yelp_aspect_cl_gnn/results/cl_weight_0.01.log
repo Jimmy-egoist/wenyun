@@ -1,0 +1,97 @@
+{
+  "num_users": 6000,
+  "num_items": 599,
+  "num_aspects": 144,
+  "train_positive_pairs": 66828,
+  "ui_edges": 66828,
+  "user_aspect_edges": 281608,
+  "item_aspect_edges": 52884,
+  "signed_aspect_edges": 324512
+}
+variant=full epoch=001 loss=0.76164 bpr=0.69296 cl=6.86868 val_recall@10=0.014534 val_ndcg@10=0.006970 best_epoch=1
+variant=full epoch=002 loss=0.75756 bpr=0.69284 cl=6.47155 val_recall@10=0.016703 val_ndcg@10=0.007969 best_epoch=2
+variant=full epoch=003 loss=0.75306 bpr=0.69271 cl=6.03521 val_recall@10=0.021258 val_ndcg@10=0.009933 best_epoch=3
+variant=full epoch=004 loss=0.74935 bpr=0.69256 cl=5.67917 val_recall@10=0.025163 val_ndcg@10=0.012015 best_epoch=4
+variant=full epoch=005 loss=0.74580 bpr=0.69240 cl=5.33984 val_recall@10=0.027115 val_ndcg@10=0.013592 best_epoch=5
+variant=full epoch=006 loss=0.74244 bpr=0.69222 cl=5.02140 val_recall@10=0.032104 val_ndcg@10=0.015551 best_epoch=6
+variant=full epoch=007 loss=0.73986 bpr=0.69205 cl=4.78152 val_recall@10=0.036443 val_ndcg@10=0.017812 best_epoch=7
+variant=full epoch=008 loss=0.73734 bpr=0.69185 cl=4.54900 val_recall@10=0.042516 val_ndcg@10=0.020584 best_epoch=8
+variant=full epoch=009 loss=0.73477 bpr=0.69165 cl=4.31171 val_recall@10=0.046638 val_ndcg@10=0.023012 best_epoch=9
+variant=full epoch=010 loss=0.73284 bpr=0.69143 cl=4.14038 val_recall@10=0.051844 val_ndcg@10=0.025262 best_epoch=10
+variant=full epoch=011 loss=0.73110 bpr=0.69120 cl=3.98991 val_recall@10=0.055965 val_ndcg@10=0.027582 best_epoch=11
+variant=full epoch=012 loss=0.72965 bpr=0.69095 cl=3.86953 val_recall@10=0.060738 val_ndcg@10=0.030067 best_epoch=12
+variant=full epoch=013 loss=0.72805 bpr=0.69068 cl=3.73633 val_recall@10=0.066377 val_ndcg@10=0.032238 best_epoch=13
+variant=full epoch=014 loss=0.72682 bpr=0.69038 cl=3.64436 val_recall@10=0.071367 val_ndcg@10=0.034842 best_epoch=14
+variant=full epoch=015 loss=0.72544 bpr=0.69005 cl=3.53888 val_recall@10=0.075054 val_ndcg@10=0.037235 best_epoch=15
+variant=full epoch=016 loss=0.72427 bpr=0.68972 cl=3.45467 val_recall@10=0.082863 val_ndcg@10=0.041035 best_epoch=16
+variant=full epoch=017 loss=0.72323 bpr=0.68933 cl=3.38991 val_recall@10=0.089154 val_ndcg@10=0.044273 best_epoch=17
+variant=full epoch=018 loss=0.72230 bpr=0.68891 cl=3.33889 val_recall@10=0.093059 val_ndcg@10=0.046443 best_epoch=18
+variant=full epoch=019 loss=0.72107 bpr=0.68847 cl=3.26045 val_recall@10=0.098048 val_ndcg@10=0.049259 best_epoch=19
+variant=full epoch=020 loss=0.72020 bpr=0.68795 cl=3.22486 val_recall@10=0.106074 val_ndcg@10=0.052954 best_epoch=20
+variant=full epoch=021 loss=0.71920 bpr=0.68741 cl=3.17947 val_recall@10=0.110412 val_ndcg@10=0.055482 best_epoch=21
+variant=full epoch=022 loss=0.71805 bpr=0.68682 cl=3.12230 val_recall@10=0.116703 val_ndcg@10=0.058537 best_epoch=22
+variant=full epoch=023 loss=0.71698 bpr=0.68615 cl=3.08215 val_recall@10=0.121041 val_ndcg@10=0.060911 best_epoch=23
+variant=full epoch=024 loss=0.71580 bpr=0.68545 cl=3.03488 val_recall@10=0.126247 val_ndcg@10=0.063383 best_epoch=24
+variant=full epoch=025 loss=0.71472 bpr=0.68464 cl=3.00702 val_recall@10=0.131887 val_ndcg@10=0.065507 best_epoch=25
+variant=full epoch=026 loss=0.71354 bpr=0.68379 cl=2.97531 val_recall@10=0.137527 val_ndcg@10=0.068134 best_epoch=26
+variant=full epoch=027 loss=0.71248 bpr=0.68283 cl=2.96387 val_recall@10=0.144685 val_ndcg@10=0.070989 best_epoch=27
+variant=full epoch=028 loss=0.71116 bpr=0.68177 cl=2.93944 val_recall@10=0.148373 val_ndcg@10=0.072747 best_epoch=28
+variant=full epoch=029 loss=0.70987 bpr=0.68065 cl=2.92196 val_recall@10=0.150976 val_ndcg@10=0.074307 best_epoch=29
+variant=full epoch=030 loss=0.70830 bpr=0.67932 cl=2.89859 val_recall@10=0.154664 val_ndcg@10=0.076118 best_epoch=30
+variant=full epoch=031 loss=0.70676 bpr=0.67798 cl=2.87777 val_recall@10=0.156399 val_ndcg@10=0.077621 best_epoch=31
+variant=full epoch=032 loss=0.70529 bpr=0.67644 cl=2.88496 val_recall@10=0.159436 val_ndcg@10=0.079440 best_epoch=32
+variant=full epoch=033 loss=0.70387 bpr=0.67478 cl=2.90845 val_recall@10=0.162473 val_ndcg@10=0.080701 best_epoch=33
+variant=full epoch=034 loss=0.70169 bpr=0.67293 cl=2.87609 val_recall@10=0.163774 val_ndcg@10=0.081488 best_epoch=34
+variant=full epoch=035 loss=0.70002 bpr=0.67097 cl=2.90561 val_recall@10=0.166161 val_ndcg@10=0.082994 best_epoch=35
+variant=full epoch=036 loss=0.69780 bpr=0.66871 cl=2.90841 val_recall@10=0.167462 val_ndcg@10=0.084207 best_epoch=36
+variant=full epoch=037 loss=0.69547 bpr=0.66628 cl=2.91855 val_recall@10=0.170282 val_ndcg@10=0.085587 best_epoch=37
+variant=full epoch=038 loss=0.69296 bpr=0.66363 cl=2.93200 val_recall@10=0.172451 val_ndcg@10=0.086665 best_epoch=38
+variant=full epoch=039 loss=0.69053 bpr=0.66075 cl=2.97732 val_recall@10=0.174403 val_ndcg@10=0.087475 best_epoch=39
+variant=full epoch=040 loss=0.68738 bpr=0.65762 cl=2.97487 val_recall@10=0.175488 val_ndcg@10=0.088469 best_epoch=40
+variant=full epoch=041 loss=0.68469 bpr=0.65439 cl=3.02913 val_recall@10=0.177223 val_ndcg@10=0.089167 best_epoch=41
+variant=full epoch=042 loss=0.68082 bpr=0.65068 cl=3.01418 val_recall@10=0.177440 val_ndcg@10=0.089053 best_epoch=41
+variant=full epoch=043 loss=0.67738 bpr=0.64670 cl=3.06700 val_recall@10=0.179176 val_ndcg@10=0.089841 best_epoch=43
+variant=full epoch=044 loss=0.67298 bpr=0.64221 cl=3.07586 val_recall@10=0.179176 val_ndcg@10=0.089896 best_epoch=44
+variant=full epoch=045 loss=0.66910 bpr=0.63790 cl=3.11938 val_recall@10=0.178959 val_ndcg@10=0.090050 best_epoch=45
+variant=full epoch=046 loss=0.66415 bpr=0.63303 cl=3.11166 val_recall@10=0.178959 val_ndcg@10=0.090029 best_epoch=45
+variant=full epoch=047 loss=0.65948 bpr=0.62767 cl=3.18023 val_recall@10=0.181996 val_ndcg@10=0.090783 best_epoch=47
+variant=full epoch=048 loss=0.65445 bpr=0.62225 cl=3.21936 val_recall@10=0.183948 val_ndcg@10=0.091147 best_epoch=48
+variant=full epoch=049 loss=0.64896 bpr=0.61648 cl=3.24736 val_recall@10=0.183731 val_ndcg@10=0.091258 best_epoch=49
+variant=full epoch=050 loss=0.64292 bpr=0.61017 cl=3.27403 val_recall@10=0.184599 val_ndcg@10=0.091557 best_epoch=50
+variant=full epoch=051 loss=0.63717 bpr=0.60399 cl=3.31790 val_recall@10=0.184599 val_ndcg@10=0.091676 best_epoch=51
+variant=full epoch=052 loss=0.63047 bpr=0.59691 cl=3.35492 val_recall@10=0.186334 val_ndcg@10=0.092094 best_epoch=52
+variant=full epoch=053 loss=0.62383 bpr=0.59002 cl=3.37973 val_recall@10=0.185900 val_ndcg@10=0.091935 best_epoch=52
+variant=full epoch=054 loss=0.61641 bpr=0.58235 cl=3.40560 val_recall@10=0.185900 val_ndcg@10=0.091808 best_epoch=52
+variant=full epoch=055 loss=0.60964 bpr=0.57489 cl=3.47370 val_recall@10=0.187202 val_ndcg@10=0.092364 best_epoch=55
+variant=full epoch=056 loss=0.60183 bpr=0.56684 cl=3.49755 val_recall@10=0.187419 val_ndcg@10=0.092384 best_epoch=56
+variant=full epoch=057 loss=0.59433 bpr=0.55889 cl=3.54361 val_recall@10=0.187636 val_ndcg@10=0.092533 best_epoch=57
+variant=full epoch=058 loss=0.58705 bpr=0.55153 cl=3.55100 val_recall@10=0.187636 val_ndcg@10=0.092597 best_epoch=58
+variant=full epoch=059 loss=0.57815 bpr=0.54214 cl=3.59999 val_recall@10=0.187636 val_ndcg@10=0.092471 best_epoch=58
+variant=full epoch=060 loss=0.57009 bpr=0.53364 cl=3.64393 val_recall@10=0.187419 val_ndcg@10=0.092380 best_epoch=58
+variant=full epoch=061 loss=0.56244 bpr=0.52549 cl=3.69468 val_recall@10=0.187419 val_ndcg@10=0.092508 best_epoch=58
+variant=full epoch=062 loss=0.55384 bpr=0.51662 cl=3.72073 val_recall@10=0.187419 val_ndcg@10=0.092610 best_epoch=62
+variant=full epoch=063 loss=0.54530 bpr=0.50811 cl=3.71844 val_recall@10=0.188069 val_ndcg@10=0.092771 best_epoch=63
+variant=full epoch=064 loss=0.53612 bpr=0.49852 cl=3.75864 val_recall@10=0.187852 val_ndcg@10=0.092855 best_epoch=64
+variant=full epoch=065 loss=0.52824 bpr=0.49041 cl=3.78255 val_recall@10=0.187852 val_ndcg@10=0.092796 best_epoch=64
+variant=full epoch=066 loss=0.51983 bpr=0.48173 cl=3.80926 val_recall@10=0.187852 val_ndcg@10=0.092786 best_epoch=64
+variant=full epoch=067 loss=0.51192 bpr=0.47332 cl=3.85945 val_recall@10=0.187202 val_ndcg@10=0.092691 best_epoch=64
+variant=full epoch=068 loss=0.50264 bpr=0.46411 cl=3.85228 val_recall@10=0.186985 val_ndcg@10=0.092760 best_epoch=64
+variant=full epoch=069 loss=0.49526 bpr=0.45632 cl=3.89265 val_recall@10=0.186117 val_ndcg@10=0.092530 best_epoch=64
+variant=full epoch=070 loss=0.48650 bpr=0.44752 cl=3.89676 val_recall@10=0.185249 val_ndcg@10=0.092365 best_epoch=64
+variant=full epoch=071 loss=0.47956 bpr=0.44028 cl=3.92640 val_recall@10=0.186117 val_ndcg@10=0.092464 best_epoch=64
+variant=full epoch=072 loss=0.47146 bpr=0.43200 cl=3.94480 val_recall@10=0.185249 val_ndcg@10=0.092176 best_epoch=64
+variant=full epoch=073 loss=0.46317 bpr=0.42333 cl=3.98230 val_recall@10=0.185466 val_ndcg@10=0.092348 best_epoch=64
+variant=full epoch=074 loss=0.45542 bpr=0.41567 cl=3.97394 val_recall@10=0.185466 val_ndcg@10=0.092414 best_epoch=64
+variant=full epoch=075 loss=0.44946 bpr=0.40919 cl=4.02493 val_recall@10=0.186117 val_ndcg@10=0.092547 best_epoch=64
+variant=full epoch=076 loss=0.44123 bpr=0.40114 cl=4.00692 val_recall@10=0.185683 val_ndcg@10=0.092384 best_epoch=64
+variant=full epoch=077 loss=0.43358 bpr=0.39308 cl=4.04749 val_recall@10=0.185033 val_ndcg@10=0.092182 best_epoch=64
+variant=full epoch=078 loss=0.42717 bpr=0.38666 cl=4.04926 val_recall@10=0.185249 val_ndcg@10=0.092297 best_epoch=64
+variant=full epoch=079 loss=0.41987 bpr=0.37898 cl=4.08748 val_recall@10=0.185683 val_ndcg@10=0.092372 best_epoch=64
+variant=full epoch=080 loss=0.41323 bpr=0.37266 cl=4.05468 val_recall@10=0.185249 val_ndcg@10=0.092136 best_epoch=64
+variant=full epoch=081 loss=0.40679 bpr=0.36575 cl=4.10145 val_recall@10=0.185466 val_ndcg@10=0.092110 best_epoch=64
+variant=full epoch=082 loss=0.39863 bpr=0.35749 cl=4.11146 val_recall@10=0.185900 val_ndcg@10=0.092117 best_epoch=64
+variant=full epoch=083 loss=0.39240 bpr=0.35115 cl=4.12335 val_recall@10=0.185900 val_ndcg@10=0.092038 best_epoch=64
+variant=full epoch=084 loss=0.38709 bpr=0.34568 cl=4.13887 val_recall@10=0.185249 val_ndcg@10=0.091832 best_epoch=64
+variant=full early_stop epoch=84
+variant=full selected_epoch=64 test_recall@10=0.178998 test_ndcg@10=0.089356 elapsed=47.3s
+results/cl_weight_0.01/results.csv
